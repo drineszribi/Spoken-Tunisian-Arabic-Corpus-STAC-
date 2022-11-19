@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>MIC00001_mod_9</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Agent de la SNCFT">
+                <abbreviation>Agent de la SNCFT</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Clients">
+                <abbreviation>Clients</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="0.835531581090521" />
+            <tli id="T3" time="1.69249630344899" />
+            <tli id="T4" time="2.25577809268637" />
+            <tli id="T5" time="2.73496366277664" />
+            <tli id="T6" time="3.81577809268637" />
+            <tli id="T7" time="4.52062232543352" />
+            <tli id="T8" time="13.1504448922597" />
+            <tli id="T9" time="13.9684566726928" />
+            <tli id="T10" time="15.2409194422553" />
+            <tli id="T11" time="16.6821782934946" />
+            <tli id="T12" time="17.1625979105744" />
+            <tli id="T13" time="17.8847944281646" />
+            <tli id="T14" time="19.1442728837521" />
+            <tli id="T15" time="20.4037513393395" />
+            <tli id="T16" time="22.0397749002057" />
+            <tli id="T17" time="23.0135984483404" />
+            <tli id="T18" time="27.4647559139932" />
+            <tli id="T19" time="28.6852814276553" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Agent de la SNCFT" type="t" category="Default" display-name="Agent de la SNCFT">
+            <event start="T1" end="T2">حْدَاشْ وتْسَعْة مِيَّة</event>
+            <event start="T2" end="T3">شُوفْ لِي ألْفِينْ إنْتِي</event>
+            <event start="T3" end="T4">#</event>
+            <event start="T5" end="T6">#</event>
+            <event start="T6" end="T7">إسْتَنَى شْوَيَّة الصَرِفْ</event>
+            <event start="T7" end="T8">#</event>
+            <event start="T8" end="T9">بَاشْ تِسْتَنَى الصَرِفْ رَاهُو</event>
+            <event start="T10" end="T11">أيْه بَاشْ تَقْعِدْ تِسْتَنَى شْوَيَّة</event>
+            <event start="T11" end="T12">#</event>
+            <event start="T13" end="T14">#</event>
+            <event start="T14" end="T15">هَذِي خَمْسَة تَوْة نَعْطِيكْ البَاقِي</event>
+            <event start="T15" end="T16">#</event>
+            <event start="T17" end="T18">#</event>
+            <event start="T18" end="T19">بَاهِي خُوذْ هَذِي ثْنَاشْ</event>
+        </tier>
+        <tier id="TIE1" speaker="Clients" type="t" category="Default" display-name="Clients">
+            <event start="T3" end="T4">#</event>
+            <event start="T4" end="T5">لَا مَا عَنْدِيشْ</event>
+            <event start="T5" end="T6">#</event>
+            <event start="T7" end="T8">#</event>
+            <event start="T9" end="T10">أيْه عْطِيتِكْ عَشْرَة آنَا</event>
+            <event start="T11" end="T12">#</event>
+            <event start="T12" end="T13">آني نِسْتَنَى</event>
+            <event start="T13" end="T14">#</event>
+            <event start="T15" end="T16">#</event>
+            <event start="T16" end="T17">نَقَعْدُوا لِهْنَا مَا يْسَالِشْ</event>
+            <event start="T17" end="T18">#</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

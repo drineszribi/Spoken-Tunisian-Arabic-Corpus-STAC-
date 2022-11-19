@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>MIC00001_mod_34</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Agent de la SNCFT">
+                <abbreviation>Agent de la SNCFT</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Clients">
+                <abbreviation>Clients</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="0.803454752453263" />
+            <tli id="T3" time="1.60258932308795" />
+            <tli id="T4" time="1.95879066989835" />
+            <tli id="T5" time="2.28860673175984" />
+            <tli id="T6" time="3.26486227486998" />
+            <tli id="T7" time="4.0828061082866" />
+            <tli id="T8" time="5.16107975245325" />
+            <tli id="T9" time="5.96497482381119" />
+            <tli id="T10" time="6.68889225245323" />
+            <tli id="T11" time="7.05620475245325" />
+            <tli id="T12" time="8.22091668694395" />
+            <tli id="T13" time="9.03886052036057" />
+            <tli id="T14" time="9.61933678923685" />
+            <tli id="T15" time="10.4504732651279" />
+            <tli id="T16" time="12.2182873567058" />
+            <tli id="T17" time="13.4979736767285" />
+            <tli id="T18" time="17.166795234865" />
+            <tli id="T19" time="17.9451611408583" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Agent de la SNCFT" type="t" category="Default" display-name="Agent de la SNCFT">
+            <event start="T1" end="T2">مَرْحبَا</event>
+            <event start="T3" end="T4">مَرْحبَا</event>
+            <event start="T4" end="T5">#</event>
+            <event start="T6" end="T7">#</event>
+            <event start="T8" end="T9">#</event>
+            <event start="T9" end="T10">عَادِي</event>
+            <event start="T10" end="T11">#</event>
+            <event start="T11" end="T12">اِلْمَاضِي سَاعَة وأرْبَعَة عَادِي</event>
+            <event start="T12" end="T13">والثْلَاثَة [lan:FR, l'express]</event>
+            <event start="T13" end="T14">#</event>
+            <event start="T15" end="T16">#</event>
+            <event start="T17" end="T18">#</event>
+            <event start="T18" end="T19">أيَا بَابَا أيْ</event>
+        </tier>
+        <tier id="TIE1" speaker="Clients" type="t" category="Default" display-name="Clients">
+            <event start="T1" end="T2">سلام عليكم</event>
+            <event start="T2" end="T3">*</event>
+            <event start="T4" end="T5">#</event>
+            <event start="T5" end="T6">&lt;تُونِسْ, مك&gt; ÷آ</event>
+            <event start="T6" end="T7">#</event>
+            <event start="T7" end="T8">اِلْعَادِي ولَا [lan:FR, l'express]</event>
+            <event start="T8" end="T9">#</event>
+            <event start="T10" end="T11">#</event>
+            <event start="T13" end="T14">#</event>
+            <event start="T14" end="T15">اِلْمَاضِي سَاعَة وأرْبَعَة</event>
+            <event start="T15" end="T16">#</event>
+            <event start="T16" end="T17">[lan:FR, première classe]</event>
+            <event start="T17" end="T18">#</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

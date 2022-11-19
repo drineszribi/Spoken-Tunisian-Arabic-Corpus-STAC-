@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>MOSAIQUEFM-FORUM-08102012_partie1_1</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Amina">
+                <abbreviation>Amina</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Wissal">
+                <abbreviation>Wissal</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="2.81432201518294" />
+            <tli id="T3" time="4.09976909872067" />
+            <tli id="T4" time="7.22898876672665" />
+            <tli id="T5" time="7.5633560090703" />
+            <tli id="T6" time="8.78710644374207" />
+            <tli id="T7" time="13.9789888234056" />
+            <tli id="T8" time="14.1997221609828" />
+            <tli id="T9" time="16.9523967237101" />
+            <tli id="T10" time="17.147161433337" />
+            <tli id="T11" time="19.1739613690643" />
+            <tli id="T12" time="19.4562585034014" />
+            <tli id="T13" time="25.198683053524" />
+            <tli id="T14" time="25.4583693330265" />
+            <tli id="T15" time="27.5312471655329" />
+            <tli id="T16" time="28.5319376708343" />
+            <tli id="T17" time="35.166922112125" />
+            <tli id="T18" time="36.8728278996699" />
+            <tli id="T19" time="37.2020408163265" />
+            <tli id="T20" time="38.4439298906605" />
+            <tli id="T21" time="43.040377037856" />
+            <tli id="T22" time="43.3649848872342" />
+            <tli id="T23" time="51.4270241140725" />
+            <tli id="T24" time="53.0370790469884" />
+            <tli id="T25" time="53.3357182684164" />
+            <tli id="T26" time="54.6480272108844" />
+            <tli id="T27" time="58.4830907945709" />
+            <tli id="T28" time="58.6889115646259" />
+            <tli id="T29" time="60.9241418218951" />
+            <tli id="T30" time="61.1708437874225" />
+            <tli id="T31" time="62.8588046041892" />
+            <tli id="T32" time="63.0665536277913" />
+            <tli id="T33" time="65.0445065118779" />
+            <tli id="T34" time="65.2782241634302" />
+            <tli id="T35" time="68.589224227088" />
+            <tli id="T36" time="68.783988936715" />
+            <tli id="T37" time="72.9453741496599" />
+            <tli id="T38" time="76.5292970521542" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Amina" type="t" category="Default" display-name="Amina">
+            <event start="T1" end="T2">أهلا وسهلا. ومرحبا بكل  مستمعينا اللي اختاروا [lan:FR, les fréquences] متاعنا.</event>
+            <event start="T2" end="T3">هذا موعد جديد من فوروم.</event>
+            <event start="T3" end="T4">واليوم في فوروم نتحدثوا على الحالة النفسية لتوانسة.</event>
+            <event start="T4" end="T5">(تنفس)</event>
+            <event start="T5" end="T6">من شنو ينجموا يتشكاو.</event>
+            <event start="T6" end="T7">هل أنهم خايفين فرحانين قالقين متفائلين متشائمين مطمانين مفجوعين.</event>
+            <event start="T7" end="T8">(تنفس)</event>
+            <event start="T8" end="T9">شنوَة ينجم أيضا يأثر على نفسية ال- التوانسة.</event>
+            <event start="T9" end="T10">(تنفس)</event>
+            <event start="T10" end="T11">إن كان بالسلبي وإلا بالإجابي.</event>
+            <event start="T11" end="T12">(تنفس)</event>
+            <event start="T12" end="T13">مشاغل الحياة اليومية أوضاع البلاد الأجتماعية والإقتصادية وإلا الأحداث الوطنية والسياسية.</event>
+            <event start="T13" end="T14">(تنفس)</event>
+            <event start="T14" end="T15">هذا اللي نتحدثوا فيه اليوم في [lan:FR, forum]. وصال.</event>
+        </tier>
+        <tier id="TIE1" speaker="Wissal" type="t" category="Default" display-name="Wissal">
+            <event start="T15" end="T16">[lan:FR, effectivement] أمينة.</event>
+            <event start="T16" end="T17">عام ألفين وحداش مستشفى الرازي خرج تقرير السنوي متاعو معناتها متاع ألفين وعشرة ألفين وحداش.</event>
+            <event start="T17" end="T18">عدد [lan:FR, les consultations] في الرازي </event>
+            <event start="T18" end="T19">(تنفس)</event>
+            <event start="T19" end="T20">زادوا بالألاف.</event>
+            <event start="T20" end="T21">في عام من مية وعشرين ألف وصل لمية وثمانية وثلاثين ألف [lan:FR, consultations],</event>
+            <event start="T21" end="T22">(تنفس)</event>
+            <event start="T22" end="T23">نرجعوا شوية التالي  في ألفين وخمسة دراسة عن منظمة الصحة العالمية اللي ما خرجتش  وقتها الدراسة هذية حول الصحة النفسية لتوانسة.</event>
+            <event start="T23" end="T24">ظهرت أنو التونسي على أثنين</event>
+            <event start="T24" end="T25">(تنفس)</event>
+            <event start="T25" end="T26">عندو مشاكل نفسية.</event>
+            <event start="T26" end="T27">من نوع الإنهيار العصبي [lan:FR, depression] وإلا القلق [lan:FR, l'anexité]</event>
+            <event start="T27" end="T28">(تنفس)</event>
+            <event start="T28" end="T29">اليوم شنوا الحالة النفسية متاع التوانسة.</event>
+            <event start="T29" end="T30">(تنفس)</event>
+            <event start="T30" end="T31"> هل من تحليل علمي  ليها.</event>
+            <event start="T31" end="T32">(تنفس)</event>
+            <event start="T32" end="T33">وشنوة الحلول النفسية الممكنة.</event>
+            <event start="T33" end="T34">(تنفس)</event>
+            <event start="T34" end="T35"> ضيفنا اليوم دكتور &lt;لسعد قلال, شخ&gt; مختص في الطب النفسي.</event>
+            <event start="T35" end="T36">(تنفس)</event>
+            <event start="T36" end="T37">واحد وسبعين مية وثلتطاشن ألف على ذمتكم حتى الخمسة متاع العشية.</event>
+            <event start="T37" end="T38"> هات نسمعوكم شوية قبل ما نبداو. هذا [lan:FR, forum] مرحبا بيكم.</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

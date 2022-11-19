@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>MOSAIQUEFM-FORUM-210912_1</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Amina">
+                <abbreviation>Amina</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Wissal">
+                <abbreviation>Wissal</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="2.46276516439909" />
+            <tli id="T3" time="4.73603047052154" />
+            <tli id="T4" time="6.79151799886621" />
+            <tli id="T5" time="9.41518629525838" />
+            <tli id="T6" time="9.70351346371882" />
+            <tli id="T7" time="14.2280936752233" />
+            <tli id="T8" time="15.1221343424787" />
+            <tli id="T9" time="16.5398889940389" />
+            <tli id="T10" time="20.9805243659521" />
+            <tli id="T11" time="22.3906563208617" />
+            <tli id="T12" time="28.4762518968595" />
+            <tli id="T13" time="28.7619068043124" />
+            <tli id="T14" time="31.5225952729194" />
+            <tli id="T15" time="31.8103989080732" />
+            <tli id="T16" time="36.0813139172336" />
+            <tli id="T17" time="36.3560984977324" />
+            <tli id="T18" time="38.4042816679895" />
+            <tli id="T19" time="38.586062063331" />
+            <tli id="T20" time="41.6090610395924" />
+            <tli id="T21" time="41.7851644038437" />
+            <tli id="T22" time="45.3298821130024" />
+            <tli id="T23" time="45.5330145975057" />
+            <tli id="T24" time="46.4595174269102" />
+            <tli id="T25" time="46.6672664501576" />
+            <tli id="T26" time="49.2523922581663" />
+            <tli id="T27" time="55.3680041300116" />
+            <tli id="T28" time="55.6295614061246" />
+            <tli id="T29" time="62.5866347357376" />
+            <tli id="T30" time="68.1965344818943" />
+            <tli id="T31" time="73.8558524836511" />
+            <tli id="T32" time="74.0506171929455" />
+            <tli id="T33" time="78.3632803713459" />
+            <tli id="T34" time="78.6244204931973" />
+            <tli id="T35" time="80.1031784410428" />
+            <tli id="T36" time="80.3472776360544" />
+            <tli id="T37" time="83.9573910147392" />
+            <tli id="T38" time="84.2364613095238" />
+            <tli id="T39" time="86.7872602572513" />
+            <tli id="T40" time="98.1825646918891" />
+            <tli id="T41" time="98.4689102891157" />
+            <tli id="T42" time="102.073868295828" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Amina" type="t" category="Default" display-name="Amina">
+            <event start="T1" end="T2">أهلا وسهلا ومرحبا بيكم هذا فوروم جديد.</event>
+            <event start="T2" end="T3"> يبدا من توة ويتواصل حتى الخمسة متاع العشية.</event>
+            <event start="T3" end="T4"> نرحبوا بالنَاس الكل اللي اختاروا [lan:FR, les fréquences] متاعنا.</event>
+            <event start="T4" end="T5">واللي اختاروا باش يسمعونا على [lan:FR, site internet] متاعنا [mosaique fm ponit net].</event>
+            <event start="T5" end="T6">(تنفس)</event>
+            <event start="T6" end="T7">كالعادة نفس [lan:FR, l'équipe] ترافقكم على إمتداد سويعتين من زمان. في ميكرو معاكم &lt;أمينة, شخ&gt;. مرحبا &lt;وصال, شخ&gt;.</event>
+            <event start="T8" end="T9">معانا في [lan:FR, réalisation] &lt;سيف, شخ&gt;.</event>
+            <event start="T9" end="T10"> اليوم في ال- [lan:FR, standard] على واحد وسبعين مية وثلتطاشن ألف يتقبل مكالماتكم &lt;مكرم, شخ&gt;.</event>
+            <event start="T10" end="T11">في ال- [lan:FR, production] معانا &lt;جيهان, شخ&gt;.</event>
+            <event start="T11" end="T12">واليوم إن شا الله في فوروم نتحدثوا على التوقيت الإداري الجديد. اللي بدا تطبيقو في تونس بداية من نهار الأثنين اللي فات.</event>
+            <event start="T12" end="T13">(تنفس)</event>
+            <event start="T13" end="T14">واللي تبدا حصتو الأولى من ثمانية ونصف لنصف النهار ونصف.</event>
+            <event start="T14" end="T15">(تنفس)</event>
+            <event start="T15" end="T16">ساعة فطور وبعد تبدا الحصة المسائية اللي تكون من ماضي ساعة ونصف حتى الخمسة ونصف.</event>
+            <event start="T16" end="T17">(تنفس)</event>
+            <event start="T17" end="T18"> شنوَة الفايدة من التوقيت الشتوي الجديد هذاية.</event>
+            <event start="T18" end="T19">(تنفس)</event>
+            <event start="T19" end="T20">هل أنو مدروس على أي أساس تم اختيارو وتطبيقو.</event>
+            <event start="T20" end="T21">(تنفس)</event>
+            <event start="T21" end="T22">هل أنو يرجع بالنفع على العايلة التونسية خاصة اللي يكون فيها البو والأم</event>
+            <event start="T22" end="T23">(تنفس)</event>
+            <event start="T23" end="T24">الزوز يخدموا.</event>
+            <event start="T24" end="T25">(تنفس)</event>
+            <event start="T25" end="T26">وهل أنو بالفعل ينجم أيضا يحسن مردود الموظف.</event>
+            <event start="T26" end="T27">وإلا بالعكس (تنفس) هل أنو أيضا ينجم يرجع بالنفع على العمل في الإدارة التونسية وإلا بالعكس ينجم يعطلها.</event>
+            <event start="T27" end="T28">(تنفس)</event>
+            <event start="T28" end="T29">من توة [lan:FR, donc] تنجموا تكلمونا على واحد وسبعين مية وثلتطاشن ألف واحد وسبعين مية وثلتطاشن ألف. وإلا ابعثوا لنا [lan:FR, email] على [lan:FR, studio at mosaique point fm] ومرحبا بيكم.</event>
+        </tier>
+        <tier id="TIE1" speaker="Wissal" type="t" category="Default" display-name="Wissal">
+            <event start="T7" end="T8">مرحبا &lt;أمينة, شخ&gt;.</event>
+            <event start="T29" end="T30">[lan:FR, effectivement] &lt;أمينة, شخ&gt; جدل كبير على التوقيت الإداري الجديد خاصة داخل مناطق الجمهورية.</event>
+            <event start="T30" end="T31">علاش في سليانة سيدي بوزيد جربة وقبلي مثلا الموظفين إحتجوا على التوقيت الإداري الجديد.</event>
+            <event start="T31" end="T32">(تنفس)</event>
+            <event start="T32" end="T33">هل أنو التوقيت هذاية ما خذاش بالمجد بعين الاعتبار خصوصيات</event>
+            <event start="T33" end="T34">(تنفس)</event>
+            <event start="T34" end="T35"> الحياة اليومية متاع الجهات.</event>
+            <event start="T35" end="T36">(تنفس)</event>
+            <event start="T36" end="T37">هل أنو التوقيت يتماشى كان مع المدن الكبرى.</event>
+            <event start="T37" end="T38">(تنفس)</event>
+            <event start="T38" end="T39">هذا الكل [lan:FR, biensur] نعرفوه حتى الخمسة متاع العشية في فوروم.</event>
+            <event start="T39" end="T40">ضيوفنا اليوم &lt;نزار عمار الصغير, شخ&gt; مستشار المصالح العمومية بالوزارة الأولى وقاسم &lt;عفية, شخ&gt; عضو المكتب التنفيذي  بالإتحاد العام التونسي  لشغل مكلف بالعلاقات الخارجية.</event>
+            <event start="T40" end="T41">(تنفس)</event>
+            <event start="T41" end="T42">هذا شوية من أرائكم زادة يوصلنا على [lan:FR, répondeur] هذا فوروم على  موزاييك.</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

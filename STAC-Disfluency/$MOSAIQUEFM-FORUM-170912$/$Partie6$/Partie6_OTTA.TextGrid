@@ -1,0 +1,762 @@
+File type = "ooTextFile"
+Object class = "TextGrid"xmin = 0
+xmax = 197.942333333333
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "Wissal"
+        xmin = 0
+        xmax = 197.942333333333
+        intervals: size = 73
+        intervals [1]:
+            xmin = 0
+            xmax = 0.987141723356004
+            text = "[«Ì‰«”, ‘Œ]"
+        intervals [2]:
+            xmin = 0.987141723356004
+            xmax = 1.73879705215419
+            text = ""
+        intervals [3]:
+            xmin = 1.73879705215419
+            xmax = 3.84793537414965
+            text = "[lan:FR, oui] „—Õ»« »Ìﬂ [«Ì‰«”, ‘Œ] «‰ Ì “«œ… Ê·Ì…"
+        intervals [4]:
+            xmin = 3.84793537414965
+            xmax = 5.51988548752834
+            text = ""
+        intervals [5]:
+            xmin = 5.51988548752834
+            xmax = 6.49854761904761
+            text = "„‰Ì‰  ﬂ·„ ›Ì‰« [«Ì‰«”, ‘Œ]"
+        intervals [6]:
+            xmin = 6.49854761904761
+            xmax = 7.18176757369614
+            text = "#"
+        intervals [7]:
+            xmin = 7.18176757369614
+            xmax = 8.63217573696145
+            text = ""
+        intervals [8]:
+            xmin = 8.63217573696145
+            xmax = 12.8578446712018
+            text = "„—Õ»« »Ìﬂ ¬˜ ¬˜ «·—ƒÌ… ›Ì »⁄÷ «·„œ«—” Ê«·„⁄«Âœ ›Ì [ Ê‰”, „ﬂ]  "
+        intervals [9]:
+            xmin = 12.8578446712018
+            xmax = 18.5104297052154
+            text = "€Ì— Ê«÷Õ… ÊÂ–Ì… „«·‰Â«— «·«Ê· „⁄‰« Â« „‰ «·ÌÊ„ «·«Ê· „‰ «·⁄Êœ… «·„œ—”Ì… ‘‰Ê… —«Ìﬂ "
+        intervals [10]:
+            xmin = 18.5104297052154
+            xmax = 24.7511099773243
+            text = "ﬂÊ·Ì…  Ê‘‰Ê… “«œ… „„ﬂ‰ «·«‘ﬂ·«  «··Ì ⁄—÷Êﬂ «·ÌÊ„ ›Ì "
+        intervals [11]:
+            xmin = 24.7511099773243
+            xmax = 26.4478446712018
+            text = "«·‰Â«— «·«Ê·«‰Ì „ «⁄ [lan:FR, rentrÈe]"
+        intervals [12]:
+            xmin = 26.4478446712018
+            xmax = 26.7981621315193
+            text = "#"
+        intervals [13]:
+            xmin = 26.7981621315193
+            xmax = 44.3452289553245
+            text = ""
+        intervals [14]:
+            xmin = 44.3452289553245
+            xmax = 44.8694092970522
+            text = "«ÂÂ"
+        intervals [15]:
+            xmin = 44.8694092970522
+            xmax = 46.5957358276644
+            text = ""
+        intervals [16]:
+            xmin = 46.5957358276644
+            xmax = 47.1719036281179
+            text = "«ÂÂ"
+        intervals [17]:
+            xmin = 47.1719036281179
+            xmax = 51.8093866213152
+            text = ""
+        intervals [18]:
+            xmin = 51.8093866213152
+            xmax = 52.1036496598639
+            text = "«ÂÂ"
+        intervals [19]:
+            xmin = 52.1036496598639
+            xmax = 56.8596587301587
+            text = ""
+        intervals [20]:
+            xmin = 56.8596587301587
+            xmax = 57.3245566893424
+            text = "Ê«÷Õ"
+        intervals [21]:
+            xmin = 57.3245566893424
+            xmax = 66.5252369614512
+            text = ""
+        intervals [22]:
+            xmin = 66.5252369614512
+            xmax = 66.8926292517007
+            text = "«ÂÂ"
+        intervals [23]:
+            xmin = 66.8926292517007
+            xmax = 71.8299593924849
+            text = ""
+        intervals [24]:
+            xmin = 71.8299593924849
+            xmax = 72.3421530612245
+            text = "Ê«÷Õ"
+        intervals [25]:
+            xmin = 72.3421530612245
+            xmax = 75.3883888888889
+            text = ""
+        intervals [26]:
+            xmin = 75.3883888888889
+            xmax = 76.2719489795918
+            text = "«ÂÂ"
+        intervals [27]:
+            xmin = 76.2719489795918
+            xmax = 80.5270110284451
+            text = ""
+        intervals [28]:
+            xmin = 80.5270110284451
+            xmax = 80.8905718197487
+            text = "«ÂÂ"
+        intervals [29]:
+            xmin = 80.8905718197487
+            xmax = 85.1234581756406
+            text = ""
+        intervals [30]:
+            xmin = 85.1234581756406
+            xmax = 85.5908934787452
+            text = "Ê«÷Õ"
+        intervals [31]:
+            xmin = 85.5908934787452
+            xmax = 86.5111553287982
+            text = ""
+        intervals [32]:
+            xmin = 86.5111553287982
+            xmax = 86.8455317460317
+            text = "«ÂÂ"
+        intervals [33]:
+            xmin = 86.8455317460317
+            xmax = 96.6423571428571
+            text = ""
+        intervals [34]:
+            xmin = 96.6423571428571
+            xmax = 97.0142392290249
+            text = "Ê«÷Õ"
+        intervals [35]:
+            xmin = 97.0142392290249
+            xmax = 106.933731767928
+            text = ""
+        intervals [36]:
+            xmin = 106.933731767928
+            xmax = 107.347368480726
+            text = "«ÂÂ"
+        intervals [37]:
+            xmin = 107.347368480726
+            xmax = 110.515078231293
+            text = ""
+        intervals [38]:
+            xmin = 110.515078231293
+            xmax = 110.879001133787
+            text = "Ê«÷Õ"
+        intervals [39]:
+            xmin = 110.879001133787
+            xmax = 114.037844671202
+            text = ""
+        intervals [40]:
+            xmin = 114.037844671202
+            xmax = 114.495563534347
+            text = "Ê«÷Õ "
+        intervals [41]:
+            xmin = 114.495563534347
+            xmax = 117.170951247166
+            text = ""
+        intervals [42]:
+            xmin = 117.170951247166
+            xmax = 117.574716706827
+            text = "«ÂÂ"
+        intervals [43]:
+            xmin = 117.574716706827
+            xmax = 120.79875170068
+            text = ""
+        intervals [44]:
+            xmin = 120.79875170068
+            xmax = 121.230089569161
+            text = "Ê«÷Õ"
+        intervals [45]:
+            xmin = 121.230089569161
+            xmax = 121.663867833561
+            text = ""
+        intervals [46]:
+            xmin = 121.663867833561
+            xmax = 122.053397252815
+            text = "«ÂÂ"
+        intervals [47]:
+            xmin = 122.053397252815
+            xmax = 126.427753968254
+            text = ""
+        intervals [48]:
+            xmin = 126.427753968254
+            xmax = 127.225962585034
+            text = "Ê«÷Õ"
+        intervals [49]:
+            xmin = 127.225962585034
+            xmax = 127.639930839002
+            text = "Ê«÷Õ"
+        intervals [50]:
+            xmin = 127.639930839002
+            xmax = 130.730407029478
+            text = ""
+        intervals [51]:
+            xmin = 130.730407029478
+            xmax = 131.132425170068
+            text = "«ÂÂ"
+        intervals [52]:
+            xmin = 131.132425170068
+            xmax = 133.253944444444
+            text = ""
+        intervals [53]:
+            xmin = 133.253944444444
+            xmax = 133.68734257453
+            text = "«ÂÂ"
+        intervals [54]:
+            xmin = 133.68734257453
+            xmax = 143.572515873016
+            text = ""
+        intervals [55]:
+            xmin = 143.572515873016
+            xmax = 143.821382086168
+            text = "«ÂÂ"
+        intervals [56]:
+            xmin = 143.821382086168
+            xmax = 154.849477324263
+            text = ""
+        intervals [57]:
+            xmin = 154.849477324263
+            xmax = 158.145531746032
+            text = "«„„ „⁄‰« Â« Õ Ï „⁄·„ „⁄·„ „ƒﬁ  „⁄‰« Â« "
+        intervals [58]:
+            xmin = 158.145531746032
+            xmax = 159.160497732426
+            text = "ﬂ«‰ ‰Ã„Ê« ‰ﬁÊ·Ê«"
+        intervals [59]:
+            xmin = 159.160497732426
+            xmax = 164.634575256328
+            text = ""
+        intervals [60]:
+            xmin = 164.634575256328
+            xmax = 164.976733560091
+            text = "«ÂÂ"
+        intervals [61]:
+            xmin = 164.976733560091
+            xmax = 167.372674603175
+            text = ""
+        intervals [62]:
+            xmin = 167.372674603175
+            xmax = 167.634692743764
+            text = "«ÂÂ"
+        intervals [63]:
+            xmin = 167.634692743764
+            xmax = 174.100015519609
+            text = ""
+        intervals [64]:
+            xmin = 174.100015519609
+            xmax = 174.385670427022
+            text = "«ÂÂ"
+        intervals [65]:
+            xmin = 174.385670427022
+            xmax = 182.218479591837
+            text = ""
+        intervals [66]:
+            xmin = 182.218479591837
+            xmax = 182.581926303855
+            text = "«ÂÂ"
+        intervals [67]:
+            xmin = 182.581926303855
+            xmax = 188.642447200398
+            text = ""
+        intervals [68]:
+            xmin = 188.642447200398
+            xmax = 189.083913874034
+            text = "«ÂÂ"
+        intervals [69]:
+            xmin = 189.083913874034
+            xmax = 189.658806391684
+            text = "Ê«÷Õ"
+        intervals [70]:
+            xmin = 189.658806391684
+            xmax = 190.320089569161
+            text = ""
+        intervals [71]:
+            xmin = 190.320089569161
+            xmax = 191.099363945578
+            text = "Ê«÷Õ [«Ì‰«”, ‘Œ["
+        intervals [72]:
+            xmin = 191.099363945578
+            xmax = 194.123386358416
+            text = ""
+        intervals [73]:
+            xmin = 194.123386358416
+            xmax = 197.942333333333
+            text = "Ê«÷Õ «·’Ê—… ¬˜ ¬˜ Ê«÷Õ ‘ﬂ—« ·Ìﬂ [«Ì‰«” ,‘Œ]"
+    item [2]:
+        class = "IntervalTier"
+        name = "InËs"
+        xmin = 0
+        xmax = 197.942333333333
+        intervals: size = 113
+        intervals [1]:
+            xmin = 0
+            xmax = 0.987141723356004
+            text = ""
+        intervals [2]:
+            xmin = 0.987141723356004
+            xmax = 1.73879705215419
+            text = "«·Ê [lan:FR, oui]"
+        intervals [3]:
+            xmin = 1.73879705215419
+            xmax = 3.84793537414965
+            text = ""
+        intervals [4]:
+            xmin = 3.84793537414965
+            xmax = 4.92716439909297
+            text = "#"
+        intervals [5]:
+            xmin = 4.92716439909297
+            xmax = 5.51988548752834
+            text = "«ÌÌÂ"
+        intervals [6]:
+            xmin = 5.51988548752834
+            xmax = 7.18176757369614
+            text = ""
+        intervals [7]:
+            xmin = 7.18176757369614
+            xmax = 8.63217573696145
+            text = "«‰« „‰ ÕÌ [€“«·…, „ﬂ]"
+        intervals [8]:
+            xmin = 8.63217573696145
+            xmax = 26.7981621315193
+            text = ""
+        intervals [9]:
+            xmin = 26.7981621315193
+            xmax = 32.970066893424
+            text = "Ê«··Â ¬‰« ﬂ‰   Ê… ‰”„⁄ ›Ìﬂ„ ¬‰« ﬂ—ÊÕ  „‰ «·„ﬂ »  ‰Õ”«» «Õ‰« »—ﬂ… ·Â‰« «·ÌÊ„ —Ì‰« «·‘Ì Â–«ÌÂ"
+        intervals [10]:
+            xmin = 32.970066893424
+            xmax = 33.7978446712018
+            text = "#"
+        intervals [11]:
+            xmin = 33.7978446712018
+            xmax = 39.9997933603782
+            text = "Ì«ŒÌ »«·“Â— ‰”„⁄ ›Ì «·-  [lan:FR, sujet] [lan:FR, w suivant] «··Ì  ﬂ·„Ê« «·ﬂ·  «Õ‰« »Ìœ‰« «·ÌÊ„ „‘Ì‰«"
+        intervals [12]:
+            xmin = 39.9997933603782
+            xmax = 40.5739217687075
+            text = "#"
+        intervals [13]:
+            xmin = 40.5739217687075
+            xmax = 44.3452289553245
+            text = "‰·ﬁ«Ê [lan:FR, apparemment] «·„œÌ—  - ¬˜ Œ–« [lan:FR, des decisions]"
+        intervals [14]:
+            xmin = 44.3452289553245
+            xmax = 44.8694092970522
+            text = ""
+        intervals [15]:
+            xmin = 44.8694092970522
+            xmax = 46.5957358276644
+            text = "[lan:FR, meme pas] ‘«Ê— ›ÌÂ„ «·„⁄·„Ì‰"
+        intervals [16]:
+            xmin = 46.5957358276644
+            xmax = 47.1719036281179
+            text = ""
+        intervals [17]:
+            xmin = 47.1719036281179
+            xmax = 47.6692133329574
+            text = "#"
+        intervals [18]:
+            xmin = 47.6692133329574
+            xmax = 51.8093866213152
+            text = "Œ–« * «Õ‰« „” «‰”Ì‰ „«··Ì  Õÿ Ê·œﬂ ”‰… «Ê·Ï"
+        intervals [19]:
+            xmin = 51.8093866213152
+            xmax = 52.1036496598639
+            text = ""
+        intervals [20]:
+            xmin = 52.1036496598639
+            xmax = 56.8596587301587
+            text = "«·ﬁ”„ Â–«ﬂÂ «·ﬂ· Ì ⁄œÏ [lan:FR, 2eme annÈe 3eme annÈe] ›Â„  Ìÿ·⁄  [lan:FR, el classe] ﬂ«„· "
+        intervals [21]:
+            xmin = 56.8596587301587
+            xmax = 57.3245566893424
+            text = ""
+        intervals [22]:
+            xmin = 57.3245566893424
+            xmax = 57.8252823129252
+            text = "#"
+        intervals [23]:
+            xmin = 57.8252823129252
+            xmax = 60.7930827664399
+            text = "„⁄‰«Â« Õ Ï ¬‰« ‰Œ„„ [lan:FR, psychologie] „ «⁄ «·’€Ì—"
+        intervals [24]:
+            xmin = 60.7930827664399
+            xmax = 61.7795453514739
+            text = "#"
+        intervals [25]:
+            xmin = 61.7795453514739
+            xmax = 65.9451916099773
+            text = "„«‘Ì ¬‰« Ê·œÌ «·«Ì«„«  «·«Œ—… ÌﬁÊ· ·Ì Êﬁ «‘  Ê›Ï «·”·«⁄… »«‘ ‰„‘Ì ·’Õ«»Ì"
+        intervals [26]:
+            xmin = 65.9451916099773
+            xmax = 66.5252369614512
+            text = "#"
+        intervals [27]:
+            xmin = 66.5252369614512
+            xmax = 66.8926292517007
+            text = ""
+        intervals [28]:
+            xmin = 66.8926292517007
+            xmax = 71.8299593924849
+            text = "›Â„  „⁄‰«Â«  [lan:FR, dÈj‡] „«‘Ì »«‘ Ìﬁ«»· Â«ﬂ  [lan:FR, trentaine] «··Ì „” «‰” »ÌÂ„ ÂÊ"
+        intervals [29]:
+            xmin = 71.8299593924849
+            xmax = 72.3421530612245
+            text = ""
+        intervals [30]:
+            xmin = 72.3421530612245
+            xmax = 75.3883888888889
+            text = "‰·ﬁ«Ê «Õ‰« «··Ì ÂÊ ‘œ «·«ﬁ”«„ «·ﬂ·"
+        intervals [31]:
+            xmin = 75.3883888888889
+            xmax = 76.2719489795918
+            text = ""
+        intervals [32]:
+            xmin = 76.2719489795918
+            xmax = 79.1722437641723
+            text = "¬˜ œŒ·Â„ „⁄‰«Â« Â«“ “Ê“ „‰ Â‰« Õ«ÿÂ„ €«œÌ"
+        intervals [33]:
+            xmin = 79.1722437641723
+            xmax = 80.5270110284451
+            text = "¬˜ „⁄‰«Â« «·ﬁ”„"
+        intervals [34]:
+            xmin = 80.5270110284451
+            xmax = 80.8905718197487
+            text = ""
+        intervals [35]:
+            xmin = 80.8905718197487
+            xmax = 85.1234581756406
+            text = "[lan:FR, trente Èleves] ﬁ”„Ê« [lan:FR, par cinq par trois par quatre] „« ‰⁄—›‘ ﬂÌ›«Â"
+        intervals [36]:
+            xmin = 85.1234581756406
+            xmax = 85.5908934787452
+            text = "⁄·Ï"
+        intervals [37]:
+            xmin = 85.5908934787452
+            xmax = 86.5111553287982
+            text = "ﬂ· «·«ﬁ”«„"
+        intervals [38]:
+            xmin = 86.5111553287982
+            xmax = 86.8455317460317
+            text = ""
+        intervals [39]:
+            xmin = 86.8455317460317
+            xmax = 87.4275272108844
+            text = "#"
+        intervals [40]:
+            xmin = 87.4275272108844
+            xmax = 88.2913191736233
+            text = "«·„⁄·„Ì‰"
+        intervals [41]:
+            xmin = 88.2913191736233
+            xmax = 88.5120525112004
+            text = "#"
+        intervals [42]:
+            xmin = 88.5120525112004
+            xmax = 91.1528292552528
+            text = "ﬁ«· ÂÊ [lan:FR, apparemment] «·„⁄·„Ì‰ ÿ·»Ê« Â–«ﬂÂ"
+        intervals [43]:
+            xmin = 91.1528292552528
+            xmax = 91.5683273024569
+            text = "#"
+        intervals [44]:
+            xmin = 91.5683273024569
+            xmax = 93.6588018524526
+            text = "»«ÂÌ Â–Ì «‘ﬂ«·Ì… „« ÂÌ«‘ ﬂ»Ì—… «„«"
+        intervals [45]:
+            xmin = 93.6588018524526
+            xmax = 94.0742998996567
+            text = "#"
+        intervals [46]:
+            xmin = 94.0742998996567
+            xmax = 96.6423571428571
+            text = "ﬂ»Ì—… »«·‰”»… ·Ì‰« «Õ‰« «·«Ê·Ì«¡ Œ«ÿ— ’€«—‰«  ’œ„Ê«"
+        intervals [47]:
+            xmin = 96.6423571428571
+            xmax = 97.0142392290249
+            text = ""
+        intervals [48]:
+            xmin = 97.0142392290249
+            xmax = 97.7168696145125
+            text = "#"
+        intervals [49]:
+            xmin = 97.7168696145125
+            xmax = 103.493286848073
+            text = "Ã« ÂÊ ﬂ‰« ﬂ- [lan:FR, apparemment les classes]  „⁄‰«Â« [lan:FR, troisiËme annÈe] Ì»œ«Ê À„…  [lan:FR, cinq six]"
+        intervals [50]:
+            xmin = 103.493286848073
+            xmax = 104.10315132135
+            text = "#"
+        intervals [51]:
+            xmin = 104.10315132135
+            xmax = 106.645304988662
+            text = "À„… [lan:FR, trois] ÌœŒ·Ê« «·’»«Õ [lan:FR, w trois] ÌœŒ·Ê« «·⁄‘Ì…"
+        intervals [52]:
+            xmin = 106.645304988662
+            xmax = 107.347368480726
+            text = ""
+        intervals [53]:
+            xmin = 107.347368480726
+            xmax = 110.515078231293
+            text = "»«‘ «·„⁄·„Ì‰ »ÌœÂ„ Ì«ﬁÏ ⁄‰œÊ Êﬁ  »«‘ Ìﬁ—Ì Â‰« ÊÂ‰«"
+        intervals [54]:
+            xmin = 110.515078231293
+            xmax = 110.879001133787
+            text = ""
+        intervals [55]:
+            xmin = 110.879001133787
+            xmax = 114.037844671202
+            text = "Ã« ÂÊ Õÿ [lan:FR, les classes premiÈre annÈe] ﬂ· ÌœŒ·Ê« „À·« «·À„‰Ì…"
+        intervals [56]:
+            xmin = 114.037844671202
+            xmax = 114.495563534347
+            text = ""
+        intervals [57]:
+            xmin = 114.495563534347
+            xmax = 114.885092953601
+            text = "#"
+        intervals [58]:
+            xmin = 114.885092953601
+            xmax = 117.170951247166
+            text = " [lan:FR, les quatriÈme annÈe] «·ﬂ· ÌœŒ·Ê« «·„«÷Ì ”«⁄…"
+        intervals [59]:
+            xmin = 117.170951247166
+            xmax = 117.574716706827
+            text = ""
+        intervals [60]:
+            xmin = 117.574716706827
+            xmax = 118.029167695957
+            text = "#"
+        intervals [61]:
+            xmin = 118.029167695957
+            xmax = 120.79875170068
+            text = "«Õ‰« œŒ·‰« «·ÌÊ„ ‰·ﬁ«Ê «·„⁄·„Ì‰ Œ«Ì÷Ì‰"
+        intervals [62]:
+            xmin = 120.79875170068
+            xmax = 121.230089569161
+            text = ""
+        intervals [63]:
+            xmin = 121.230089569161
+            xmax = 121.663867833561
+            text = "›Ì «·”«Õ…"
+        intervals [64]:
+            xmin = 121.663867833561
+            xmax = 122.053397252815
+            text = ""
+        intervals [65]:
+            xmin = 122.053397252815
+            xmax = 126.427753968254
+            text = "«·- [lan:FR, dÈj‡] ÂÊ„« Ì ⁄«—ﬂÊ« „⁄ «·„œÌ— Œ«ÿ— „« Œ–«‘ —«ÌÂ„"
+        intervals [66]:
+            xmin = 126.427753968254
+            xmax = 127.225962585034
+            text = "›Ì [lan:FR, dÈcision]"
+        intervals [67]:
+            xmin = 127.225962585034
+            xmax = 127.639930839002
+            text = ""
+        intervals [68]:
+            xmin = 127.639930839002
+            xmax = 128.052150309324
+            text = "#"
+        intervals [69]:
+            xmin = 128.052150309324
+            xmax = 130.730407029478
+            text = "«Õ‰« „œÌ—‰« ﬂ «ﬁ› «‰ Ì Ê·Ì… »«‘  ÕﬂÌ „⁄«Â"
+        intervals [70]:
+            xmin = 130.730407029478
+            xmax = 131.132425170068
+            text = ""
+        intervals [71]:
+            xmin = 131.132425170068
+            xmax = 132.261314058957
+            text = "„« Ì”„⁄ﬂ‘ „« Ìﬂ·„ﬂ‘"
+        intervals [72]:
+            xmin = 132.261314058957
+            xmax = 133.253944444444
+            text = "#"
+        intervals [73]:
+            xmin = 133.253944444444
+            xmax = 133.68734257453
+            text = "⁄‰œÊ"
+        intervals [74]:
+            xmin = 133.68734257453
+            xmax = 137.950847052496
+            text = "[lan:FR, une faÁon de parler] „« „« „«  ‰Ã„‘ Õ Ï »«‘  ”√·Ê ”«⁄«  ⁄·Ï Õ«Ã… „ «⁄ Ê·œﬂ"
+        intervals [75]:
+            xmin = 137.950847052496
+            xmax = 138.327392157775
+            text = "#"
+        intervals [76]:
+            xmin = 138.327392157775
+            xmax = 140.586662789447
+            text = "„« Ìﬂ·„ﬂ‘ „« ÌÕﬂÌ‘ „⁄ﬂ «’·«"
+        intervals [77]:
+            xmin = 140.586662789447
+            xmax = 140.859333382925
+            text = "#"
+        intervals [78]:
+            xmin = 140.859333382925
+            xmax = 143.225486394558
+            text = "ÿ·⁄ ﬂÌ› ﬂÌ› Õ Ï „⁄ «·„⁄·„Ì‰ ﬂÌ› ﬂÌ›"
+        intervals [79]:
+            xmin = 143.225486394558
+            xmax = 143.572515873016
+            text = "#"
+        intervals [80]:
+            xmin = 143.572515873016
+            xmax = 146.05802000587
+            text = "«·ÌÊ„ «·„⁄·„Ì‰  ›«Ã∆‰« «··Ì Õ Ï"
+        intervals [81]:
+            xmin = 146.05802000587
+            xmax = 146.5644082509
+            text = "#"
+        intervals [82]:
+            xmin = 146.5644082509
+            xmax = 151.327663265306
+            text = "[lan:FR, el fourniture] ﬁ«· ·Â„ „« ‰Ã„‘ ‰⁄ÿÌﬂ„ «‰« [lan:FR, les couleurs] „ «⁄ [lan:FR, les protËges cahiers]  "
+        intervals [83]:
+            xmin = 151.327663265306
+            xmax = 153.964851473923
+            text = "Œ«ÿ— «‰« „« ‰÷„‰‘ »«‘ ‰ﬁ⁄œ ‰ﬁ—Ìﬂ„ Ê·«"
+        intervals [84]:
+            xmin = 153.964851473923
+            xmax = 154.849477324263
+            text = " #"
+        intervals [85]:
+            xmin = 154.849477324263
+            xmax = 158.145531746032
+            text = ""
+        intervals [86]:
+            xmin = 158.145531746032
+            xmax = 159.160497732426
+            text = "„⁄·„"
+        intervals [87]:
+            xmin = 159.160497732426
+            xmax = 161.375824628553
+            text = " ’ÕÌ  „ƒﬁ  Õ Ï ›Ì «·„⁄·„Ì‰"
+        intervals [88]:
+            xmin = 161.375824628553
+            xmax = 161.804306989732
+            text = "#"
+        intervals [89]:
+            xmin = 161.804306989732
+            xmax = 164.634575256328
+            text = "Ã« „⁄·„Ì‰ „ «⁄ ‰⁄—›ÊÂ„ «Õ‰« ”‰… «Ê·Ï"
+        intervals [90]:
+            xmin = 164.634575256328
+            xmax = 164.976733560091
+            text = ""
+        intervals [91]:
+            xmin = 164.976733560091
+            xmax = 165.439602722786
+            text = " #"
+        intervals [92]:
+            xmin = 165.439602722786
+            xmax = 166.497821995465
+            text = "Ã« ⁄ÿÏ ”‰… —«»⁄…"
+        intervals [93]:
+            xmin = 166.497821995465
+            xmax = 167.372674603175
+            text = "#"
+        intervals [94]:
+            xmin = 167.372674603175
+            xmax = 167.634692743764
+            text = ""
+        intervals [95]:
+            xmin = 167.634692743764
+            xmax = 168.743785714286
+            text = " #"
+        intervals [96]:
+            xmin = 168.743785714286
+            xmax = 173.038856578157
+            text = "„⁄‰«Â« [lan:FR, des collËgues] „⁄«Â ›Ì «·„œ—”… Ã«Ê‰« «·ÌÊ„ ﬁ«·Ê« ·‰« „«  ”ﬂ Ê‘ ⁄·Ï Õﬁ «Ê·«œÂ„"
+        intervals [97]:
+            xmin = 173.038856578157
+            xmax = 173.350480113561
+            text = "#"
+        intervals [98]:
+            xmin = 173.350480113561
+            xmax = 173.843884044615
+            text = " ﬂ·„Ê«"
+        intervals [99]:
+            xmin = 173.843884044615
+            xmax = 174.100015519609
+            text = "#"
+        intervals [100]:
+            xmin = 174.100015519609
+            xmax = 174.385670427022
+            text = ""
+        intervals [101]:
+            xmin = 174.385670427022
+            xmax = 176.609542921318
+            text = "Œ«ÿ— „⁄·„ Â«Ê »«‘ ÌŒ—Ã [lan:FR, retraite] «·”‰…"
+        intervals [102]:
+            xmin = 176.609542921318
+            xmax = 177.025040968522
+            text = "#"
+        intervals [103]:
+            xmin = 177.025040968522
+            xmax = 180.370883219955
+            text = "„Ã«„·… „‰Ê Ê·« „- „- «’Õ«» ÂÊ ÊÌ«ÂÊ·« „« ‰⁄—›‘"
+        intervals [104]:
+            xmin = 180.370883219955
+            xmax = 181.330452380952
+            text = "Ìﬂ„· ”‰… —«»⁄…"
+        intervals [105]:
+            xmin = 181.330452380952
+            xmax = 182.218479591837
+            text = "#  "
+        intervals [106]:
+            xmin = 182.218479591837
+            xmax = 182.581926303855
+            text = ""
+        intervals [107]:
+            xmin = 182.581926303855
+            xmax = 183.145191609977
+            text = "#  "
+        intervals [108]:
+            xmin = 183.145191609977
+            xmax = 188.642447200398
+            text = "„⁄·„…  „ «⁄ ”‰… «Ê·Ï Õ«ÿÿÂ« ﬁ«· ·Â« ⁄«„‰ «Ê· [lan:FR, provisoire] ﬁ—Ì ·Ì ”‰… «Ê·Ï ÂÌ  ﬁ—Ì À«·À… ÊŒ«„”…  "
+        intervals [109]:
+            xmin = 188.642447200398
+            xmax = 189.658806391684
+            text = ""
+        intervals [110]:
+            xmin = 189.658806391684
+            xmax = 191.099363945578
+            text = "Ê⁄œÂ« «·”‰… »«‘  ﬁ-"
+        intervals [111]:
+            xmin = 191.099363945578
+            xmax = 192.304023728792
+            text = "”‰… À«·À… Â“  —ÊÕÂ« Ê—ÊÕ "
+        intervals [112]:
+            xmin = 192.304023728792
+            xmax = 194.320724489796
+            text = "Œ·«  «· ·«„–… ﬁ«·  ·Ê „« ‰ﬁ—Ì‘ ”‰… «Ê·Ï"
+        intervals [113]:
+            xmin = 194.320724489796
+            xmax = 197.942333333333
+            text = ""

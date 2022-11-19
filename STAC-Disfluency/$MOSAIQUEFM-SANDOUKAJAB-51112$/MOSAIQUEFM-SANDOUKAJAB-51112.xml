@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>MOSAIQUEFM-SANDOUKAJAB-51112</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Speaker1">
+                <abbreviation>Speaker1</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Speaker2">
+                <abbreviation>Speaker2</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Speaker3">
+                <abbreviation>Speaker3</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Speaker4">
+                <abbreviation>Speaker4</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Speaker5">
+                <abbreviation>Speaker5</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Speaker6">
+                <abbreviation>Speaker6</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Speaker7">
+                <abbreviation>Speaker7</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="5.46208893093661" />
+            <tli id="T3" time="15.2637121178649" />
+            <tli id="T4" time="16.5621435124495" />
+            <tli id="T5" time="19.4976485260771" />
+            <tli id="T6" time="19.8096485260771" />
+            <tli id="T7" time="21.2496485260771" />
+            <tli id="T8" time="21.4576485260771" />
+            <tli id="T9" time="33.5679087929144" />
+            <tli id="T10" time="34.9052931293365" />
+            <tli id="T11" time="41.5376485260771" />
+            <tli id="T12" time="41.8096485260771" />
+            <tli id="T13" time="43.8493303249658" />
+            <tli id="T14" time="45.1217930945284" />
+            <tli id="T15" time="49.6256485260771" />
+            <tli id="T16" time="49.9136485260771" />
+            <tli id="T17" time="57.3632508657334" />
+            <tli id="T18" time="58.590579946506" />
+            <tli id="T19" time="62.3949839412186" />
+            <tli id="T20" time="64.7376485260771" />
+            <tli id="T21" time="64.9536485260771" />
+            <tli id="T22" time="74.3216485260771" />
+            <tli id="T23" time="74.6256485260771" />
+            <tli id="T24" time="85.2896485260771" />
+            <tli id="T25" time="85.5376485260771" />
+            <tli id="T26" time="86.3856485260771" />
+            <tli id="T27" time="86.8016485260771" />
+            <tli id="T28" time="90.9696485260771" />
+            <tli id="T29" time="91.3696485260771" />
+            <tli id="T30" time="104.529166037821" />
+            <tli id="T31" time="105.710738609558" />
+            <tli id="T32" time="106.737648526077" />
+            <tli id="T33" time="107.081648526077" />
+            <tli id="T34" time="117.106657056333" />
+            <tli id="T35" time="118.421162567894" />
+            <tli id="T36" time="119.593648526077" />
+            <tli id="T37" time="119.969648526077" />
+            <tli id="T38" time="127.177648526077" />
+            <tli id="T39" time="127.377648526077" />
+            <tli id="T40" time="130.997208898228" />
+            <tli id="T41" time="134.699297052154" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Speaker1" type="t" category="Default" display-name="Speaker1">
+            <event start="T1" end="T2">musique</event>
+            <event start="T2" end="T3">[lan:MSA, نِدَاءْ] لِكُلْ النَاسْ والتْوَانْسَة الْلِي يِرْكْبُوا فِي المِتْرُو. يِتْعَلْمُوا شْوَيَّة. ويِتْنَظْمُوا. يْخَلِيوْ كِي- يَا- يَاقِفْ المِتْرُو. يْخَلِيوْ العْبَادْ تَهْبَطْ. وْبَعِدْ هُومَا يَطْلعُوا.</event>
+            <event start="T3" end="T4">musique</event>
+        </tier>
+        <tier id="TIE1" speaker="Speaker2" type="t" category="Default" display-name="Speaker2">
+            <event start="T3" end="T4">musique</event>
+            <event start="T4" end="T5">بْرَبِي آ÷ الحُجَاجْ مْتَاعْنَا اللِي مْشَاوْ لْبِيتْ رَبِي.</event>
+            <event start="T5" end="T6">#</event>
+            <event start="T6" end="T7">بالله تَوَّة هُوَ الْحِجْ شَقَاءْ.</event>
+            <event start="T7" end="T8">#</event>
+            <event start="T8" end="T9">الْحِجْ هُوَ شَقَاءْ. تَوَّة مَاشِي غَادِي. باللهِ تْحِبْ تِلْقَى رُوحِكْ فِي- ي- بِيتْ رَبِي. تْحِبْ تِلْقَى رُوحِكْ كُلْ شَيْ تَعْمْلُو غَادِي. تِي مَا هُو شْوَيَّة تْعَبْ. يَاخِي هُوَ هَكَّاكَة. تِي عْبَادْ كَانِتْ قْبَلْ تِمْشِي عَالْبْهَايِمْ وعْلَى سَاقِيهَا. واللِي مَا يْنَجِمَشْ مَا يِمْشْيشْ. يْخَلِي غِيرُو يَمْشِي.</event>
+            <event start="T9" end="T10">musique</event>
+        </tier>
+        <tier id="TIE2" speaker="Speaker3" type="t" category="Default" display-name="Speaker3">
+            <event start="T9" end="T10">musique</event>
+            <event start="T10" end="T11">صْبَاحْ اِلْخِيرْ. بْرَبِي بْرَبِي عَدِيوْ لِي صُوتِي. آنَا تَوَّة مَا زِلِتْ كِدْخَلِتْ مِنْ المَرشِي. رَاهِي الدِنْيَا نَارْ نَارْ نَارْ.</event>
+            <event start="T11" end="T12">#</event>
+            <event start="T12" end="T13">المُوَاطِنْ مَا عَادِشْ يِلْقَى آشْ بَاشْ  يَاكِلْ.</event>
+            <event start="T13" end="T14">musique</event>
+        </tier>
+        <tier id="TIE3" speaker="Speaker4" type="t" category="Default" display-name="Speaker4">
+            <event start="T13" end="T14">musique</event>
+            <event start="T14" end="T15">بْرَبِي بْرَبِي بْرَبِي وَصْلُوا لِي صُوتِي لْهَاكَة لُوخَيَاتْ الزُوزُ هَاذُوكُمْ. هَاكَة الزُوزُ الأُخْوَة</event>
+            <event start="T15" end="T16">#</event>
+            <event start="T16" end="T17">سِي &lt;علاء الشابي, شخ&gt; وسِي الآخِرْ &lt;الشابي, شخ&gt; مْتَاعْهُمْ. مَا لْقَاوْشِي بَرْنَامِجْ مَا خِيرْ مِنْ هَكَّاكَة مَا أرْفَعْ مِنْ هَكَّاكَة. العْبَادْ سَوْدُوا لْهَا قْلُوبْهَا.</event>
+            <event start="T17" end="T18">musique</event>
+        </tier>
+        <tier id="TIE4" speaker="Speaker5" type="t" category="Default" display-name="Speaker5">
+            <event start="T17" end="T18">musique</event>
+            <event start="T18" end="T19">آنَا مُوَاطْنَة عَادِيَة. لَا نِفْهِمْ فِي السِيَاسَة. لَا نِفْهِمْ فِي الاقْتِصَادْ.</event>
+            <event start="T19" end="T20">أمَا نِفْهِمْ فِي الحَيَاةْ الإجْتِمَاعِيَة.</event>
+            <event start="T20" end="T21">#</event>
+            <event start="T21" end="T22">[lan:FR, vu] اللِي آنَا عُمْرِي خَمْسِينْ سْنَة. وعِشْت فِي جِيلْ قْبَلْ اللِي النَاسْ تِرْحَمْ فِي بْعَضْهَا. ونَاخِذْ مِثَالْ. حَتَّى اِلْعِيدْ اِلْكْبِيرْ كِيفْ اللِي مَا يِشْرِيشْ عَلُوشْ كِيفْ اللِي يِشْرِي عَلُوشْ. </event>
+            <event start="T22" end="T23">#</event>
+            <event start="T23" end="T24">جِيرَانْ كُلْ اللِي مَا يِشْرِيشْ. يِتْعَاوْنُوا بِشْطَرْ رَاسْ بِالْعُصْبَانْ بِاللحَمْ. وِالنَاسْ الكُلْ يْبَاتُوا مَاكْلِينْ شَارْبِينْ. وآنَا تَوَّة عَايْشَة فِي جِيلْ اليُومْ اللِي وْصِلْ الجَارْ مَا عَادِشْ يَعْرِفْ إسِمْ</event>
+            <event start="T24" end="T25">#</event>
+            <event start="T25" end="T26">إسِمْ جَارُو. [lan:FR, donc] </event>
+            <event start="T26" end="T27">#</event>
+            <event start="T27" end="T28">مَا عَادْ حَدْ يِسَلِفْ حَدْ. ولَا عَادْ حَدْ يْعَاوْنِ حَدْ. المُوَاطِنْ العَادِي.</event>
+            <event start="T28" end="T29">#</event>
+            <event start="T29" end="T30">البْسِيطْ اللِي كِيفْ حَالِي. كِيفْ تِضْيَاقْ بِينَا الدِنْيَا نِمْشِيوْ لِلْبَانْكَة نَاخْذُوا قَرْضْ. وِاليُومْ كِيفْ يِتْنَحَاوْ القْرُوضَاتْ ويِتْنَحَى ال   .[lan:FR, rouge] بَاشْ بِشْ  نِشْرِيوْ الدْوَايْاتْ. خَلِينَا مِنْ المَاكْلَة بَاشْ بِشْ  نِشْرِيوْ الدْوَايْاتْ.  بَاشْ بِشْ  نْلَبْسُوا أَوِلَادْنَا حَتَّى مِنْ الفْرِيبْ.</event>
+            <event start="T30" end="T31">musique</event>
+        </tier>
+        <tier id="TIE5" speaker="Speaker6" type="t" category="Default" display-name="Speaker6">
+            <event start="T30" end="T31">musique</event>
+            <event start="T31" end="T32">عَالسْلَامَة صَنْدُوقْ عْجَبْ.</event>
+            <event start="T32" end="T33">#</event>
+            <event start="T33" end="T34">بِاللهِ رَدْ عْلَى هَاكَة السَيِّدْ اللِي قُول هَازِزْ مَرْتِي بَاشْ تِتْعَلِمْ ال .[lan:FR, code]-يندرا بَاشْ تع- تْعَدِي دُكْتُورَا ولَا شْنُوَة. مْرَا خَاصَةً كَانْ جَاتْ الدِنْيَا دِنْيَا مَا تَاخُذوشْ ال [lan:FR, permis] خْلَاصْ. بْجَاهْ رَبِي يَا [lan:FR, mosaique] وَصْلُوهَا.</event>
+            <event start="T34" end="T35">musique</event>
+        </tier>
+        <tier id="TIE6" speaker="Speaker7" type="t" category="Default" display-name="Speaker7">
+            <event start="T34" end="T35">musique</event>
+            <event start="T35" end="T36">بْرَبِي آنَا مِنْ &lt;بنزرت, مك&gt;.</event>
+            <event start="T36" end="T37">#</event>
+            <event start="T37" end="T38">مُوَاطْنَة نْحِبْ يعيش أُخْتِي نِتْكَلِمْ عَالزِبْلَة. عْلَاهْ هَكَّة رَئِيسْ البَلَدِيَة حَاطُوهْ مُؤَقِتْ. إيه كِمُؤَقِتْ مَا هُو يَاخِذْ فِي شَهْرِيَة رَاسْ الشْهَرْ.</event>
+            <event start="T38" end="T39">#</event>
+            <event start="T39" end="T40">عْلَاهْ خَلُونَا هَكَّة. بْلَادْنَا خَامْجَة. إِيجَا شُوفُوا الكُورْنٍيشْ. وْإِيجَا شُوفُوا الزْبِلْ.</event>
+            <event start="T40" end="T41">musique</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

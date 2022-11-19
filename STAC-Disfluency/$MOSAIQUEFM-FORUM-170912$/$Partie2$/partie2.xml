@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>partie2</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Sp1">
+                <abbreviation>Sp1</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp2">
+                <abbreviation>Sp2</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp3">
+                <abbreviation>Sp3</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp4">
+                <abbreviation>Sp4</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp5">
+                <abbreviation>Sp5</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp6">
+                <abbreviation>Sp6</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp7">
+                <abbreviation>Sp7</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="1.61278911564626" />
+            <tli id="T3" time="3.61079365079365" />
+            <tli id="T4" time="6.56789115646259" />
+            <tli id="T5" time="7.85315192743764" />
+            <tli id="T6" time="8.51768707482993" />
+            <tli id="T7" time="10.4944430506304" />
+            <tli id="T8" time="13.0812925170068" />
+            <tli id="T9" time="18.1312052980132" />
+            <tli id="T10" time="18.9392582781457" />
+            <tli id="T11" time="21.2072562358277" />
+            <tli id="T12" time="24.0965079365079" />
+            <tli id="T13" time="25.3621178905236" />
+            <tli id="T14" time="28.2372108843537" />
+            <tli id="T15" time="30.4553968253968" />
+            <tli id="T16" time="31.518253968254" />
+            <tli id="T17" time="33.687052154195" />
+            <tli id="T18" time="34.4645578231293" />
+            <tli id="T19" time="35.9046144608741" />
+            <tli id="T20" time="36.6770692486626" />
+            <tli id="T21" time="37.3003163190047" />
+            <tli id="T22" time="38.6247163434817" />
+            <tli id="T23" time="39.4297438093402" />
+            <tli id="T24" time="41.6258049886621" />
+            <tli id="T25" time="42.8576026962216" />
+            <tli id="T26" time="45.6680498866213" />
+            <tli id="T27" time="46.5163718820862" />
+            <tli id="T28" time="49.0086394557823" />
+            <tli id="T29" time="50.6225623582766" />
+            <tli id="T30" time="51.6038321995465" />
+            <tli id="T31" time="56.2490476190476" />
+            <tli id="T32" time="58.3639909297052" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Sp1" type="t" category="Default" display-name="Sp1">
+            <event start="T1" end="T2">آنا أستاذة تعليم ثانوي.</event>
+            <event start="T2" end="T3">[lan:FR, malhereusement] اليوم [lan:FR, le dix sept septembre].</event>
+            <event start="T3" end="T4">[lan:FR, le dix sept septembre] وآنا لتوة ما عندي حتى جدول أوقات.</event>
+            <event start="T4" end="T5">وما نعرفش على روحي كيفاش نخدم.</event>
+            <event start="T5" end="T6">ووقتاش نخدم.</event>
+            <event start="T6" end="T7">شنوما [lan:FR, les niveaux] اللي باش نقريوهم.</event>
+            <event start="T7" end="T8">بربي بربي بربي كلموني. راني نحب نشارك.</event>
+            <event start="T8" end="T9">بخلاف ما نحكيو على النقل وعلى الظلم اللي صار للمعلم والأستاذ بصفة عامةوالأستاذ بصفة عامة</event>
+        </tier>
+        <tier id="TIE1" speaker="Sp2" type="t" category="Default" display-name="Sp2">
+            <event start="T9" end="T10">musique</event>
+            <event start="T10" end="T11">لل- بالنسبة ليّ آنا ما لقيتش حتى إشكالية لحد الأن.</event>
+        </tier>
+        <tier id="TIE2" speaker="Sp3" type="t" category="Default" display-name="Sp3">
+            <event start="T11" end="T12">الأوقات لا ما فيهمش نظام بالكل بالكل. ما زلنا ما خذيناهمش.</event>
+        </tier>
+        <tier id="TIE3" speaker="Sp4" type="t" category="Default" display-name="Sp4">
+            <event start="T12" end="T13">والله [lan:FR, ça va pas du tout].</event>
+            <event start="T13" end="T14">آنا وحدة من الناس ما عجبنيش. فوضى برشة ما لقيناش حتى قاعات.</event>
+        </tier>
+        <tier id="TIE4" speaker="Sp5" type="t" category="Default" display-name="Sp5">
+            <event start="T14" end="T15">يجي يقول لك آنا ولدي من ما لقيتوش وين.</event>
+            <event start="T15" end="T16">وإلا ولدي وين يقرا.</event>
+            <event start="T16" end="T17">أو÷ علقتو جمعة والسبت.</event>
+            <event start="T17" end="T18">علقت [lan:FR, les listes].</event>
+            <event start="T18" end="T19">وعلقت [lan:FR, les emplois].</event>
+        </tier>
+        <tier id="TIE5" speaker="Sp6" type="t" category="Default" display-name="Sp6">
+            <event start="T19" end="T20">musique</event>
+            <event start="T20" end="T21">شنية ال- [lan:FR, rentrée]</event>
+            <event start="T21" end="T22">والعباد داخلين لتلامذة.</event>
+            <event start="T22" end="T23">وما ثماش مديرين.</event>
+            <event start="T23" end="T24">وما ثماش وأُو [lan:FR, des serveillants].</event>
+            <event start="T24" end="T25">حتى ثمة [lan:FR, serveillant général]</event>
+            <event start="T25" end="T26">جديد. والمدير ما ثماش. ومدير جديد.</event>
+        </tier>
+        <tier id="TIE6" speaker="Sp7" type="t" category="Default" display-name="Sp7">
+            <event start="T26" end="T27">musique</event>
+            <event start="T27" end="T28">شنية ياخي وقتاه باش يريقلوا أمورهم.</event>
+            <event start="T28" end="T29">شنيَة الحالة هذية اللي فيهم.</event>
+            <event start="T29" end="T30">شنية ها التسيب هذاية.</event>
+            <event start="T30" end="T31">هذاية يظهر لي العام هذاية معناتها عودة مدرسية ماهيش [lan:FR, reussite].</event>
+            <event start="T31" end="T32">ينظموا رواحهم. وهي تعكَرت.</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

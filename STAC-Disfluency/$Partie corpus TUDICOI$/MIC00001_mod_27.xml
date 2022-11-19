@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>MIC00001_mod_27</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Agent de la SNCFT">
+                <abbreviation>Agent de la SNCFT</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="disfluenceAg">
+                <abbreviation>disfluenceAg</abbreviation>
+                <sex value="u" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Clients">
+                <abbreviation>Clients</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="0.778365905993155" />
+            <tli id="T3" time="2.93853032615834" />
+            <tli id="T4" time="3.95969121688722" />
+            <tli id="T5" time="4.44781898844235" />
+            <tli id="T6" time="5.07492688691525" />
+            <tli id="T7" time="5.27139248927034" />
+            <tli id="T8" time="5.66410502083773" />
+            <tli id="T9" time="12.8370893700478" />
+            <tli id="T10" time="14.0771977626472" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Agent de la SNCFT" type="t" category="Default" display-name="Agent de la SNCFT">
+            <event start="T2" end="T3">#</event>
+            <event start="T3" end="T4">حْدَاشْ وتْسَعْة مِيَّة</event>
+            <event start="T4" end="T5">#</event>
+            <event start="T5" end="T6">شُوفْ لِي ألْفِينْ</event>
+            <event start="T6" end="T7">شُوفْ لِي </event>
+            <event start="T7" end="T8">ألْفِينْ</event>
+            <event start="T8" end="T9">#</event>
+            <event start="T9" end="T10">صَرِّفْ وجِيبْ لِي مَا يْسَالِشْ</event>
+        </tier>
+        <tier id="TIE1" speaker="disfluenceAg" type="t" category="Default" display-name="disfluenceAg">
+            <event start="T5" end="T6">R,P,lw</event>
+            <event start="T6" end="T8">B,no RA,pr,rp</event>
+        </tier>
+        <tier id="TIE2" speaker="Clients" type="t" category="Default" display-name="Clients">
+            <event start="T1" end="T2">&lt;تُونِسْ, مك&gt;</event>
+            <event start="T2" end="T3">#</event>
+            <event start="T4" end="T5">#</event>
+            <event start="T8" end="T9">#</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

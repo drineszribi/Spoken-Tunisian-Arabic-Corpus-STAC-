@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>004</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="spk1">
+                <abbreviation>spk1</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk2">
+                <abbreviation>spk2</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk3">
+                <abbreviation>spk3</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk4">
+                <abbreviation>spk4</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk5">
+                <abbreviation>spk5</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk6">
+                <abbreviation>spk6</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk7">
+                <abbreviation>spk7</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk8">
+                <abbreviation>spk8</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk9">
+                <abbreviation>spk9</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk10">
+                <abbreviation>spk10</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk11">
+                <abbreviation>spk11</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk12">
+                <abbreviation>spk12</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="12.307" />
+            <tli id="T3" time="13.896" />
+            <tli id="T4" time="14.345" />
+            <tli id="T5" time="14.555" />
+            <tli id="T6" time="20.667" />
+            <tli id="T7" time="20.864" />
+            <tli id="T8" time="21.914" />
+            <tli id="T9" time="23.22" />
+            <tli id="T10" time="30.655" />
+            <tli id="T11" time="30.865" />
+            <tli id="T12" time="33.04" />
+            <tli id="T13" time="33.384" />
+            <tli id="T14" time="34.454" />
+            <tli id="T15" time="36.906" />
+            <tli id="T16" time="37.96" />
+            <tli id="T17" time="38.205" />
+            <tli id="T18" time="38.8793424036281" />
+            <tli id="T19" time="44.708" />
+            <tli id="T20" time="45.058" />
+            <tli id="T21" time="51.083" />
+            <tli id="T22" time="52.261" />
+            <tli id="T23" time="53.395" />
+            <tli id="T24" time="53.669" />
+            <tli id="T25" time="56.4809420859445" />
+            <tli id="T26" time="58.0001068210346" />
+            <tli id="T27" time="64.156" />
+            <tli id="T28" time="65.467" />
+            <tli id="T29" time="66.3827432645782" />
+            <tli id="T30" time="66.8761471956331" />
+            <tli id="T31" time="67.1228491611605" />
+            <tli id="T32" time="67.4474570105387" />
+            <tli id="T33" time="67.7201276040164" />
+            <tli id="T34" time="68.2005472210962" />
+            <tli id="T35" time="68.4342648726485" />
+            <tli id="T36" time="68.992590373579" />
+            <tli id="T37" time="69.2782452810319" />
+            <tli id="T38" time="69.4600256766837" />
+            <tli id="T39" time="69.8625394099126" />
+            <tli id="T40" time="70.0573041195396" />
+            <tli id="T41" time="70.602645306495" />
+            <tli id="T42" time="70.810394330097" />
+            <tli id="T43" time="71.1609708074255" />
+            <tli id="T44" time="71.8231708201571" />
+            <tli id="T45" time="73.6020218347497" />
+            <tli id="T46" time="73.939613998103" />
+            <tli id="T47" time="74.5498767549341" />
+            <tli id="T48" time="74.7576257785361" />
+            <tli id="T49" time="75.1731238257402" />
+            <tli id="T50" time="75.3808728493423" />
+            <tli id="T51" time="75.7314493266708" />
+            <tli id="T52" time="76.2248532577257" />
+            <tli id="T53" time="76.4326022813277" />
+            <tli id="T54" time="76.8481003285318" />
+            <tli id="T55" time="77.367472887537" />
+            <tli id="T56" time="77.9725623582766" />
+            <tli id="T57" time="78.3876770431415" />
+            <tli id="T58" time="78.5305044968679" />
+            <tli id="T59" time="78.9200339161218" />
+            <tli id="T60" time="79.3874692192264" />
+            <tli id="T61" time="80.1016064878585" />
+            <tli id="T62" time="80.5820261049382" />
+            <tli id="T63" time="80.9455868962418" />
+            <tli id="T64" time="81.6189284072902" />
+            <tli id="T65" time="82.1642695942456" />
+            <tli id="T66" time="82.7875166650517" />
+            <tli id="T67" time="83.5795598175346" />
+            <tli id="T68" time="84.2417598302661" />
+            <tli id="T69" time="84.5793519936195" />
+            <tli id="T70" time="84.8130696451718" />
+            <tli id="T71" time="85.2285676923759" />
+            <tli id="T72" time="85.7349559374059" />
+            <tli id="T73" time="86.2283598684608" />
+            <tli id="T74" time="86.47" />
+            <tli id="T75" time="86.888" />
+            <tli id="T76" time="87.1632304746701" />
+            <tli id="T77" time="87.5527598939239" />
+            <tli id="T78" time="88.0721324529291" />
+            <tli id="T79" time="88.5785206979591" />
+            <tli id="T80" time="88.942" />
+            <tli id="T81" time="89.187" />
+            <tli id="T82" time="89.5393599321186" />
+            <tli id="T83" time="89.9159050373973" />
+            <tli id="T84" time="90.1236540609994" />
+            <tli id="T85" time="90.356" />
+            <tli id="T86" time="90.579" />
+            <tli id="T87" time="91.0245327865066" />
+            <tli id="T88" time="91.5309210315366" />
+            <tli id="T89" time="92.0113406486164" />
+            <tli id="T90" time="92.5177288936464" />
+            <tli id="T91" time="93.3227563601044" />
+            <tli id="T92" time="93.5694583256318" />
+            <tli id="T93" time="94.0239093147613" />
+            <tli id="T94" time="94.4394073619654" />
+            <tli id="T95" time="94.8549054091695" />
+            <tli id="T96" time="95.2833877703488" />
+            <tli id="T97" time="95.573" />
+            <tli id="T98" time="96.821" />
+            <tli id="T99" time="97.3349093784191" />
+            <tli id="T100" time="97.6075799718968" />
+            <tli id="T101" time="97.8153289954989" />
+            <tli id="T102" time="98.1788897868025" />
+            <tli id="T103" time="98.633340775932" />
+            <tli id="T104" time="98.944964311335" />
+            <tli id="T105" time="99.276" />
+            <tli id="T106" time="99.48" />
+            <tli id="T107" time="99.8779921018859" />
+            <tli id="T108" time="100.137678381388" />
+            <tli id="T109" time="100.752278643363" />
+            <tli id="T110" time="101.011964922866" />
+            <tli id="T111" time="101.362541400194" />
+            <tli id="T112" time="101.9338512151" />
+            <tli id="T113" time="102.167568866652" />
+            <tli id="T114" time="102.336364948329" />
+            <tli id="T115" time="102.686941425657" />
+            <tli id="T116" time="103.102439472861" />
+            <tli id="T117" time="103.725686543668" />
+            <tli id="T118" time="104.01134145112" />
+            <tli id="T119" time="104.51772969615" />
+            <tli id="T120" time="104.842337545529" />
+            <tli id="T121" time="105.244851278758" />
+            <tli id="T122" time="105.50453755826" />
+            <tli id="T123" time="106.01092580329" />
+            <tli id="T124" time="106.374486594594" />
+            <tli id="T125" time="106.789984641798" />
+            <tli id="T126" time="106.9977336654" />
+            <tli id="T127" time="107.257419944903" />
+            <tli id="T128" time="108.127368981236" />
+            <tli id="T129" time="108.387055260739" />
+            <tli id="T130" time="108.750616052042" />
+            <tli id="T131" time="109.02328664552" />
+            <tli id="T132" time="109.231035669122" />
+            <tli id="T133" time="109.982906736392" />
+            <tli id="T134" time="110.554216551298" />
+            <tli id="T135" time="111.29432244788" />
+            <tli id="T136" time="111.631914611234" />
+            <tli id="T137" time="112.086365600363" />
+            <tli id="T138" time="112.376167800454" />
+            <tli id="T139" time="112.683644043219" />
+            <tli id="T140" time="113.12820861678" />
+            <tli id="T141" time="113.592546021478" />
+            <tli id="T142" time="113.995059754707" />
+            <tli id="T143" time="114.436526429862" />
+            <tli id="T144" time="114.916946046941" />
+            <tli id="T145" time="115.345428408121" />
+            <tli id="T146" time="115.631083315573" />
+            <tli id="T147" time="115.903753909051" />
+            <tli id="T148" time="116.28029901433" />
+            <tli id="T149" time="116.708781375509" />
+            <tli id="T150" time="116.955483341036" />
+            <tli id="T151" time="117.697460138441" />
+            <tli id="T152" time="117.892224848068" />
+            <tli id="T153" time="118.086989557695" />
+            <tli id="T154" time="118.372644465148" />
+            <tli id="T155" time="118.593377802725" />
+            <tli id="T156" time="118.917985652103" />
+            <tli id="T157" time="119.242593501482" />
+            <tli id="T158" time="119.502279780984" />
+            <tli id="T159" time="119.787934688437" />
+            <tli id="T160" time="120.008668026014" />
+            <tli id="T161" time="120.424166073218" />
+            <tli id="T162" time="120.800711178497" />
+            <tli id="T163" time="121.099350399925" />
+            <tli id="T164" time="121.683644528806" />
+            <tli id="T165" time="121.839456296507" />
+            <tli id="T166" time="122.177048459861" />
+            <tli id="T167" time="122.540609251164" />
+            <tli id="T168" time="122.748358274766" />
+            <tli id="T169" time="123.11191906607" />
+            <tli id="T170" time="123.410558287498" />
+            <tli id="T171" time="124.137679870105" />
+            <tli id="T172" time="124.371397521657" />
+            <tli id="T173" time="124.838832824762" />
+            <tli id="T174" time="125.098519104265" />
+            <tli id="T175" time="125.799672058921" />
+            <tli id="T176" time="126.591715211404" />
+            <tli id="T177" time="127.08" />
+            <tli id="T178" time="128.37181357074" />
+            <tli id="T179" time="128.787311617944" />
+            <tli id="T180" time="129.826056735954" />
+            <tli id="T181" time="130.306476353034" />
+            <tli id="T182" time="130.592131260486" />
+            <tli id="T183" time="131.124488133467" />
+            <tli id="T184" time="131.371190098994" />
+            <tli id="T185" time="131.91653128595" />
+            <tli id="T186" time="132.267107763278" />
+            <tli id="T187" time="132.825433264209" />
+            <tli id="T188" time="133.227946997438" />
+            <tli id="T189" time="133.526586218866" />
+            <tli id="T190" time="133.851194068244" />
+            <tli id="T191" time="134.201770545572" />
+            <tli id="T192" time="134.578315650851" />
+            <tli id="T193" time="135.076" />
+            <tli id="T194" time="135.305437233458" />
+            <tli id="T195" time="135.526170571035" />
+            <tli id="T196" time="135.971" />
+            <tli id="T197" time="139.675" />
+            <tli id="T198" time="140.593" />
+            <tli id="T199" time="140.835" />
+            <tli id="T200" time="141.231869256003" />
+            <tli id="T201" time="141.725273187058" />
+            <tli id="T202" time="142.209" />
+            <tli id="T203" time="142.451" />
+            <tli id="T204" time="142.665104970782" />
+            <tli id="T205" time="142.885838308359" />
+            <tli id="T206" time="143.210446157737" />
+            <tli id="T207" time="143.483116751215" />
+            <tli id="T208" time="144.00248931022" />
+            <tli id="T209" time="144.262175589723" />
+            <tli id="T210" time="144.573799125126" />
+            <tli id="T211" time="144.768563834753" />
+            <tli id="T212" time="144.950344230405" />
+            <tli id="T213" time="145.287936393758" />
+            <tli id="T214" time="145.742387382887" />
+            <tli id="T215" time="146.131916802141" />
+            <tli id="T216" time="146.313697197793" />
+            <tli id="T217" time="146.846054070773" />
+            <tli id="T218" time="147.313489373878" />
+            <tli id="T219" time="147.949720758659" />
+            <tli id="T220" time="148.287312922013" />
+            <tli id="T221" time="148.585952143441" />
+            <tli id="T222" time="148.858622736918" />
+            <tli id="T223" time="149.079356074495" />
+            <tli id="T224" time="149.390979609899" />
+            <tli id="T225" time="149.676634517351" />
+            <tli id="T226" time="149.897367854929" />
+            <tli id="T227" time="150.105116878531" />
+            <tli id="T228" time="150.48" />
+            <tli id="T229" time="150.712" />
+            <tli id="T230" time="151.403548276043" />
+            <tli id="T231" time="151.974858090949" />
+            <tli id="T232" time="152.429309080079" />
+            <tli id="T233" time="153.008" />
+            <tli id="T234" time="154.287" />
+            <tli id="T235" time="155.54370150216" />
+            <tli id="T236" time="155.790403467687" />
+            <tli id="T237" time="155.985168177314" />
+            <tli id="T238" time="156.244854456817" />
+            <tli id="T239" time="156.55647799222" />
+            <tli id="T240" time="157.335536830727" />
+            <tli id="T241" time="157.712081936006" />
+            <tli id="T242" time="158.10161135526" />
+            <tli id="T243" time="158.750827054016" />
+            <tli id="T244" time="159.257215299046" />
+            <tli id="T245" time="159.6467447183" />
+            <tli id="T246" time="159.789572172027" />
+            <tli id="T247" time="160.088211393455" />
+            <tli id="T248" time="160.244023161156" />
+            <tli id="T249" time="160.490725126684" />
+            <tli id="T250" time="160.724442778236" />
+            <tli id="T251" time="161.128" />
+            <tli id="T252" time="161.392" />
+            <tli id="T253" time="162.597" />
+            <tli id="T254" time="162.953" />
+            <tli id="T255" time="163.475898197676" />
+            <tli id="T256" time="163.735584477179" />
+            <tli id="T257" time="164.203019780283" />
+            <tli id="T258" time="164.787313909164" />
+            <tli id="T259" time="165.423545293945" />
+            <tli id="T260" time="165.670247259473" />
+            <tli id="T261" time="165.981870794876" />
+            <tli id="T262" time="166.410353156055" />
+            <tli id="T263" time="166.799882575309" />
+            <tli id="T264" time="167.202396308538" />
+            <tli id="T265" time="167.501035529966" />
+            <tli id="T266" time="168.046376716921" />
+            <tli id="T267" time="168.383968880275" />
+            <tli id="T268" time="168.565749275927" />
+            <tli id="T269" time="168.90334143928" />
+            <tli id="T270" time="169.124074776857" />
+            <tli id="T271" time="169.541" />
+            <tli id="T272" time="169.825" />
+            <tli id="T273" time="170.045961069091" />
+            <tli id="T274" time="170.331615976544" />
+            <tli id="T275" time="170.604286570022" />
+            <tli id="T276" time="170.91" />
+            <tli id="T277" time="171.214" />
+            <tli id="T278" time="171.402212329595" />
+            <tli id="T279" time="171.824202533787" />
+            <tli id="T280" time="172.239700580991" />
+            <tli id="T281" time="172.622737843257" />
+            <tli id="T282" time="173.09666530335" />
+            <tli id="T283" time="173.745881002106" />
+            <tli id="T284" time="174.421065328813" />
+            <tli id="T285" time="174.992375143718" />
+            <tli id="T286" time="175.355935935022" />
+            <tli id="T287" time="175.589653586574" />
+            <tli id="T288" time="175.901277121977" />
+            <tli id="T289" time="176.431" />
+            <tli id="T290" time="177.737" />
+            <tli id="T291" time="178.185608994606" />
+            <tli id="T292" time="178.289483506407" />
+            <tli id="T293" time="178.536185471935" />
+            <tli id="T294" time="178.821840379387" />
+            <tli id="T295" time="179.094510972865" />
+            <tli id="T296" time="179.367181566343" />
+            <tli id="T297" time="179.665820787771" />
+            <tli id="T298" time="179.981723356009" />
+            <tli id="T299" time="180.224146288701" />
+            <tli id="T300" time="180.782471789632" />
+            <tli id="T301" time="181.029173755159" />
+            <tli id="T302" time="181.340797290562" />
+            <tli id="T303" time="181.616213151927" />
+            <tli id="T304" time="182.00514739229" />
+            <tli id="T305" time="182.379542408573" />
+            <tli id="T306" time="182.691165943976" />
+            <tli id="T307" time="183.015773793354" />
+            <tli id="T308" time="183.457240468508" />
+            <tli id="T309" time="184.197346365091" />
+            <tli id="T310" time="184.521954214469" />
+            <tli id="T311" time="184.820593435897" />
+            <tli id="T312" time="185.236091483101" />
+            <tli id="T313" time="185.482793448628" />
+            <tli id="T314" time="185.937244437758" />
+            <tli id="T315" time="186.638397392415" />
+            <tli id="T316" time="187.248660149246" />
+            <tli id="T317" time="187.53556228515" />
+            <tli id="T318" time="187.873154448503" />
+            <tli id="T319" time="188.158809355956" />
+            <tli id="T320" time="188.963836822414" />
+            <tli id="T321" time="189.444256439494" />
+            <tli id="T322" time="189.781848602847" />
+            <tli id="T323" time="190.219" />
+            <tli id="T324" time="190.433" />
+            <tli id="T325" time="190.912244897959" />
+            <tli id="T326" time="191.269092970522" />
+            <tli id="T327" time="191.843537414966" />
+            <tli id="T328" time="192.582893901454" />
+            <tli id="T329" time="197.897" />
+            <tli id="T330" time="198.273" />
+            <tli id="T331" time="200.669" />
+            <tli id="T332" time="201.949" />
+            <tli id="T333" time="203.138594104308" />
+            <tli id="T334" time="204.188231292517" />
+            <tli id="T335" time="205.251390073365" />
+            <tli id="T336" time="208.525487528345" />
+            <tli id="T337" time="208.988049886621" />
+            <tli id="T338" time="213.274129958349" />
+            <tli id="T339" time="221.741" />
+            <tli id="T340" time="228.777" />
+            <tli id="T341" time="229.122" />
+            <tli id="T342" time="232.379" />
+        </common-timeline>
+        <tier id="TIE0" speaker="spk1" type="t" category="Default" display-name="spk1">
+            <event start="T1" end="T2">صْبَاحْ الخِيرْ [lan:FR, mosaique]. كُلّْ عَامْ وإنْْتُوْمَا حَيّيِنْ بْخِيرْ. ثْمَنْيَة سْنِينْ وَالله الَعْظِيمْ تْعَدَّاوْ. يَا تْقُولْ عْلِيهِمْ ثْمَنْيَة شْهُورْ. بَارْكَ الله فِيكُمْ عَلَى بَرَامِجْكُمْ يَاسِرْ حْلُوَّة بَرْشَة. وَيَعْطِيكُمْ الصَحَّة. وِإنْْ شَا الله كُلْ عَامْ وُأُنْتُمْ واَلِفَْرِيقْ الِكُْلْ مْتَاعْ [lan:FR, mosaique] حَيِّينْ بْخِيرْ.</event>
+            <event start="T2" end="T3">musique</event>
+        </tier>
+        <tier id="TIE1" speaker="spk2" type="t" category="Default" display-name="spk2">
+            <event start="T3" end="T4">بْرَبِّي هِيَ</event>
+            <event start="T4" end="T5">#</event>
+            <event start="T5" end="T6">غْرِيبَة مِنْ نَوْعْهَا مَحَاكَمِة آ÷ &lt;بِنْ عْلِيّ, شخ&gt;. أَمَا حَاكْمُوا لْنَا الَمَْوْجِودِينْ هْنَا السَّاعَة. وَاحِدْ هَارِبْ وأَحْنَا نْحَاكْمُوا فِيهْ.</event>
+            <event start="T6" end="T7">#</event>
+            <event start="T7" end="T8">وِنْبَرْدُوا عَلَى قْلُوبْنَا.</event>
+        </tier>
+        <tier id="TIE2" speaker="spk3" type="t" category="Default" display-name="spk3">
+            <event start="T8" end="T9">musique</event>
+            <event start="T9" end="T10">بْرَبِّي أَنَا نْحِبْ نْ- نْقُولْ لِرَّاجِلْ اللِّي قَالْ يْنَحِّيوْ &lt;أَمِينْ, شخ&gt; الصّْبَاحْ. كَانِكْ إنْتِي خُويَا الَعْزِيزْ مِتْغَشِّشْ مَا تْحِبِّشْ اِلْضُّحْكْ. هَذَاكَة الَعْسَلْ مْتَاعْ الصّْبَاحْ.</event>
+            <event start="T10" end="T11">#</event>
+            <event start="T11" end="T12">نْقُولْ لِكْ إنْْ شَا الله نْ- نْهَارِكْ دِڨْلَة وَحْلِيبْ.</event>
+            <event start="T12" end="T13">#</event>
+            <event start="T13" end="T14">&lt;أَمِينْ, شخ&gt; الدِّڤْلَة وِالحْلِيبْ.</event>
+        </tier>
+        <tier id="TIE3" speaker="spk4" type="t" category="Default" display-name="spk4">
+            <event start="T14" end="T15">musique</event>
+            <event start="T15" end="T16">بِالله نِدَاءْ لِوْزَارَة</event>
+            <event start="T16" end="T17">#</event>
+            <event start="T17" end="T18">آ÷ النَّقْلْ.</event>
+            <event start="T18" end="T19">يْحُبُّوشْ يْسَيْبُوا [lan:FR, les concours]. الإدَارَة العَامَّة طَالْبَة. وُهُومَا مَا حَبُّوشْ يْسَيْبُوا الِكُْونْكُورْ. عْلَاشْ. نْحِبْ نَعْرِفْ عْلَاشْ. نِدَاءْ لِوْزَارِة النَّقْل.</event>
+            <event start="T19" end="T20">#</event>
+            <event start="T20" end="T21">الإدَارَة العَامَّة لِلْمِيتْرُو طَالْبَة خَدَّامَة. وِالإدَارَة العَامَّة لِلْوْزَارَة مَا حَبِّتْشْ تْسَيِبْ الخَدَمْ الكُوْنكُورْ. عْلَاشْ.</event>
+        </tier>
+        <tier id="TIE4" speaker="spk5" type="t" category="Default" display-name="spk5">
+            <event start="T21" end="T22">musique</event>
+            <event start="T22" end="T23">أَلُو عَالسْلَامَة [lan:FR, mosaique].</event>
+            <event start="T23" end="T24">#</event>
+            <event start="T24" end="T25">بْرَبِّي مْتَاعْ [lan:FR, arab im] هَذَاكَة رَاهُو مَاهُوَّاشْ </event>
+            <event start="T25" end="T26">يْضَحِّكْ. رَاهُو [lan:FR, lan:FR, démodé].</event>
+            <event start="T26" end="T27">رَاهُو قْدِيمْ. قُولُ لُو بْرَبِّي فِيقْ عَلَى رُوحِكْ. رَاهُو مَا عَادِشْ تِمْشِي بِيهَا اللُّغَة هَذِيكَة فِي &lt;تُونِسْ, مك&gt;. بْجَاهْ رَبِّي كَانْ تَعْمْلُوا مْزِيَّة نَحَّاوِهْ.</event>
+        </tier>
+        <tier id="TIE5" speaker="spk6" type="t" category="Default" display-name="spk6">
+            <event start="T27" end="T28">musique</event>
+            <event start="T28" end="T29">صْبَاحْ الخِيْر [lan:FR, mosaique].</event>
+            <event start="T29" end="T30">بْرَبِّي </event>
+            <event start="T30" end="T31">ثَمَّة </event>
+            <event start="T31" end="T32">سُؤَالْ </event>
+            <event start="T32" end="T33">نْحِبْ</event>
+            <event start="T33" end="T34">نِسْأُلُوا</event>
+            <event start="T34" end="T35">آ÷نَا</event>
+            <event start="T35" end="T36">لِلْحُكُومَة</event>
+            <event start="T36" end="T37">هَذِي.</event>
+            <event start="T37" end="T38">#</event>
+            <event start="T38" end="T39">النَّاسْ</event>
+            <event start="T39" end="T40">اللِّي</event>
+            <event start="T40" end="T41">تْشَدُّوا</event>
+            <event start="T41" end="T42">فِي</event>
+            <event start="T42" end="T43">[lan:FR, période]</event>
+            <event start="T43" end="T44">[lan:FR, quatorze]</event>
+            <event start="T44" end="T45">[lan:FR, le quinze janvier] و [lan:FR, seize janvier].</event>
+            <event start="T45" end="T46">النَّاسْ</event>
+            <event start="T46" end="T47">اِلْمُسَلّْحَة</event>
+            <event start="T47" end="T48">هَذِي</event>
+            <event start="T48" end="T49">مَانَاشْ</event>
+            <event start="T49" end="T50">بَاشْ</event>
+            <event start="T50" end="T51">نَحْكِيوْ</event>
+            <event start="T51" end="T52">قَنَّاصَة.</event>
+            <event start="T52" end="T53">بَاشْ</event>
+            <event start="T53" end="T54">مَا يْقُولُشْ</event>
+            <event start="T54" end="T55">مَا ثَمَّاشْ</event>
+            <event start="T55" end="T56">قَنَّاصَة.</event>
+            <event start="T56" end="T57">النَّاسْ</event>
+            <event start="T57" end="T58">اللِّي</event>
+            <event start="T58" end="T59">تْشَدِّتْ.</event>
+            <event start="T59" end="T60">ورِينَاهُمْ</event>
+            <event start="T60" end="T61">فِي الجَزِيرَة.</event>
+            <event start="T61" end="T62">وِسْمَعْنَا</event>
+            <event start="T62" end="T63">عْلِيهُمْ</event>
+            <event start="T63" end="T64">و و-.</event>
+            <event start="T64" end="T65">وتَبَّعْنَا</event>
+            <event start="T65" end="T66">فِي الأَخْبَارْ </event>
+            <event start="T66" end="T67">عَالَمُْوزَايِّكْ</event>
+            <event start="T67" end="T68">وعَالإِذَاعَاتْ</event>
+            <event start="T68" end="T69">الِكُْلْ.</event>
+            <event start="T69" end="T70">هَاوْ </event>
+            <event start="T70" end="T71">شَدُّوا</event>
+            <event start="T71" end="T72">مَجْمُوعَة</event>
+            <event start="T72" end="T73">مُسَلّْحَة.</event>
+            <event start="T73" end="T74">هَاوْ</event>
+            <event start="T74" end="T75">#</event>
+            <event start="T75" end="T76">فِي ال-</event>
+            <event start="T76" end="T77">الدَّارْ</event>
+            <event start="T77" end="T78">اَلِفُْولَانِيَّة</event>
+            <event start="T78" end="T79">فِي الحُومَة</event>
+            <event start="T79" end="T80">اَلِفُْولَانِيَّة.</event>
+            <event start="T80" end="T81">#</event>
+            <event start="T81" end="T82">هَذُومَة</event>
+            <event start="T82" end="T83">الِكُْلْهُم</event>
+            <event start="T83" end="T84">وِينْ</event>
+            <event start="T84" end="T85">مْشَاوْ.</event>
+            <event start="T85" end="T86">#</event>
+            <event start="T86" end="T87">لَا سْمَعْنَا</event>
+            <event start="T87" end="T88">أَسَامِيُهم.</event>
+            <event start="T88" end="T89">لَا سْمَعْنَا</event>
+            <event start="T89" end="T90">تْحَاسْبُوا</event>
+            <event start="T90" end="T91">مَا تْحَاسْبُوشْ.</event>
+            <event start="T91" end="T92">#</event>
+            <event start="T92" end="T93">بَرْدُوا لْنَا</event>
+            <event start="T93" end="T94">قْلُوبْنَا.</event>
+            <event start="T94" end="T95">قُولُوا لْنَا</event>
+            <event start="T95" end="T96">آشَْ عْمَلْتُوا</event>
+            <event start="T96" end="T97">بِيهُمْ.</event>
+        </tier>
+        <tier id="TIE6" speaker="spk7" type="t" category="Default" display-name="spk7">
+            <event start="T97" end="T98">musique</event>
+            <event start="T98" end="T99">.صْبَاحْ الخِيرْ</event>
+            <event start="T99" end="T100">بِاللهِ</event>
+            <event start="T100" end="T101">نْحِبْ</event>
+            <event start="T101" end="T102">نْشَارِكْ</event>
+            <event start="T102" end="T103">فِي</event>
+            <event start="T103" end="T104">صَنْدُوقْ</event>
+            <event start="T104" end="T105">عْجَبْ.</event>
+            <event start="T105" end="T106">#</event>
+            <event start="T106" end="T107">بْرَبِّي</event>
+            <event start="T107" end="T108">(تنَفسْ)</event>
+            <event start="T108" end="T109">مُلَاحْظَة.</event>
+            <event start="T109" end="T110">(تنَفسْ)</event>
+            <event start="T110" end="T111">ال-</event>
+            <event start="T111" end="T112">الِكَْيَّاسْ</event>
+            <event start="T112" end="T113">قْرِيبْ</event>
+            <event start="T113" end="T114">بَاشْ</event>
+            <event start="T114" end="T115">تُوصِلْ </event>
+            <event start="T115" end="T116">لِلْقَنْطَرِة.</event>
+            <event start="T116" end="T117">يْفَرَّحْكُمْ</event>
+            <event start="T117" end="T118">ثُمََّّة</event>
+            <event start="T118" end="T119">[lan:FR, rond point].</event>
+            <event start="T119" end="T120">(تنَفسْ)</event>
+            <event start="T120" end="T121">وْفِيهْ</event>
+            <event start="T121" end="T122">هَاكَة</event>
+            <event start="T122" end="T123">الحَاجِزْ</event>
+            <event start="T123" end="T124">مْسَكِّرْ</event>
+            <event start="T124" end="T125">هَكَّاية.</event>
+            <event start="T125" end="T126">آ÷</event>
+            <event start="T126" end="T127">مَعْناتْهَا</event>
+            <event start="T127" end="T128">[lan:FR, à plusieurs reprises]</event>
+            <event start="T128" end="T129">ثُمََّّة</event>
+            <event start="T129" end="T130">كْرَاهِبْ</event>
+            <event start="T130" end="T131">يْطِيحُوا</event>
+            <event start="T131" end="T132">غَادِي.</event>
+            <event start="T132" end="T133">يْفَضَّلْكُم.</event>
+            <event start="T133" end="T134">يْفَضَّلْكُم</event>
+            <event start="T134" end="T135">يَا بَلَدِيَّة.</event>
+            <event start="T135" end="T136">وَلَا اللِّي</event>
+            <event start="T136" end="T137">لَاهِينْ.</event>
+            <event start="T137" end="T138">(تنَفسْ) </event>
+            <event start="T138" end="T139">يَعْمْلُوا</event>
+            <event start="T139" end="T140">الحَاجِزْ</event>
+            <event start="T140" end="T141">هَذَاكَة.</event>
+            <event start="T141" end="T142">رَاهُمْ</event>
+            <event start="T142" end="T143">تْوَانْسَة</event>
+            <event start="T143" end="T144">لْحَمْنَا</event>
+            <event start="T144" end="T145">وُدَمْنَا</event>
+            <event start="T145" end="T146">قَاعْدِينْ</event>
+            <event start="T146" end="T147">يْمُوتُوا </event>
+            <event start="T147" end="T148">غَادِيكَة.</event>
+            <event start="T148" end="T149">وَالله</event>
+            <event start="T149" end="T150">آ÷نَا</event>
+            <event start="T150" end="T151">[lan:FR, je suis capable]</event>
+            <event start="T151" end="T152">(تنَفسْ)</event>
+            <event start="T152" end="T153">كَانْ</event>
+            <event start="T153" end="T154">يْرَكّْبُوا</event>
+            <event start="T154" end="T155">هَذَاكَة</event>
+            <event start="T155" end="T156">الحَاجِزْ</event>
+            <event start="T156" end="T157">هَذَاكَة.</event>
+            <event start="T157" end="T158">(تنَفسْ)</event>
+            <event start="T158" end="T159">آ÷نَا</event>
+            <event start="T159" end="T160">نِمْشِي</event>
+            <event start="T160" end="T161">نِدْهْنُو.</event>
+            <event start="T161" end="T162">وِنْشُوفْ</event>
+            <event start="T162" end="T163">هَاكَة</event>
+            <event start="T163" end="T164">[lan:FR, papier adhésif]</event>
+            <event start="T164" end="T165">هَذَاكَة</event>
+            <event start="T165" end="T166">نْلَصْقُو.</event>
+            <event start="T166" end="T167">(تنَفسْ)</event>
+            <event start="T167" end="T168">بَاشْ</event>
+            <event start="T168" end="T169">فِي النّْهَارْ</event>
+            <event start="T169" end="T170">يَبْدَا</event>
+            <event start="T170" end="T171">[lan:FR, فُوسْفُورِيزُون].</event>
+            <event start="T171" end="T172">وُفِي اللِّيلْ</event>
+            <event start="T172" end="T173">كِيفْ كيِفْ.</event>
+            <event start="T173" end="T174">(تنَفسْ)</event>
+            <event start="T174" end="T175">يْعَيِّشْكُم.</event>
+            <event start="T175" end="T176">[lan:FR, c'est très urgent]</event>
+            <event start="T176" end="T177">رَاهُو خْطَرْ.</event>
+        </tier>
+        <tier id="TIE7" speaker="spk8" type="t" category="Default" display-name="spk8">
+            <event start="T177" end="T178">musique</event>
+            <event start="T178" end="T179">صُنْدُوقْ عْجَبْ </event>
+            <event start="T179" end="T180">صبَاحْ الخِيْرْ.</event>
+            <event start="T180" end="T181">بْرَبِّي</event>
+            <event start="T181" end="T182">حَبِّيتْ</event>
+            <event start="T182" end="T183">نِتْكَلِّمْ.</event>
+            <event start="T183" end="T184">بْرَبِّي</event>
+            <event start="T184" end="T185">شُوفُوا لْنَا </event>
+            <event start="T185" end="T186">ال-</event>
+            <event start="T186" end="T187">الأسْوَامْ. خَاطِرْ</event>
+            <event start="T187" end="T188">غَالْيَة</event>
+            <event start="T188" end="T189">بَرْشَة.</event>
+            <event start="T189" end="T190">مَا عَادِشْ</event>
+            <event start="T190" end="T191">نّْجْمُوا</event>
+            <event start="T191" end="T192">نَقْضِيوْ</event>
+            <event start="T192" end="T193">رَاهُو.</event>
+            <event start="T193" end="T194">مَا عَادِشْ</event>
+            <event start="T194" end="T195">نّْجْمُوا</event>
+            <event start="T195" end="T196">نعِيشُوا.</event>
+        </tier>
+        <tier id="TIE8" speaker="spk9" type="t" category="Default" display-name="spk9">
+            <event start="T196" end="T197">musique</event>
+            <event start="T197" end="T198">صْبَاحْ الخِيرْ [lan:FR, mosaique].</event>
+            <event start="T198" end="T199">(تنَفسْ)</event>
+            <event start="T199" end="T200">وَصْلُوا لِي</event>
+            <event start="T200" end="T201">صُوتِي</event>
+            <event start="T201" end="T202">لِلْبَلَدِيَّات.</event>
+            <event start="T202" end="T203">(تنَفسْ)</event>
+            <event start="T203" end="T204">يَا أوْْلَادِي</event>
+            <event start="T204" end="T205">رَاهِي</event>
+            <event start="T205" end="T206">الدِّنْيَا</event>
+            <event start="T206" end="T207">الُوُسَخْ</event>
+            <event start="T207" end="T208">كْلَانَا.</event>
+            <event start="T208" end="T209">امْشِيوْ</event>
+            <event start="T209" end="T210">شُوفُوا.</event>
+            <event start="T210" end="T211">آ÷نَا</event>
+            <event start="T211" end="T212">نُسْكِنْ</event>
+            <event start="T212" end="T213">فِي حَيّ </event>
+            <event start="T213" end="T214">الزُّهُورْ.</event>
+            <event start="T214" end="T215">الْأَوْسَاخْ</event>
+            <event start="T215" end="T216">اللِّي</event>
+            <event start="T216" end="T217">صَايْرَةْ لْنَا</event>
+            <event start="T217" end="T218">فِي حَيِّ الزُّهُورْ</event>
+            <event start="T218" end="T219">&lt;بَلَدِيَّة بَارْدُو, مك&gt;.</event>
+            <event start="T219" end="T220">مَانِيشْ</event>
+            <event start="T220" end="T221">فَاهْمَة.</event>
+            <event start="T221" end="T222">(تنَفسْ)</event>
+            <event start="T222" end="T223">يُمْكِنْ</event>
+            <event start="T223" end="T224">مَا فِي</event>
+            <event start="T224" end="T225">بَالْهَاشْ</event>
+            <event start="T225" end="T226">وَلَا</event>
+            <event start="T226" end="T227">شْنُوَّة</event>
+            <event start="T227" end="T228">الَحْكَايَة.</event>
+            <event start="T228" end="T229">(تنَفسْ)</event>
+            <event start="T229" end="T230">وَالله الَعَظِيْم.</event>
+            <event start="T230" end="T231">وَلِّينَا حَتَّى</event>
+            <event start="T231" end="T232">يْجِينَا حَدْ</event>
+            <event start="T232" end="T233">نِحْشْمُوا.</event>
+        </tier>
+        <tier id="TIE9" speaker="spk10" type="t" category="Default" display-name="spk10">
+            <event start="T233" end="T234">musique</event>
+            <event start="T234" end="T235">عِيْدْكُمْ مَبْرُوكْ [lan:FR, mosaique].</event>
+            <event start="T235" end="T236">بْرَبِّي </event>
+            <event start="T236" end="T237">نْحِبْ </event>
+            <event start="T237" end="T238">نَعْرِفْ </event>
+            <event start="T238" end="T239">عْلَاشْ </event>
+            <event start="T239" end="T240">فِي عِيدْ الصّْغِيرْ </event>
+            <event start="T240" end="T241">خْذِينَا</event>
+            <event start="T241" end="T242">ثْلَاثَة أَيَّامْ.</event>
+            <event start="T242" end="T243">وُفِي عِيدْ الِكْْبِيرْ</event>
+            <event start="T243" end="T244">مَا خْذِينَاشْ ثْلَاثَة</event>
+            <event start="T244" end="T245">أَيَّامْ.</event>
+            <event start="T245" end="T246">آ÷نَا</event>
+            <event start="T246" end="T247">وَحْدَة</event>
+            <event start="T247" end="T248">مِنْ</event>
+            <event start="T248" end="T249">النَّاسْ</event>
+            <event start="T249" end="T250">مْرَا</event>
+            <event start="T250" end="T251">نِخْدِمْ.</event>
+            <event start="T251" end="T252">(تنَفسْ)</event>
+            <event start="T252" end="T253">كِيمَا الِيُومْ مْشِيْتْ لِلْخِدْمَة</event>
+            <event start="T253" end="T254">(تنَفسْ)</event>
+            <event start="T254" end="T255">فِي حَالَة</event>
+            <event start="T255" end="T256">#</event>
+            <event start="T256" end="T257">تَاعْبَة</event>
+            <event start="T257" end="T258">فِي حَالَة.</event>
+            <event start="T258" end="T259"> وُتَعْرْفُوا</event>
+            <event start="T259" end="T260">الِكُْلْ </event>
+            <event start="T260" end="T261"> فِي عِيدْ</event>
+            <event start="T261" end="T262">الِكْْبِيرْ.</event>
+            <event start="T262" end="T263">عْلَاشْ</event>
+            <event start="T263" end="T264">نْحِبْ</event>
+            <event start="T264" end="T265">نَعْرِفْ.</event>
+            <event start="T265" end="T266">فَسْرُوا لِي</event>
+            <event start="T266" end="T267">عْلَاشْ.</event>
+            <event start="T267" end="T268">ثْلَاثَة</event>
+            <event start="T268" end="T269">أَيَّامْ</event>
+            <event start="T269" end="T270">فِي</event>
+            <event start="T270" end="T271">عِيدْ الصْغِيرْ.</event>
+            <event start="T271" end="T272">(تنَفسْ)</event>
+            <event start="T272" end="T273">اللِّي</event>
+            <event start="T273" end="T274">هُوَ</event>
+            <event start="T274" end="T275">عِيدْ</event>
+            <event start="T275" end="T276">مَعْنَاتْهَا</event>
+            <event start="T276" end="T277">(تنَفسْ)</event>
+            <event start="T277" end="T278"> مْتَاعْ </event>
+            <event start="T278" end="T279">لِبْسَة </event>
+            <event start="T279" end="T280">وِالِكُْلْ</event>
+            <event start="T280" end="T281">وِمْتَاعْ</event>
+            <event start="T281" end="T282">حْلُو.</event>
+            <event start="T282" end="T283">وْفِي العِيدْ </event>
+            <event start="T283" end="T284">مْتَاعْ ال- </event>
+            <event start="T284" end="T285">الدَّهْكْ</event>
+            <event start="T285" end="T286">نَاخْذُوا</event>
+            <event start="T286" end="T287"> كَانْ </event>
+            <event start="T287" end="T288">نْهَارِينْ.</event>
+            <event start="T288" end="T289">فَسْرُوا لِي.</event>
+        </tier>
+        <tier id="TIE10" speaker="spk11" type="t" category="Default" display-name="spk11">
+            <event start="T289" end="T290">musique</event>
+            <event start="T290" end="T291">صْبَاحْ الخِيرْ</event>
+            <event start="T291" end="T292">#</event>
+            <event start="T292" end="T293">بْرَبِّي </event>
+            <event start="T293" end="T294">رَاهُو </event>
+            <event start="T294" end="T295">عِيبْ.</event>
+            <event start="T295" end="T296">رَاهُو </event>
+            <event start="T296" end="T297">النَّاسْ </event>
+            <event start="T297" end="T298">الِكُْلْ </event>
+            <event start="T298" end="T299">وَلَّاتْ </event>
+            <event start="T299" end="T300">لُوَّاجَاتْ.</event>
+            <event start="T300" end="T301">النَّاسْ الِكُْلْ </event>
+            <event start="T301" end="T302">وَلَّاتْ </event>
+            <event start="T302" end="T303">تْهِزْ </event>
+            <event start="T303" end="T304">فِي العْبَادْ.</event>
+            <event start="T304" end="T305">امْشِيوْ</event>
+            <event start="T305" end="T306">شُوفُوا </event>
+            <event start="T306" end="T307">بْجَنْبْ </event>
+            <event start="T307" end="T308">السُّوقْ</event>
+            <event start="T308" end="T309">بْجَنْبْ ال-</event>
+            <event start="T309" end="T310">وْرَا</event>
+            <event start="T310" end="T311">السُّوقْ</event>
+            <event start="T311" end="T312">وْبِينْ</event>
+            <event start="T312" end="T313">مْحَطِّة </event>
+            <event start="T313" end="T314">اللَّوَّاجَاتْ </event>
+            <event start="T314" end="T315">الَمُْنْصِفْ بَايْ</event>
+            <event start="T315" end="T316">الصّْبَاحْ.</event>
+            <event start="T316" end="T317">رَاهُو </event>
+            <event start="T317" end="T318">مَا زَالْ </event>
+            <event start="T318" end="T319">صْبَاحْ </event>
+            <event start="T319" end="T320">الثَّمَنْيَةْ وُنُصْفْ</event>
+            <event start="T320" end="T321">وِالنَّاسْ </event>
+            <event start="T321" end="T322">تْعَبِّي</event>
+            <event start="T322" end="T323">فِي كْرَاهِبْ.</event>
+            <event start="T323" end="T324">#</event>
+            <event start="T324" end="T325">[lan:FR, deux places]</event>
+            <event start="T325" end="T326"> كَرْهَبَة </event>
+            <event start="T326" end="T327">[lan:FR, deux places].</event>
+            <event start="T327" end="T328">رَاهِي [lan:FR, commercial].</event>
+            <event start="T328" end="T329">فِيهَا يْجِي عَشْرَة رْقَابْ مِنْ تَالِي وُسِيكَانْ مْعُبّْيَة. كِلْ- الله لَا يْقَدِّرْ تْصِيرْ لُو حَاجَة تْحِلْ كَارْثَة </event>
+            <event start="T329" end="T330">#</event>
+            <event start="T330" end="T331">فِي عَشْرَة عَايْلَاتْ وَلَا خْمُسْطَاشْ عَايْلَة تِمْشِي هَكَّاكَة.</event>
+        </tier>
+        <tier id="TIE11" speaker="spk12" type="t" category="Default" display-name="spk12">
+            <event start="T331" end="T332">musique</event>
+            <event start="T332" end="T333">ألُو صْبَاْح الخِيرْ [lan:FR, mosaique] </event>
+            <event start="T333" end="T334">وُعِيدْكُمْ مَبْرُوكْ.</event>
+            <event start="T334" end="T335">[lan:FR, mosaique] بْرَبِّي.</event>
+            <event start="T335" end="T336">هَذِيَة نِدَاءْ بَاشْ نْقُولُو آ÷نَا لْهَاكَة اللِّي يْبِيعُوا هَاكِي القَشَّارَة هَاذُوكُمْ</event>
+            <event start="T336" end="T337">(تنَفسْ)</event>
+            <event start="T337" end="T338">يَاخِي [lan:FR, Les sacs poubelles] مِنْ أُوِّلْ الدِّنْيَا خَمْسَة وُعِشْرِينْ بْدِينَارْ نَاخْذُوا فِيهَا.</event>
+            <event start="T338" end="T339"> تُصْبِحْ الْيُومَ الشّْكَارَة بثْنَاشْ مِيَّة. قُولْ لُو مِيتِينْ فْرَنْكْ اللِّي يْزِيدُوا فِيِهمْ عْلَاشْ. سِي البْصَلْ وَلَّى بِخْمُسْطَاشْ مِيَّة. وُقُلْنَا عِيدْ. سِي الثُّومْ مِنْْ سَبْعَة آ÷لَافْ وُعَشْرَة آ÷لَافْ </event>
+            <event start="T339" end="T340">وُقُلْنَا مْ-. يَاخِي حَتَّى [lan:FR, les sacs poubelles] بثْنَاشْ مِيّة الشْكَارَة. خَمْسَة وُعِشْرِينْ الشّْكَارَة ولَّاتْ. النَّاسْ الِكُْلْ يْبِيعُوا فِيَهَا بْدِينَارْ. تَوَّة تُصْبِحْ بِثْنَاشْ مِيَّة </event>
+            <event start="T340" end="T341">(تنَفسْ)</event>
+            <event start="T341" end="T342">شْنُوَّة الإسْتِغْلَالْ هَذَايَْة فِي البْلَادْ. عَلَاهْ هَكَّة يَا رَسُول الله.</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

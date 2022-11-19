@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>Partie1</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Amina">
+                <abbreviation>Amina</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Wissal">
+                <abbreviation>Wissal</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="1.04210884353742" />
+            <tli id="T3" time="3.56081938791176" />
+            <tli id="T4" time="5.64873015873016" />
+            <tli id="T5" time="8.11131519274377" />
+            <tli id="T6" time="10.1358049886621" />
+            <tli id="T7" time="11.4812509004261" />
+            <tli id="T8" time="16.0829024943311" />
+            <tli id="T9" time="17.8426148970173" />
+            <tli id="T10" time="18.9342471141562" />
+            <tli id="T11" time="19.5834628122164" />
+            <tli id="T12" time="19.6613686959836" />
+            <tli id="T13" time="22.3734834197122" />
+            <tli id="T14" time="22.7826303854875" />
+            <tli id="T15" time="23.7401814058957" />
+            <tli id="T16" time="26.5579098246159" />
+            <tli id="T17" time="28.147619047619" />
+            <tli id="T18" time="30.1647845804989" />
+            <tli id="T19" time="32.3558778066715" />
+            <tli id="T20" time="35.9288979169871" />
+            <tli id="T21" time="39.8501607332702" />
+            <tli id="T22" time="40.3943045971502" />
+            <tli id="T23" time="41.7421088435374" />
+            <tli id="T24" time="43.6903401360544" />
+            <tli id="T25" time="45.7312471655329" />
+            <tli id="T26" time="46.6273696145125" />
+            <tli id="T27" time="48.1949903634566" />
+            <tli id="T28" time="49.2118367346939" />
+            <tli id="T29" time="52.7395002498775" />
+            <tli id="T30" time="55.8580045351474" />
+            <tli id="T31" time="59.1018140908666" />
+            <tli id="T32" time="62.1423129251701" />
+            <tli id="T33" time="65.2313151927438" />
+            <tli id="T34" time="68.5228577324026" />
+            <tli id="T35" time="70.0652607709751" />
+            <tli id="T36" time="74.3769129392395" />
+            <tli id="T37" time="80.8567089857026" />
+            <tli id="T38" time="83.0578696097631" />
+            <tli id="T39" time="88.7414285714286" />
+            <tli id="T40" time="94.2874376417234" />
+            <tli id="T41" time="99.2539229024943" />
+            <tli id="T42" time="101.671496598639" />
+            <tli id="T43" time="103.118526077098" />
+            <tli id="T44" time="106.974399092971" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Amina" type="t" category="Default" display-name="Amina">
+            <event start="T1" end="T2">أهلا وسهلا.</event>
+            <event start="T2" end="T3">ومرحبا بكل مستمعينا اللي اختاروا [lan:FR, les fréquences] متاعنا.</event>
+            <event start="T3" end="T4">موعد جديد من [lan:FR, forum]</event>
+            <event start="T4" end="T5">اللي يبدا من توة ويتواصل حتى خمسة متاع العشية.</event>
+            <event start="T5" end="T6">مرحبا بيكم  في ال- [lan:FR, saison] التاسع.</event>
+            <event start="T6" end="T7">من [lan:FR, forum].</event>
+            <event start="T7" end="T8">العام التاسع على التوالي يرافقوكم في [lan:FR, forum]. أمينة ووصال مرحبا.</event>
+            <event start="T8" end="T9">[lan:FR, bonne rentrée] وصال.</event>
+            <event start="T10" end="T11">هههه÷ يعيشك</event>
+            <event start="T13" end="T14">[lan:FR, exactement]</event>
+            <event start="T14" end="T15">يعطيك الصحة &lt;وصال, شخ&gt;.</event>
+            <event start="T15" end="T16">زادة نسلموا على &lt;هشام, شخ&gt; معانا في [lan:FR, réalisation].</event>
+            <event start="T16" end="T17">ومعانا &lt;جيهان, شخ&gt; في ال- [lan:FR, production].</event>
+            <event start="T17" end="T18">وفي ال [lan:FR, standard] مكرم يتقبل مكالماتكم </event>
+            <event start="T18" end="T19">على واحد وسبعين مية وثلتطاش نلف.</event>
+            <event start="T19" end="T20">كيفما أحنا عملنا ال- [lan:FR, rentrée] متاعنا اليوم على البرمجة الشتوية على موزاييك [lan:FR, fm].</event>
+            <event start="T20" end="T22">واللي بديتوا تكتشفوها [lan:FR, déja] اليوم في الصباح حتى للعشية إن شا الله.</event>
+            <event start="T22" end="T23">توة تزيدوا تكتشفوها بشوية بشوية.</event>
+            <event start="T23" end="T24">اليوم زادة ألف ومية وخمسين تلميذ</event>
+            <event start="T24" end="T25">يلتحقوا بالمؤسسات التعليمية في تونس.</event>
+            <event start="T25" end="T26">[lan:FR, donc] ال- [lan:FR, rentrée]</event>
+            <event start="T26" end="T27">في تونس اليوم بدات.</event>
+            <event start="T27" end="T28">هذاكة علاش في [lan:FR, Forum]</event>
+            <event start="T28" end="T29">خصصناه باش  نتحدثوا على أول يوم في العودة المدرسية.</event>
+            <event start="T29" end="T30"> كيفاش عاشوه أولياء تلامذة إطار تربوي إداري.</event>
+            <event start="T30" end="T31">كلمونا وأحكيو لنا على ملاحظاتكم وأهم المشاكل</event>
+            <event start="T31" end="T32">أو النقائص اللي ربما لاحظتوها في أول يوم.</event>
+            <event start="T32" end="T33">هل أنو هناك غياب للإطار التربوي أو الإداري.</event>
+            <event start="T33" end="T34">هل أنو  ثمة مشاكل في تنظيم الصالات والل- [lan:FR, les emplois de temps].</event>
+            <event start="T34" end="T35">هل أنو ثمة مشاكل في التجهيزات.</event>
+            <event start="T35" end="T36">ال- [lan:FR, Rentrée scolaire] التوانسة كيفاش يقيموها. هذااللي باش يكون موضوعنااليوم في فوروم. &lt;وصال, شخ&gt;.</event>
+        </tier>
+        <tier id="TIE1" speaker="Wissal" type="t" category="Default" display-name="Wissal">
+            <event start="T8" end="T9">مرحبا</event>
+            <event start="T9" end="T12">[lan:FR, merci] ليك إنتي زادة.</event>
+            <event start="T12" end="T13">لينا الكل [lan:FR, d'ailleurs] لناس اللي رجعوا يخدموا ويقراو. أه÷.</event>
+            <event start="T21" end="T22">إهه÷</event>
+            <event start="T36" end="T37">[lan:FR, effectivement] أمينة. شنوة نسبة المؤسسات التربوية اللي عرفت إشكالات فيما يخص أول يوم للعودة المدرسية.</event>
+            <event start="T37" end="T38">هل وزارةالتربية في علمها.</event>
+            <event start="T38" end="T39"> كيفاش ناوية تتدخل خاصة بالنسبة للمدارس والمعاهد اللي بلاش مديرين لحد الساعة هذي.</event>
+            <event start="T39" end="T40"> تلامذة أولياء والإطار تربوي شنوة الإشكالات اليوم الأول  من العودة المدرسية.</event>
+            <event start="T40" end="T41">وهل عندها تأثير ممكن في المستقبل على السنة الدراسية الكل.</event>
+            <event start="T41" end="T42">شاركوا معانا على واحد وسبعين مية وثلتطاش نلف.</event>
+            <event start="T42" end="T43">واحد وسبعين مية وثلتطاش نلف</event>
+            <event start="T43" end="T44">هذا شوية من صوتكم وصلنا على [lan:FR, répondeur]. مرحبا بيكم هذا [lan:FR, forum].</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

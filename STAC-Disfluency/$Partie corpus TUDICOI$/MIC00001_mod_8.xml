@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>MIC00001_mod_8</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Agent de la SNCFT">
+                <abbreviation>Agent de la SNCFT</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Clients">
+                <abbreviation>Clients</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="disfluenceC1">
+                <abbreviation>disfluenceC1</abbreviation>
+                <sex value="u" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="disfluenceC2">
+                <abbreviation>disfluenceC2</abbreviation>
+                <sex value="u" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="disfluenceC3">
+                <abbreviation>disfluenceC3</abbreviation>
+                <sex value="u" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="0.152000000000015" />
+            <tli id="T3" time="0.632000000000005" />
+            <tli id="T4" time="0.831726265957428" />
+            <tli id="T5" time="1.2017792142486" />
+            <tli id="T6" time="1.46146549375115" />
+            <tli id="T7" time="1.6886909883159" />
+            <tli id="T8" time="1.83151844204232" />
+            <tli id="T9" time="1.83270475912951" />
+            <tli id="T10" time="2.11748944995648" />
+            <tli id="T11" time="2.39665220042173" />
+            <tli id="T12" time="2.63309082817847" />
+            <tli id="T13" time="3.09780515507867" />
+            <tli id="T14" time="3.52000000000001" />
+            <tli id="T15" time="3.63200000000001" />
+            <tli id="T16" time="4.49888482749864" />
+            <tli id="T17" time="4.72611032206339" />
+            <tli id="T18" time="5.55200000000002" />
+            <tli id="T19" time="5.91200000000001" />
+            <tli id="T20" time="6.16193750000014" />
+            <tli id="T21" time="6.56800000000001" />
+            <tli id="T22" time="6.96800000000002" />
+            <tli id="T23" time="7.19344546841452" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Agent de la SNCFT" type="t" category="Default" display-name="Agent de la SNCFT">
+            <event start="T2" end="T3">#</event>
+            <event start="T3" end="T4">&lt;تُونِسْ, مك&gt;</event>
+            <event start="T4" end="T5">[lan:FR, premier]</event>
+            <event start="T5" end="T6">[lan:FR, aller]</event>
+            <event start="T6" end="T7">[lan:FR, retour]</event>
+            <event start="T7" end="T8">#</event>
+            <event start="T14" end="T15">#</event>
+            <event start="T17" end="T18">[lan:FR, vingt huit deux cents]</event>
+            <event start="T18" end="T19">#</event>
+            <event start="T21" end="T22">#</event>
+        </tier>
+        <tier id="TIE1" speaker="Clients" type="t" category="Default" display-name="Clients">
+            <event start="T1" end="T2">&lt;تُونِسْ, مك&gt;</event>
+            <event start="T2" end="T3">#</event>
+            <event start="T7" end="T8">#</event>
+            <event start="T8" end="T10">[lan:FR, premier]</event>
+            <event start="T10" end="T11">[lan:FR, aller]</event>
+            <event start="T11" end="T12">[lan:FR, aller]</event>
+            <event start="T12" end="T13">[lan:FR, retour]</event>
+            <event start="T13" end="T14">[lan:FR, première année]</event>
+            <event start="T14" end="T15">#</event>
+            <event start="T15" end="T16">[lan:FR, premier  aller retour]</event>
+            <event start="T16" end="T17">داخل-</event>
+            <event start="T18" end="T19">#</event>
+            <event start="T19" end="T20">[lan:FR, vingt huit]</event>
+            <event start="T20" end="T21">[lan:FR, deux cent]</event>
+            <event start="T21" end="T22">#</event>
+            <event start="T22" end="T23">&lt;تُونِسْ, مك&gt;</event>
+        </tier>
+        <tier id="TIE2" speaker="disfluenceC1" type="t" category="Default" display-name="disfluenceC1">
+            <event start="T10" end="T11">R,w,lw</event>
+            <event start="T11" end="T12">B,no RA,wr,rp</event>
+            <event start="T16" end="T17">I,w,lw B,no</event>
+        </tier>
+        <tier id="TIE3" speaker="disfluenceC2" type="t" category="Default" display-name="disfluenceC2">
+            <event start="T9" end="T13">R,w,lw B,no</event>
+            <event start="T13" end="T14">RA,pr,rm</event>
+        </tier>
+        <tier id="TIE4" speaker="disfluenceC3" type="t" category="Default" display-name="disfluenceC3">
+            <event start="T13" end="T14">R,p,lw</event>
+            <event start="T14" end="T15">B,sp</event>
+            <event start="T15" end="T16">RA,pr,rm</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

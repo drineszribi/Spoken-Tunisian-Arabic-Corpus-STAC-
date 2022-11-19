@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>08102012_partie1_1_mod</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Amina">
+                <abbreviation>Amina</abbreviation>
+                <sex value="u" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="disfluenceA">
+                <abbreviation>disfluenceA</abbreviation>
+                <sex value="u" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Wissal">
+                <abbreviation>Wissal</abbreviation>
+                <sex value="u" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="disfluenceW">
+                <abbreviation>disfluenceW</abbreviation>
+                <sex value="u" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="0.234526834598579" />
+            <tli id="T3" time="0.469053669197158" />
+            <tli id="T4" time="0.78689191106906" />
+            <tli id="T5" time="1.17263417299289" />
+            <tli id="T6" time="1.40716100759147" />
+            <tli id="T7" time="1.64168784219005" />
+            <tli id="T8" time="1.87621467678863" />
+            <tli id="T9" time="2.57979518058437" />
+            <tli id="T10" time="2.81432201518294" />
+            <tli id="T11" time="3.07141143189049" />
+            <tli id="T12" time="3.32850084859804" />
+            <tli id="T13" time="3.58559026530558" />
+            <tli id="T14" time="3.84267968201313" />
+            <tli id="T15" time="4.09976909872067" />
+            <tli id="T16" time="4.49092155722142" />
+            <tli id="T17" time="4.88207401572216" />
+            <tli id="T18" time="5.27322647422291" />
+            <tli id="T19" time="5.66437893272366" />
+            <tli id="T20" time="6.05553139122441" />
+            <tli id="T21" time="6.44668384972515" />
+            <tli id="T22" time="6.8378363082259" />
+            <tli id="T23" time="7.22898876672665" />
+            <tli id="T24" time="7.5633560090703" />
+            <tli id="T25" time="7.86929361773824" />
+            <tli id="T26" time="8.17523122640618" />
+            <tli id="T27" time="8.48116883507413" />
+            <tli id="T28" time="8.78710644374207" />
+            <tli id="T29" time="9.36398226370468" />
+            <tli id="T30" time="9.9408580836673" />
+            <tli id="T31" time="10.5177339036299" />
+            <tli id="T32" time="11.0946097235925" />
+            <tli id="T33" time="11.6714855435552" />
+            <tli id="T34" time="12.2483613635178" />
+            <tli id="T35" time="12.8252371834804" />
+            <tli id="T36" time="13.402113003443" />
+            <tli id="T37" time="13.9789888234056" />
+            <tli id="T38" time="14.1997221609828" />
+            <tli id="T39" time="14.5438064813237" />
+            <tli id="T40" time="14.8878908016646" />
+            <tli id="T41" time="15.2319751220055" />
+            <tli id="T42" time="15.5760594423464" />
+            <tli id="T43" time="15.9201437626873" />
+            <tli id="T44" time="16.2642280830283" />
+            <tli id="T45" time="16.6083124033692" />
+            <tli id="T46" time="16.9523967237101" />
+            <tli id="T47" time="17.147161433337" />
+            <tli id="T48" time="17.5525214204825" />
+            <tli id="T49" time="17.9578814076279" />
+            <tli id="T50" time="18.3632413947734" />
+            <tli id="T51" time="18.7686013819189" />
+            <tli id="T52" time="19.1739613690643" />
+            <tli id="T53" time="19.4562585034014" />
+            <tli id="T54" time="19.9782970988671" />
+            <tli id="T55" time="20.5003356943327" />
+            <tli id="T56" time="21.0223742897984" />
+            <tli id="T57" time="21.5444128852641" />
+            <tli id="T58" time="22.0664514807298" />
+            <tli id="T59" time="22.5884900761955" />
+            <tli id="T60" time="23.1105286716612" />
+            <tli id="T61" time="23.6325672671269" />
+            <tli id="T62" time="24.1546058625926" />
+            <tli id="T63" time="24.6766444580583" />
+            <tli id="T64" time="25.198683053524" />
+            <tli id="T65" time="25.4583693330265" />
+            <tli id="T66" time="25.6886890921939" />
+            <tli id="T67" time="25.9190088513613" />
+            <tli id="T68" time="26.1493286105286" />
+            <tli id="T69" time="26.379648369696" />
+            <tli id="T70" time="26.6099681288634" />
+            <tli id="T71" time="26.8402878880308" />
+            <tli id="T72" time="27.3009274063655" />
+            <tli id="T73" time="27.5312471655329" />
+            <tli id="T74" time="28.1983741690672" />
+            <tli id="T75" time="28.5319376708343" />
+            <tli id="T76" time="28.9742699669204" />
+            <tli id="T77" time="29.4166022630064" />
+            <tli id="T78" time="29.8589345590925" />
+            <tli id="T79" time="30.3012668551785" />
+            <tli id="T80" time="30.7435991512646" />
+            <tli id="T81" time="31.1859314473506" />
+            <tli id="T82" time="31.6282637434367" />
+            <tli id="T83" time="32.0705960395227" />
+            <tli id="T84" time="32.5129283356088" />
+            <tli id="T85" time="32.9552606316948" />
+            <tli id="T86" time="33.3975929277808" />
+            <tli id="T87" time="33.8399252238669" />
+            <tli id="T88" time="34.2822575199529" />
+            <tli id="T89" time="34.724589816039" />
+            <tli id="T90" time="35.166922112125" />
+            <tli id="T91" time="35.4512397433825" />
+            <tli id="T92" time="36.304192637155" />
+            <tli id="T93" time="36.5885102684124" />
+            <tli id="T94" time="36.8728278996699" />
+            <tli id="T95" time="37.2020408163265" />
+            <tli id="T96" time="37.8229853534935" />
+            <tli id="T97" time="38.4439298906605" />
+            <tli id="T98" time="38.797502748137" />
+            <tli id="T99" time="39.1510756056136" />
+            <tli id="T100" time="39.5046484630902" />
+            <tli id="T101" time="39.8582213205668" />
+            <tli id="T102" time="40.2117941780434" />
+            <tli id="T103" time="40.5653670355199" />
+            <tli id="T104" time="40.9189398929965" />
+            <tli id="T105" time="41.2725127504731" />
+            <tli id="T106" time="41.6260856079497" />
+            <tli id="T107" time="41.9796584654263" />
+            <tli id="T108" time="42.3332313229028" />
+            <tli id="T109" time="43.040377037856" />
+            <tli id="T110" time="43.3649848872342" />
+            <tli id="T111" time="43.7155083318794" />
+            <tli id="T112" time="44.0660317765245" />
+            <tli id="T113" time="44.5684088915668" />
+            <tli id="T114" time="45.1176021104599" />
+            <tli id="T115" time="45.4681255551051" />
+            <tli id="T116" time="45.8186489997502" />
+            <tli id="T117" time="46.1691724443954" />
+            <tli id="T118" time="46.5196958890405" />
+            <tli id="T119" time="46.8702193336856" />
+            <tli id="T120" time="47.2207427783308" />
+            <tli id="T121" time="47.5712662229759" />
+            <tli id="T122" time="47.9217896676211" />
+            <tli id="T123" time="48.2723131122662" />
+            <tli id="T124" time="48.6228365569114" />
+            <tli id="T125" time="49.3238834462016" />
+            <tli id="T126" time="49.6744068908468" />
+            <tli id="T127" time="50.0249303354919" />
+            <tli id="T128" time="50.3754537801371" />
+            <tli id="T129" time="50.7259772247822" />
+            <tli id="T130" time="51.0765006694273" />
+            <tli id="T131" time="51.4270241140725" />
+            <tli id="T132" time="51.7490351006557" />
+            <tli id="T133" time="52.0710460872389" />
+            <tli id="T134" time="52.3930570738221" />
+            <tli id="T135" time="52.7150680604052" />
+            <tli id="T136" time="53.0370790469884" />
+            <tli id="T137" time="53.3357182684164" />
+            <tli id="T138" time="53.7731545825724" />
+            <tli id="T139" time="54.2105908967284" />
+            <tli id="T140" time="54.6480272108844" />
+            <tli id="T141" time="55.031533569253" />
+            <tli id="T142" time="55.4150399276217" />
+            <tli id="T143" time="55.7985462859903" />
+            <tli id="T144" time="56.182052644359" />
+            <tli id="T145" time="56.9490653610963" />
+            <tli id="T146" time="57.3325717194649" />
+            <tli id="T147" time="57.7160780778336" />
+            <tli id="T148" time="58.4830907945709" />
+            <tli id="T149" time="58.6889115646259" />
+            <tli id="T150" time="59.0614499408374" />
+            <tli id="T151" time="59.4339883170489" />
+            <tli id="T152" time="59.8065266932605" />
+            <tli id="T153" time="60.179065069472" />
+            <tli id="T154" time="60.5516034456835" />
+            <tli id="T155" time="60.9241418218951" />
+            <tli id="T156" time="61.2829285072292" />
+            <tli id="T157" time="61.6531183064987" />
+            <tli id="T158" time="61.8942555660368" />
+            <tli id="T159" time="62.2346492199363" />
+            <tli id="T160" time="62.6176673446511" />
+            <tli id="T161" time="62.8588046041892" />
+            <tli id="T162" time="63.0665536277913" />
+            <tli id="T163" time="63.5610418488129" />
+            <tli id="T164" time="64.0555300698346" />
+            <tli id="T165" time="64.5500182908563" />
+            <tli id="T166" time="65.0445065118779" />
+            <tli id="T167" time="65.4384672512581" />
+            <tli id="T168" time="65.8802241750044" />
+            <tli id="T169" time="66.1812241807914" />
+            <tli id="T170" time="66.4822241865785" />
+            <tli id="T171" time="67.3852242039397" />
+            <tli id="T172" time="67.6862242097268" />
+            <tli id="T173" time="67.9872242155139" />
+            <tli id="T174" time="68.288224221301" />
+            <tli id="T175" time="68.589224227088" />
+            <tli id="T176" time="68.783988936715" />
+            <tli id="T177" time="69.1622966833464" />
+            <tli id="T178" time="69.5406044299777" />
+            <tli id="T179" time="69.9189121766091" />
+            <tli id="T180" time="70.2972199232404" />
+            <tli id="T181" time="70.6755276698718" />
+            <tli id="T182" time="71.0538354165031" />
+            <tli id="T183" time="71.4321431631345" />
+            <tli id="T184" time="71.8104509097658" />
+            <tli id="T185" time="72.1887586563972" />
+            <tli id="T186" time="72.5670664030285" />
+            <tli id="T187" time="72.9453741496599" />
+            <tli id="T188" time="73.5426946334089" />
+            <tli id="T189" time="73.8413548752834" />
+            <tli id="T190" time="74.140015117158" />
+            <tli id="T191" time="74.4386753590325" />
+            <tli id="T192" time="74.737335600907" />
+            <tli id="T193" time="75.0359958427816" />
+            <tli id="T194" time="75.3346560846561" />
+            <tli id="T195" time="75.9319765684051" />
+            <tli id="T196" time="76.2306368102797" />
+            <tli id="T197" time="76.5292970521542" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Amina" type="t" category="Default" display-name="Amina">
+            <event start="T1" end="T2">أهلا</event>
+            <event start="T2" end="T3">وسهلا.</event>
+            <event start="T3" end="T4">ومرحبا</event>
+            <event start="T4" end="T5">بكل</event>
+            <event start="T5" end="T6">مستمعينا</event>
+            <event start="T6" end="T7">اللي</event>
+            <event start="T7" end="T8">اختاروا</event>
+            <event start="T8" end="T9">[lan:FR, les fréquences]</event>
+            <event start="T9" end="T10">متاعنا.</event>
+            <event start="T10" end="T11">هذا</event>
+            <event start="T11" end="T12">موعد</event>
+            <event start="T12" end="T13">جديد</event>
+            <event start="T13" end="T14">من</event>
+            <event start="T14" end="T15">فوروم.</event>
+            <event start="T15" end="T16">واليوم</event>
+            <event start="T16" end="T17">في</event>
+            <event start="T17" end="T18">فوروم</event>
+            <event start="T18" end="T19">نتحدثوا</event>
+            <event start="T19" end="T20">على</event>
+            <event start="T20" end="T21">الحالة</event>
+            <event start="T21" end="T22">النفسية</event>
+            <event start="T22" end="T23">لتوانسة.</event>
+            <event start="T23" end="T24">(تنفس)</event>
+            <event start="T24" end="T25">من</event>
+            <event start="T25" end="T26">شنو</event>
+            <event start="T26" end="T27">ينجموا</event>
+            <event start="T27" end="T28">يتشكاو.</event>
+            <event start="T28" end="T29">هل</event>
+            <event start="T29" end="T30">أنهم</event>
+            <event start="T30" end="T31">خايفين</event>
+            <event start="T31" end="T32">فرحانين</event>
+            <event start="T32" end="T33">قالقين</event>
+            <event start="T33" end="T34">متفائلين</event>
+            <event start="T34" end="T35">متشائمين</event>
+            <event start="T35" end="T36">مطمانين</event>
+            <event start="T36" end="T37">مفجوعين.</event>
+            <event start="T37" end="T38">(تنفس)</event>
+            <event start="T38" end="T39">شنوَة</event>
+            <event start="T39" end="T40">ينجم</event>
+            <event start="T40" end="T41">أيضا</event>
+            <event start="T41" end="T42">يأثر</event>
+            <event start="T42" end="T43">على</event>
+            <event start="T43" end="T44">نفسية</event>
+            <event start="T44" end="T45">ال-</event>
+            <event start="T45" end="T46">التوانسة.</event>
+            <event start="T46" end="T47">(تنفس)</event>
+            <event start="T47" end="T48">إن</event>
+            <event start="T48" end="T49">كان</event>
+            <event start="T49" end="T50">بالسلبي</event>
+            <event start="T50" end="T51">وإلا</event>
+            <event start="T51" end="T52">بالإجابي.</event>
+            <event start="T52" end="T53">(تنفس)</event>
+            <event start="T53" end="T54">مشاغل</event>
+            <event start="T54" end="T55">الحياة</event>
+            <event start="T55" end="T56">اليومية</event>
+            <event start="T56" end="T57">أوضاع</event>
+            <event start="T57" end="T58">البلاد</event>
+            <event start="T58" end="T59">الاجتماعية</event>
+            <event start="T59" end="T60">والاقتصادية</event>
+            <event start="T60" end="T61">وإلا</event>
+            <event start="T61" end="T62">الاحداث</event>
+            <event start="T62" end="T63">الوطنية</event>
+            <event start="T63" end="T64">والسياسية.</event>
+            <event start="T64" end="T65">(تنفس)</event>
+            <event start="T65" end="T66">هذا</event>
+            <event start="T66" end="T67">اللي</event>
+            <event start="T67" end="T68">نتحدثوا</event>
+            <event start="T68" end="T69">فيه</event>
+            <event start="T69" end="T70">اليوم</event>
+            <event start="T70" end="T71">في</event>
+            <event start="T71" end="T72">[lan:FR, forum].</event>
+            <event start="T72" end="T73">&lt;وصال, شخ&gt;.</event>
+        </tier>
+        <tier id="TIE1" speaker="disfluenceA" type="t" category="Default" display-name="disfluenceA">
+            <event start="T44" end="T45">R,W,lw</event>
+            <event start="T45" end="T46">B,no RA,wr,wc</event>
+        </tier>
+        <tier id="TIE2" speaker="Wissal" type="t" category="Default" display-name="Wissal">
+            <event start="T73" end="T74">[lan:FR, effectivement]</event>
+            <event start="T74" end="T75">&lt;أمينة, شخ&gt;.</event>
+            <event start="T75" end="T76">عام</event>
+            <event start="T76" end="T77">ألفين</event>
+            <event start="T77" end="T78">وحداش</event>
+            <event start="T78" end="T79">مستشفى</event>
+            <event start="T79" end="T80">الرازي</event>
+            <event start="T80" end="T81">خرج</event>
+            <event start="T81" end="T82">تقرير</event>
+            <event start="T82" end="T83">السنوي</event>
+            <event start="T83" end="T84">متاعو</event>
+            <event start="T84" end="T85">معناتها</event>
+            <event start="T85" end="T86">متاع</event>
+            <event start="T86" end="T87">ألفين</event>
+            <event start="T87" end="T88">وعشرة</event>
+            <event start="T88" end="T89">ألفين</event>
+            <event start="T89" end="T90">وحداش.</event>
+            <event start="T90" end="T91">عدد</event>
+            <event start="T91" end="T92">[lan:FR, les consultations]</event>
+            <event start="T92" end="T93">في</event>
+            <event start="T93" end="T94">الرازي</event>
+            <event start="T94" end="T95">(تنفس)</event>
+            <event start="T95" end="T96">زادوا</event>
+            <event start="T96" end="T97">بالألاف.</event>
+            <event start="T97" end="T98">في</event>
+            <event start="T98" end="T99">عام</event>
+            <event start="T99" end="T100">من</event>
+            <event start="T100" end="T101">مية</event>
+            <event start="T101" end="T102">وعشرين</event>
+            <event start="T102" end="T103">ألف</event>
+            <event start="T103" end="T104">وصل</event>
+            <event start="T104" end="T105">لمية</event>
+            <event start="T105" end="T106">وثمانية</event>
+            <event start="T106" end="T107">وثلاثين</event>
+            <event start="T107" end="T108">ألف</event>
+            <event start="T108" end="T109">[lan:FR, consultations].</event>
+            <event start="T109" end="T110">(تنفس)</event>
+            <event start="T110" end="T111">نرجعوا</event>
+            <event start="T111" end="T112">شوية</event>
+            <event start="T112" end="T113">التالي</event>
+            <event start="T113" end="T114">في</event>
+            <event start="T114" end="T115">ألفين</event>
+            <event start="T115" end="T116">وخمسة</event>
+            <event start="T116" end="T117">دراسة</event>
+            <event start="T117" end="T118">عن</event>
+            <event start="T118" end="T119">منظمة</event>
+            <event start="T119" end="T120">الصحة</event>
+            <event start="T120" end="T121">العالمية</event>
+            <event start="T121" end="T122">اللي</event>
+            <event start="T122" end="T123">ما</event>
+            <event start="T123" end="T124">خرجتش</event>
+            <event start="T124" end="T125">وقتها</event>
+            <event start="T125" end="T126">الدراسة</event>
+            <event start="T126" end="T127">هذيه</event>
+            <event start="T127" end="T128">حول</event>
+            <event start="T128" end="T129">الصحة</event>
+            <event start="T129" end="T130">النفسية</event>
+            <event start="T130" end="T131">لتوانسة.</event>
+            <event start="T131" end="T132">ظهرت</event>
+            <event start="T132" end="T133">أنو</event>
+            <event start="T133" end="T134">التونسي</event>
+            <event start="T134" end="T135">على</event>
+            <event start="T135" end="T136">أثنين</event>
+            <event start="T136" end="T137">(تنفس)</event>
+            <event start="T137" end="T138">عندو</event>
+            <event start="T138" end="T139">مشاكل</event>
+            <event start="T139" end="T140">نفسية.</event>
+            <event start="T140" end="T141">من</event>
+            <event start="T141" end="T142">نوع</event>
+            <event start="T142" end="T143">الانهيار</event>
+            <event start="T143" end="T144">العصبي</event>
+            <event start="T144" end="T145">[lan:FR, depression]</event>
+            <event start="T145" end="T146">وإلا</event>
+            <event start="T146" end="T147">القلق</event>
+            <event start="T147" end="T148">[lan:FR, l'anexité]</event>
+            <event start="T148" end="T149">(تنفس)</event>
+            <event start="T149" end="T150">اليوم</event>
+            <event start="T150" end="T151">شنوة</event>
+            <event start="T151" end="T152">الحالة</event>
+            <event start="T152" end="T153">النفسية</event>
+            <event start="T153" end="T154">متاع</event>
+            <event start="T154" end="T155">التوانسة.</event>
+            <event start="T155" end="T156">(تنفس)</event>
+            <event start="T156" end="T157">هل</event>
+            <event start="T157" end="T158">من</event>
+            <event start="T158" end="T159">تحليل</event>
+            <event start="T159" end="T160">علمي</event>
+            <event start="T160" end="T161">ليها.</event>
+            <event start="T161" end="T162">(تنفس)</event>
+            <event start="T162" end="T163">وشنوة</event>
+            <event start="T163" end="T164">الحلول</event>
+            <event start="T164" end="T165">النفسية</event>
+            <event start="T165" end="T166">الممكنة.</event>
+            <event start="T166" end="T167">(تنفس)</event>
+            <event start="T167" end="T168">ضيفنا</event>
+            <event start="T168" end="T169">اليوم</event>
+            <event start="T169" end="T170">دكتور</event>
+            <event start="T170" end="T171">&lt;لسعد قلال ,شخ&gt;</event>
+            <event start="T171" end="T172">مختص</event>
+            <event start="T172" end="T173">في</event>
+            <event start="T173" end="T174">الطب</event>
+            <event start="T174" end="T175">النفسي.</event>
+            <event start="T175" end="T176">(تنفس)</event>
+            <event start="T176" end="T177">واحد</event>
+            <event start="T177" end="T178">وسبعين</event>
+            <event start="T178" end="T179">مية</event>
+            <event start="T179" end="T180">وثلتطاشن</event>
+            <event start="T180" end="T181">ألف</event>
+            <event start="T181" end="T182">على</event>
+            <event start="T182" end="T183">ذمتكم</event>
+            <event start="T183" end="T184">حتى</event>
+            <event start="T184" end="T185">الخمسة</event>
+            <event start="T185" end="T186">متاع</event>
+            <event start="T186" end="T187">العشية.</event>
+            <event start="T187" end="T188">هات</event>
+            <event start="T188" end="T189">نسمعوكم</event>
+            <event start="T189" end="T190">شوية</event>
+            <event start="T190" end="T191">قبل</event>
+            <event start="T191" end="T192">ما</event>
+            <event start="T192" end="T193">نبداو.</event>
+            <event start="T193" end="T194">هذا</event>
+            <event start="T194" end="T195">[lan:FR, forum]</event>
+            <event start="T195" end="T196">مرحبا</event>
+            <event start="T196" end="T197">بيكم.</event>
+        </tier>
+        <tier id="TIE3" speaker="disfluenceW" type="t" category="Default" display-name="disfluenceW" />
+    </basic-body>
+</basic-transcription>

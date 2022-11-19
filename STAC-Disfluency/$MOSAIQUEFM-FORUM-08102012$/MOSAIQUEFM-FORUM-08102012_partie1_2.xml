@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>MOSAIQUEFM-FORUM-08102012_partie1_2</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Sp1">
+                <abbreviation>Sp1</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp2">
+                <abbreviation>Sp2</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp3">
+                <abbreviation>Sp3</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp4">
+                <abbreviation>Sp4</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp5">
+                <abbreviation>Sp5</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp6">
+                <abbreviation>Sp6</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="2.67788603484806" />
+            <tli id="T3" time="4.78134489665488" />
+            <tli id="T4" time="9.6115096904335" />
+            <tli id="T5" time="11.3749725276776" />
+            <tli id="T6" time="11.9982195984838" />
+            <tli id="T7" time="13.6817978977857" />
+            <tli id="T8" time="19.3733099363568" />
+            <tli id="T9" time="20.100431518964" />
+            <tli id="T10" time="23.5488471674273" />
+            <tli id="T11" time="27.4960786118055" />
+            <tli id="T12" time="29.72938061323" />
+            <tli id="T13" time="33.0427044711399" />
+            <tli id="T14" time="33.8217633096476" />
+            <tli id="T15" time="35.0608259024641" />
+            <tli id="T16" time="37.1715646258503" />
+            <tli id="T17" time="38.7973242630385" />
+            <tli id="T18" time="40.1515192743764" />
+            <tli id="T19" time="41.8818945783999" />
+            <tli id="T20" time="42.3703651559972" />
+            <tli id="T21" time="50.9771601031444" />
+            <tli id="T22" time="51.5632594503882" />
+            <tli id="T23" time="52.9862131519274" />
+            <tli id="T24" time="65.9412698412698" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Sp1" type="t" category="Default" display-name="Sp1">
+            <event start="T1" end="T2">الحاضر يخوف. والمستقبل يخوف.</event>
+            <event start="T2" end="T3">كيفاش تحبو العبد موش على أعصابو.</event>
+            <event start="T3" end="T4">أحنا التوانسة الكل ولينا نلوجوا في أي حاجة هكة بصفة فجأية ضحكنا.</event>
+            <event start="T4" end="T5">والله قريب باش نهبلوا. والله بالحق.</event>
+        </tier>
+        <tier id="TIE1" speaker="Sp2" type="t" category="Default" display-name="Sp2">
+            <event start="T5" end="T6">musique</event>
+            <event start="T6" end="T7">يا خويا راهو الواحد عمل [lan:FR, stress]</event>
+            <event start="T7" end="T8">خاصة من الأخبار. تي قول لجماعة الأخبار يعملوا إضراب بعشرة أيام. خلي ترتاح العباد.</event>
+        </tier>
+        <tier id="TIE2" speaker="Sp3" type="t" category="Default" display-name="Sp3">
+            <event start="T8" end="T9">musique</event>
+            <event start="T9" end="T10">آنا واحدة من الناس نحس في روحي ما عادش حاسة روحي ك- كيما قبل.</event>
+            <event start="T10" end="T11">معناها [lan:FR, une révolte intérieur] نحسوا رواحنا. ما عادش فاهمين شيء وعارفين شيء.</event>
+            <event start="T11" end="T12">  ما عادش واحد متهني.</event>
+            <event start="T12" end="T13">لا على حياتو لا على مستقبلو لا على مستقبل الأجيال الجاية لا حتى شيء.</event>
+        </tier>
+        <tier id="TIE3" speaker="Sp4" type="t" category="Default" display-name="Sp4">
+            <event start="T13" end="T14">musique</event>
+            <event start="T14" end="T15">ما ثماش رؤية واضحة.</event>
+            <event start="T15" end="T16"> الوضعية الأقتصادية ضبابية.</event>
+            <event start="T16" end="T17"> ما نعرفوش غدوة آش باش يجرى.</event>
+            <event start="T17" end="T18"> ثمة تحامل على المرأة.</event>
+            <event start="T18" end="T19">الناس ولات عايشة بالحرابش.</event>
+        </tier>
+        <tier id="TIE4" speaker="Sp5" type="t" category="Default" display-name="Sp5">
+            <event start="T19" end="T20">musique</event>
+            <event start="T20" end="T21">موش ضربنا ال- [lan:FR, stress] بركة فادين. كان نلقاو هجة إلا ما نهجوا. البلاد ما عادش  تتعاش  بالكل. قال شنوَة الدنيا ما زلت واقفة. ما زلنا ما نجموا نعملوا حتى شيء.</event>
+        </tier>
+        <tier id="TIE5" speaker="Sp6" type="t" category="Default" display-name="Sp6">
+            <event start="T21" end="T22">musique</event>
+            <event start="T22" end="T23">بجاه ربي رانا فدينا.</event>
+            <event start="T23" end="T24"> ياسر سياسة. وياسر إعتصامات ومظاهرات ومسيرات. أحنا في الدار ولينا كالشوك في بعضنا. ما نتقابلوا كان من اليل لليل. ونتعاركوا. ونرقدوا. نعاودوا المعبوكة هي بيدها.</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

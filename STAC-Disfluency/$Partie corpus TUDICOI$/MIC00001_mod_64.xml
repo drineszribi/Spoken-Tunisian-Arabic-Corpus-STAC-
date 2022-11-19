@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>MIC00001_mod_64</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Agent de la SNCFT">
+                <abbreviation>Agent de la SNCFT</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Clients">
+                <abbreviation>Clients</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="0.704706506003276" />
+            <tli id="T3" time="1.82470650600317" />
+            <tli id="T4" time="2.55270650600323" />
+            <tli id="T5" time="3.11270650600318" />
+            <tli id="T6" time="3.60842269683735" />
+            <tli id="T7" time="4.0967065060031" />
+            <tli id="T8" time="4.36870650600326" />
+            <tli id="T9" time="5.19250892025002" />
+            <tli id="T10" time="5.7248657658231" />
+            <tli id="T11" time="6.07544222510296" />
+            <tli id="T12" time="7.47774806222219" />
+            <tli id="T13" time="8.453875" />
+            <tli id="T14" time="8.7502107662749" />
+            <tli id="T15" time="10.308328363074" />
+            <tli id="T16" time="11.1003714747803" />
+            <tli id="T17" time="11.4119949941403" />
+            <tli id="T18" time="12.8650190060034" />
+            <tli id="T19" time="14.3681131054834" />
+            <tli id="T20" time="16.1729326551092" />
+            <tli id="T21" time="18.5750306168413" />
+            <tli id="T22" time="19.2567065060032" />
+            <tli id="T23" time="19.7232690060034" />
+            <tli id="T24" time="20.2370227200938" />
+            <tli id="T25" time="20.7687065060031" />
+            <tli id="T26" time="21.3536736644667" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Agent de la SNCFT" type="t" category="Default" display-name="Agent de la SNCFT">
+            <event start="T2" end="T3">#</event>
+            <event start="T3" end="T4">آشْ بَاشْ نَعْمِلْ نَعْطِيكْ</event>
+            <event start="T4" end="T5">عِشْرِينِكْ</event>
+            <event start="T5" end="T6">#</event>
+            <event start="T7" end="T8">#</event>
+            <event start="T8" end="T9">آشْ مَاشْ نَعْملُوا</event>
+            <event start="T12" end="T13">أحْنَا مَا يَعْطِيوْنَاشْ صَرِّفْ</event>
+            <event start="T14" end="T15">#</event>
+            <event start="T18" end="T19">#</event>
+            <event start="T19" end="T20">آشْ نَعْملُوا بِيهْ الدِينَارْ شِدْ هَكَّة</event>
+            <event start="T20" end="T21">#</event>
+            <event start="T21" end="T22">أيَا لِلَّة أيْ</event>
+            <event start="T24" end="T25">أيْه اِلْمَاضِي سَاعَة</event>
+            <event start="T25" end="T26">ورْبُعْ أيْه</event>
+        </tier>
+        <tier id="TIE1" speaker="Clients" type="t" category="Default" display-name="Clients">
+            <event start="T1" end="T2">مَا عَنْدُوشْ صَرِّفْ</event>
+            <event start="T2" end="T3">#</event>
+            <event start="T5" end="T6">#</event>
+            <event start="T6" end="T7">اه</event>
+            <event start="T7" end="T8">#</event>
+            <event start="T9" end="T10">مَا نَعْرَفشْ</event>
+            <event start="T10" end="T11">إنْتُومَا</event>
+            <event start="T11" end="T12">مَا عَندكُمْشْ صَرفْ إنْتُومْ</event>
+            <event start="T13" end="T14">اه</event>
+            <event start="T14" end="T15">#</event>
+            <event start="T15" end="T16">عِنْدِي</event>
+            <event start="T16" end="T17">اه</event>
+            <event start="T17" end="T18">دِينَارْ ما يزيش كْهَوْ</event>
+            <event start="T18" end="T19">#</event>
+            <event start="T20" end="T21">#</event>
+            <event start="T22" end="T23">تَوَّة</event>
+            <event start="T23" end="T24">نُرْكْبُوا</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

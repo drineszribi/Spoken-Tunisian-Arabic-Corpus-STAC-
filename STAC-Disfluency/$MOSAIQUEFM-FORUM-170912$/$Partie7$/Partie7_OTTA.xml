@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>Partie7_OTTA</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Amina">
+                <abbreviation>Amina</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Wissal">
+                <abbreviation>Wissal</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Mohamed">
+                <abbreviation>Mohamed</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="4.78442573696146" />
+            <tli id="T3" time="8.74186337868481" />
+            <tli id="T4" time="10.1496865079365" />
+            <tli id="T5" time="11.0560130385488" />
+            <tli id="T6" time="12.0938361678005" />
+            <tli id="T7" time="12.8250379818594" />
+            <tli id="T8" time="14.1040823357161" />
+            <tli id="T9" time="16.4156275510204" />
+            <tli id="T10" time="19.315876984127" />
+            <tli id="T11" time="22.6378044217687" />
+            <tli id="T12" time="23.4126116780045" />
+            <tli id="T13" time="26.5576910430839" />
+            <tli id="T14" time="27.8155178934519" />
+            <tli id="T15" time="29.1950379818594" />
+            <tli id="T16" time="29.7521808390023" />
+            <tli id="T17" time="34.123518707483" />
+            <tli id="T18" time="40.9593852659958" />
+            <tli id="T19" time="41.4896184807256" />
+            <tli id="T20" time="43.1162624716553" />
+            <tli id="T21" time="48.2412511337869" />
+            <tli id="T22" time="48.7425890022676" />
+            <tli id="T23" time="49.8067386621315" />
+            <tli id="T24" time="52.1029971655329" />
+            <tli id="T25" time="52.4722715419501" />
+            <tli id="T26" time="54.6094370748299" />
+            <tli id="T27" time="55.2305255102041" />
+            <tli id="T28" time="60.0014325396825" />
+            <tli id="T29" time="60.5444710884354" />
+            <tli id="T30" time="62.4680992063492" />
+            <tli id="T31" time="63.0202080498866" />
+            <tli id="T32" time="65.1498415016242" />
+            <tli id="T33" time="65.4614650370273" />
+            <tli id="T34" time="66.7162171201814" />
+            <tli id="T35" time="67.4402760770975" />
+            <tli id="T36" time="68.1832919501134" />
+            <tli id="T37" time="69.5261944444445" />
+            <tli id="T38" time="69.944720521542" />
+            <tli id="T39" time="72.4102760770975" />
+            <tli id="T40" time="72.7958316326531" />
+            <tli id="T41" time="76.6512738095238" />
+            <tli id="T42" time="77.1051740362812" />
+            <tli id="T43" time="78.3148339002268" />
+            <tli id="T44" time="81.2739206235796" />
+            <tli id="T45" time="88.4610503216461" />
+            <tli id="T46" time="95.0034506802721" />
+            <tli id="T47" time="97.4747431972789" />
+            <tli id="T48" time="99.1959223356009" />
+            <tli id="T49" time="99.6743350340136" />
+            <tli id="T50" time="101.419096938776" />
+            <tli id="T51" time="102.39943707483" />
+            <tli id="T52" time="106.26816723356" />
+            <tli id="T53" time="106.586625283447" />
+            <tli id="T54" time="111.742929138322" />
+            <tli id="T55" time="112.115400793651" />
+            <tli id="T56" time="112.568348639456" />
+            <tli id="T57" time="113.7738361678" />
+            <tli id="T58" time="114.182702380952" />
+            <tli id="T59" time="119.237486961451" />
+            <tli id="T60" time="119.931115079365" />
+            <tli id="T61" time="122.988371315193" />
+            <tli id="T62" time="123.533904195011" />
+            <tli id="T63" time="124.968325963719" />
+            <tli id="T64" time="125.610888321995" />
+            <tli id="T65" time="127.728348639456" />
+            <tli id="T66" time="128.115196712018" />
+            <tli id="T67" time="132.05510600907" />
+            <tli id="T68" time="132.537623015873" />
+            <tli id="T69" time="133.320434807256" />
+            <tli id="T70" time="139.994153628118" />
+            <tli id="T71" time="141.943269274376" />
+            <tli id="T72" time="147.597577664399" />
+            <tli id="T73" time="150.113722789116" />
+            <tli id="T74" time="153.239550453515" />
+            <tli id="T75" time="156.403745464853" />
+            <tli id="T76" time="158.595876984127" />
+            <tli id="T77" time="161.542702380952" />
+            <tli id="T78" time="166.095037981859" />
+            <tli id="T79" time="166.632974489796" />
+            <tli id="T80" time="167.040661564626" />
+            <tli id="T81" time="168.967963151927" />
+            <tli id="T82" time="169.313916593784" />
+            <tli id="T83" time="170.084153628118" />
+            <tli id="T84" time="171.934788548753" />
+            <tli id="T85" time="174.576988095238" />
+            <tli id="T86" time="176.01382260495" />
+            <tli id="T87" time="177.536647959184" />
+            <tli id="T88" time="177.976103741497" />
+            <tli id="T89" time="180.630344104308" />
+            <tli id="T90" time="181.183359977324" />
+            <tli id="T91" time="184.877799399952" />
+            <tli id="T92" time="186.029142290249" />
+            <tli id="T93" time="186.754153628118" />
+            <tli id="T94" time="190.737282879819" />
+            <tli id="T95" time="191.715446145125" />
+            <tli id="T96" time="195.395196712018" />
+            <tli id="T97" time="196.084017573696" />
+            <tli id="T98" time="202.691818027211" />
+            <tli id="T99" time="208.734969954649" />
+            <tli id="T100" time="212.036860935552" />
+            <tli id="T101" time="212.893825654981" />
+            <tli id="T102" time="216.778983560091" />
+            <tli id="T103" time="218.710798295951" />
+            <tli id="T104" time="220.7135" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Amina" type="t" category="v" display-name="Amina">
+            <event start="T69" end="T70">شنوة معناها انتي توة فسرت لنا الطريقة  [lan:FR, procédure] ولا اجراء كيفاش يصير في ما يخص  وضع جداول الاوقات و الاساتذة وغيره</event>
+            <event start="T70" end="T71">آش أنا مستوى اللي يقريه</event>
+            <event start="T71" end="T72">شنوة الاشكالية معناها اللي صارت اذا وقت اللي ن- ن-  نلقاو اولياء يتشكاو مالفكرة هذيه</event>
+            <event start="T72" end="T73">هل انو ما خدموش مع بعضهم آ÷</event>
+            <event start="T76" end="T77">معناها ثمة بعض المديرين ما خدموش خدمتهم كيما يلزم </event>
+            <event start="T79" end="T80">اهه</event>
+            <event start="T82" end="T84">ماهو [lan:FR, normalement] يصير التوافق قبل خمسطاش سبتمبر</event>
+            <event start="T84" end="T85">قبل العودة اللي السنة سبعطاش سبتمبر</event>
+            <event start="T87" end="T88">اهه</event>
+            <event start="T89" end="T90">ايه</event>
+            <event start="T91" end="T92">هل انها حاجة عادية</event>
+            <event start="T92" end="T93">ام لا</event>
+            <event start="T96" end="T97">ام باهي</event>
+            <event start="T97" end="T98">آ÷ خلي بعد شوية نزيدوا نتحدثوا زادة على نقطة مهمة برشة كان تحدث عليها سي [عبد الكريم, شخ] قبيلة في مدرسة ابن خلدون ثلاثة </event>
+            <event start="T98" end="T99">وقت اللي التلميذ يمشي باش يقرا ويقولوا لا ربما بعد غدوة يمكن تنجم ترجع تقرا</event>
+            <event start="T99" end="T100">معناها عودة مدرسية مع وقف التنفيذ يظهر لي كيما المعلم</event>
+            <event start="T101" end="T102">بعد شوية نحكيو فيها النقطة هذية وتحاول تفسرها لنا سي [محمد تن, شخ] </event>
+            <event start="T102" end="T103">عن وزارة التربية ضيفنا اليوم في </event>
+            <event start="T103" end="T104">[lan:FR, el studio]</event>
+        </tier>
+        <tier id="TIE1" speaker="Wissal" type="t" category="v" display-name="Wissal">
+            <event start="T1" end="T2">سي [محمد تن, شخ] مدبر عام البناءات والتجهيز بوزارة التربية</event>
+            <event start="T2" end="T3">ثمة حاجة اليوم في وزارة التربية اسمها معلم او استاذ  [lan:FR, provisoire]</event>
+            <event start="T3" end="T4">مؤقت او</event>
+            <event start="T4" end="T5">#</event>
+            <event start="T7" end="T9">&amp;&amp; موجود  في ال- الواقع سي [محمد, شخ] &amp;&amp;</event>
+            <event start="T18" end="T19">اهه</event>
+            <event start="T24" end="T25">اهه</event>
+            <event start="T44" end="T45">كيفاش تنجم تتدخل [lan:FR, justement] معناتها المندوبية الجهوية لهنا كيفاش تنجم تتدخل اذا كان معناتها ما تفهموش المعلمين</event>
+            <event start="T45" end="T46"> وال- والمديرين اذا كان معناتها الاشكالات ما زلت قايمة في بعض [lan:FR, lycée] والا المدارس كيفاش تدخل</event>
+            <event start="T48" end="T49">[lan:FR, biensur]</event>
+            <event start="T54" end="T55">اهه</event>
+            <event start="T63" end="T64">اهه</event>
+            <event start="T65" end="T66">اهه</event>
+        </tier>
+        <tier id="TIE2" speaker="Mohamed" type="t" category="v" display-name="Mohamed">
+            <event start="T5" end="T6">لا ما عندناش</event>
+            <event start="T6" end="T7">#</event>
+            <event start="T8" end="T9">ما عندناش ما عندناش الله غالب</event>
+            <event start="T9" end="T10">الله غالب آ÷ الولية آ÷ عندها حق</event>
+            <event start="T10" end="T11">آ÷ وغير معقول غير معقول بلل -</event>
+            <event start="T11" end="T12">#</event>
+            <event start="T12" end="T13">غير معقول باش باش آ÷</event>
+            <event start="T13" end="T14">#</event>
+            <event start="T14" end="T15">تصير حوايج من النوع هذيه تبقى</event>
+            <event start="T15" end="T16">#</event>
+            <event start="T16" end="T17">آ÷ بالنسبة للجداول جداول الاوقات المعلمين نعرفوا وانه</event>
+            <event start="T17" end="T18">آ÷ ال- ال-  ال- المدير يختار المعلمين حسب ال- حسب ال- موش المستوى  معناها الكل كبعضهم</event>
+            <event start="T19" end="T20">تبقى اللي اللي آ÷</event>
+            <event start="T20" end="T21">بالتوافق مع بعضهم اللي كان يقري في السنة الرابعة فرنسية  يقعد  رابعة فرنسية واللي يحب يتعدى للسنة الخامسة</event>
+            <event start="T21" end="T22">#</event>
+            <event start="T22" end="T23">   آ÷</event>
+            <event start="T23" end="T24">ثمة مديرين عملوا جداول الاوقات</event>
+            <event start="T24" end="T26">مع الاشارة هو وانو راهو المتفقدين متاعنا</event>
+            <event start="T27" end="T28">في كل دايرة عندنا متفقد متفقد دايرة هو اللي قاعد النهار الاول</event>
+            <event start="T28" end="T29">#</event>
+            <event start="T29" end="T30">قاعدين يقوموا بزيارات للمؤسسات التربوية</event>
+            <event start="T30" end="T31">#</event>
+            <event start="T31" end="T32">و- آ÷ يراجعوا</event>
+            <event start="T32" end="T33">#</event>
+            <event start="T33" end="T34">جداول الاوقات</event>
+            <event start="T34" end="T35">متاع كل معلم</event>
+            <event start="T35" end="T36">#</event>
+            <event start="T36" end="T37">المتفقد يعرف المعلمين متاعه</event>
+            <event start="T37" end="T38">#</event>
+            <event start="T38" end="T39">يراجع الجداول الاوقات  واما هي الجداول</event>
+            <event start="T39" end="T40">#</event>
+            <event start="T40" end="T41">ام÷ نتصور اذا كان ثمة خلل في جداول  متاع الاوقات المتفقد باش يتدخل</event>
+            <event start="T41" end="T42">#</event>
+            <event start="T42" end="T43">والمندوبية الجهوية</event>
+            <event start="T43" end="T44">تتدخل ل- لتفادي ال- ال-</event>
+            <event start="T46" end="T47">كل كل آ÷</event>
+            <event start="T47" end="T48">معلم معلمين متاع الدائرة</event>
+            <event start="T48" end="T49">احنا عندنا</event>
+            <event start="T49" end="T50">تقريب كل منفقد عنده</event>
+            <event start="T50" end="T51">#</event>
+            <event start="T51" end="T52">مجموعة ال- المدارس الابتدائية عشرة خمسطاش حسب عدد المعلمين</event>
+            <event start="T52" end="T53">#</event>
+            <event start="T53" end="T54">و- المدير مطالب باش يعطي جداول الاوقات يمد المتفقد بجداول الاوقات متاعه</event>
+            <event start="T55" end="T56">#</event>
+            <event start="T56" end="T57">والمتفقد هو</event>
+            <event start="T57" end="T58">#</event>
+            <event start="T58" end="T59">يعرف ال- المستويات ويعرف المعلمين ويعرف  ال- ال- المستويات متاع التلامذة نقصد بيها</event>
+            <event start="T59" end="T60">#</event>
+            <event start="T60" end="T61">واذا كان ثمة اشكال ما بين المعلمين المتفقد هو اللي يتدخل</event>
+            <event start="T61" end="T62">#</event>
+            <event start="T62" end="T63">ويراجع الجداول هذوما</event>
+            <event start="T63" end="T64">#</event>
+            <event start="T64" end="T65">واذا كان ما ثماش  متفقد ما لقاش حل</event>
+            <event start="T65" end="T66">#</event>
+            <event start="T66" end="T67">ثمة مندوبية جهوية وثمة ادارة خاصة بالتعليم الاساسي هي اللي تتدخل </event>
+            <event start="T67" end="T68">#</event>
+            <event start="T68" end="T69">ل- آ÷</event>
+            <event start="T73" end="T74">لا المدير هو اللي خدم المدير هو اللي خدم جداول الاوقات</event>
+            <event start="T74" end="T75">في العطلة متاعو في  العطلة كاملة هو المدير مطالب باش يرجع</event>
+            <event start="T75" end="T76">من العطلة متاعو اول سيتمبر</event>
+            <event start="T77" end="T78">لا ربما خدم خدمتو في سبتمبر تبقى ما ما ما ما ما يرضيش المعلمين</event>
+            <event start="T78" end="T79">#</event>
+            <event start="T80" end="T81">وقتها يلزم توافق بين المعلمين</event>
+            <event start="T81" end="T83">*</event>
+            <event start="T85" end="T86">وقتاش التحقوا المعلمين</event>
+            <event start="T86" end="T87">التحقو نهار اربعطاش سبتمبر</event>
+            <event start="T88" end="T89">اربعطاش سبتمبر التحقوا كل واحد ياخذ الجدول متاعه</event>
+            <event start="T90" end="T91">اليوم وقت اللي حضرت المعلمين الكل ربما ثمة معلمين ما رضاتش بالجداول هذيكة</event>
+            <event start="T93" end="T94">آ÷ ما هياش  عادية  تبقى في العادة تصير اما تتصلح في الجمعة الاولى  </event>
+            <event start="T94" end="T95">#</event>
+            <event start="T95" end="T96">في الجمعة الاولى تتصلح بتدخل من متفقد الدائرة والمندوبية الجهوية</event>
+            <event start="T100" end="T101">ماهواش معقول</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

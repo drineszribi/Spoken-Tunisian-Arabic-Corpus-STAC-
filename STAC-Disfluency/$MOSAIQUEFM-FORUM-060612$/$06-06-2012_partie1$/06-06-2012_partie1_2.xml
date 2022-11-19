@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>06-06-2012_partie1_2</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Sp1">
+                <abbreviation>Sp1</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp2">
+                <abbreviation>Sp2</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp3">
+                <abbreviation>Sp3</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp4">
+                <abbreviation>Sp4</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp5">
+                <abbreviation>Sp5</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="4.07892926049375" />
+            <tli id="T3" time="4.3463871322801" />
+            <tli id="T4" time="10.6949292604938" />
+            <tli id="T5" time="11.3429292604937" />
+            <tli id="T6" time="13.7429292604938" />
+            <tli id="T7" time="14.8149292604937" />
+            <tli id="T8" time="16.1829292604938" />
+            <tli id="T9" time="16.6469292604937" />
+            <tli id="T10" time="17.2175625" />
+            <tli id="T11" time="18.4549292604937" />
+            <tli id="T12" time="19.7615" />
+            <tli id="T13" time="21.6436875" />
+            <tli id="T14" time="22.777604071102" />
+            <tli id="T15" time="26.2091875" />
+            <tli id="T16" time="29.2515" />
+            <tli id="T17" time="31.5028682673136" />
+            <tli id="T18" time="33.8013380729421" />
+            <tli id="T19" time="34.2869292604938" />
+            <tli id="T20" time="36.3800370120789" />
+            <tli id="T21" time="37.2767730102794" />
+            <tli id="T22" time="37.6949292604938" />
+            <tli id="T23" time="38.4575272480995" />
+            <tli id="T24" time="38.8869292604937" />
+            <tli id="T25" time="39.4949292604937" />
+            <tli id="T26" time="41.3965746934472" />
+            <tli id="T27" time="43.270568096876" />
+            <tli id="T28" time="44.3440139658014" />
+            <tli id="T29" time="44.6149292604938" />
+            <tli id="T30" time="47.0709292604937" />
+            <tli id="T31" time="47.4527642325913" />
+            <tli id="T32" time="51.1978930069581" />
+            <tli id="T33" time="51.6912969380129" />
+            <tli id="T34" time="53.475375" />
+            <tli id="T35" time="54.2949292604937" />
+            <tli id="T36" time="54.5109292604938" />
+            <tli id="T37" time="56.0309292604938" />
+            <tli id="T38" time="56.5191792604938" />
+            <tli id="T39" time="60.9509292604937" />
+            <tli id="T40" time="61.5783551009003" />
+            <tli id="T41" time="63.3312374867966" />
+            <tli id="T42" time="63.6298767080974" />
+            <tli id="T43" time="66.122864990261" />
+            <tli id="T44" time="66.3955355836227" />
+            <tli id="T45" time="68.1263884011449" />
+            <tli id="T46" time="68.4229292604937" />
+            <tli id="T47" time="71.2695" />
+            <tli id="T48" time="71.6549292604937" />
+            <tli id="T49" time="77.8789292604937" />
+            <tli id="T50" time="78.4796221654853" />
+            <tli id="T51" time="79.7429292604937" />
+            <tli id="T52" time="81.2582653549801" />
+            <tli id="T53" time="81.6888568576255" />
+            <tli id="T54" time="83.0392255110388" />
+            <tli id="T55" time="83.2729431625911" />
+            <tli id="T56" time="85.4667417604938" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Sp1" type="t" category="Default" display-name="Sp1">
+            <event start="T1" end="T2">آنَا عَنْدِي بَابَا وْخُويَا[lan:FR, déjà] بَطّْلُوا الدُخَّانْ خَاطِرْ بَابَا صَارِتْ لُو [lan:FR, crise cardiaque trois fois].</event>
+            <event start="T2" end="T3">#</event>
+            <event start="T3" end="T4">بَطَّلْ خُويَا ماللِي شَافْ بَابَا هَكَاكَة. وبَابَا بَطَّلْ تَوِيكَة. وآنَا مَعْنَاتْهَا مِنْ جُرِة الدُخَّانْ هَذَا [lan:FR, asmatique déjà].</event>
+        </tier>
+        <tier id="TIE1" speaker="Sp2" type="t" category="Default" display-name="Sp2">
+            <event start="T4" end="T5">musique</event>
+            <event start="T5" end="T6">آنَا عَنْدِي سَبْعَة سْنِينْ تَقْرِيبْ</event>
+            <event start="T6" end="T7">نِتْكَيِفْ. حَاوِلْت</event>
+            <event start="T7" end="T8">بَرْشَة مَرَّاتْ بَاشْ</event>
+            <event start="T8" end="T9">نُقْلِعْ عْلَى</event>
+            <event start="T9" end="T10">اِلْتَدْخِينْ.</event>
+            <event start="T10" end="T11"> لكن مَا نِجِمْتِشْ.</event>
+            <event start="T11" end="T12">عَنْدِي عَزِيمَة فِي كُلْ شَيْ.</event>
+            <event start="T12" end="T13">أمَا عَزِيمْتِي خَانِتْنِي كَانْ فِي اِلْتَدْخِينْ.</event>
+            <event start="T13" end="T14"> جَرِبْتْ [lan:FR, les patches].</event>
+            <event start="T14" end="T15"> جَرِبْتْ حَتَّى [lan:FR, nicopas]. الحْرَابِشْ هَذُوكُمْ اللِي يْبِيعُوا فِيهُمْ فِي [lan:FR, pharmacie].</event>
+            <event start="T15" end="T16">[lan:FR, dernièrement] خْذِيتْ هَاكَة [lan:FR,  cigarette électrique].</event>
+            <event start="T16" end="T17">يَعْنِي تِشْعِلْ بِضَوْ ماهيش تْدَخِنْ.</event>
+            <event start="T17" end="T18">تْخَرِجْ دُخَانْ [lan:MSA, فَقَطْ] لَكِنْ مَاهُوَاشْ</event>
+            <event start="T18" end="T19">#</event>
+            <event start="T19" end="T20">[lan:FR, sans nicotine voilà]. مَا نِجِمْتِشْ زَادَة.</event>
+            <event start="T20" end="T21">ما نعرفش آنا.</event>
+            <event start="T21" end="T22">#</event>
+            <event start="T22" end="T23">عَنْدِي إقْتِرَاحْ.</event>
+            <event start="T23" end="T24">نِقْتَرَحْ </event>
+            <event start="T24" end="T25">اللِي </event>
+            <event start="T25" end="T26">الدَوْلَة زَادَة تْخَمِمْ فِيهَا مْلِيحْ.</event>
+            <event start="T26" end="T27">يَعْمْلُوا [lan:FR, des centres] مُوشْ لِيَّ آنَا بَرْكَة.</event>
+            <event start="T27" end="T28"> يَعْنِي النَاسْ الكُلْ اللِي تْحِبْ </event>
+            <event start="T28" end="T29">#</event>
+            <event start="T29" end="T30">بِالرَسْمِي عَنْدِهُمْ [lan:FR, l'envie] بَاشْ يَقَلْعُوا عْلَى اِلْتَدْخِينْ.</event>
+            <event start="T30" end="T31">(تنفس)</event>
+            <event start="T31" end="T32">يَعْمْلُوا [lan:FR, des centres] مْتَاعْ يْعَاوْنُوا الَعْبَادْ بَاشْ تُقْلِعْ عْلَى اِلْتَدْخِينْ.</event>
+        </tier>
+        <tier id="TIE2" speaker="Sp3" type="t" category="Default" display-name="Sp3">
+            <event start="T32" end="T33">musique</event>
+            <event start="T33" end="T34">آنَا بَقِيِتْ ثْلَاثَة سْنِينْ مَا نِتْكَيِفِشْ.</event>
+            <event start="T34" end="T35"> ورجَعِتْ لدُخَانْ.</event>
+            <event start="T35" end="T36">#</event>
+            <event start="T36" end="T37">ونْقُولْ لِجْمَاعَة اللِي يدَخْنُوا.</event>
+            <event start="T37" end="T38">#</event>
+            <event start="T38" end="T39">رُدُوا بَالْكُمْ تْبَطْلُوهْ. عْلَى خَاطِرْ رَاهُو يَبْقَى يْلُوم.ْ ويْقُولْ هَذِي العِشْرَة اللِي بِينَاتْنَا.</event>
+        </tier>
+        <tier id="TIE3" speaker="Sp4" type="t" category="Default" display-name="Sp4">
+            <event start="T39" end="T40">musique</event>
+            <event start="T40" end="T41">مَاهُوَاشْ مُسْتَحِيلْ الإِقْلَاعْ عَنْ اِلْتَدْخِينْ.</event>
+            <event start="T41" end="T42">(تنفس)</event>
+            <event start="T42" end="T43"> اللِي عَندْ عَزِيمَة يْنَجِمْ يْبَطِلْ الدُخَّان.</event>
+            <event start="T43" end="T44">(تنفس)</event>
+            <event start="T44" end="T45">يَا إما بِعَزِيمَتو وإلَا يَرَى حَدْ.</event>
+            <event start="T45" end="T46">#</event>
+            <event start="T46" end="T47">يَرَى حَدْ تْضَرْ مِنْ طَرَفْ مِنْ وْرَا الدُخَّانْ.</event>
+            <event start="T47" end="T48">(تنفس)</event>
+            <event start="T48" end="T49">مَثَلاً جاَتُو جَلْطَة. وَإلا وَلَّاتْ عَنْدُو شَرَايِينْ آ÷ عْرُوقْ مَسْدُودَة. فَهُوَ يِضطَرْ بَاشْ يْبَطِلْ الدُخَّانْ. عْلَاشْ يْقُولْ</event>
+            <event start="T49" end="T50">#</event>
+            <event start="T50" end="T51">مَا نَجْمَشْ. نَجِّمْ.</event>
+            <event start="T51" end="T52">نَجِّمْ. نَجِّمْ. ونْزِيدْ نَجِّمْ.</event>
+        </tier>
+        <tier id="TIE4" speaker="Sp5" type="t" category="Default" display-name="Sp5">
+            <event start="T52" end="T53">musique</event>
+            <event start="T53" end="T54">آنَا قْعَدِتْ عَشْرَة سْنِينْ نِتْكَيِفْ.</event>
+            <event start="T54" end="T55">#</event>
+            <event start="T55" end="T56">وتَوَّة عَنْدِي سِتَة شْهُورْ ماللِي بَطَلِتْ.</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

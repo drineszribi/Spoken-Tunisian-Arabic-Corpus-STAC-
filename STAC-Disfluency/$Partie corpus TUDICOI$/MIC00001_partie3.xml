@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>MIC00001_partie3</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Agent de la SNCFT">
+                <abbreviation>Agent de la SNCFT</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Client">
+                <abbreviation>Client</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="3.48384353741496" />
+            <tli id="T3" time="3.64300744962001" />
+            <tli id="T4" time="3.79584353741496" />
+            <tli id="T5" time="4.05984353741496" />
+            <tli id="T6" time="4.35584353741496" />
+            <tli id="T7" time="4.75584353741496" />
+            <tli id="T8" time="4.91584353741496" />
+            <tli id="T9" time="5.19628421914055" />
+            <tli id="T10" time="5.45272442014934" />
+            <tli id="T11" time="5.638748337057" />
+            <tli id="T12" time="6.10609707806846" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Agent de la SNCFT" type="t" category="Default" display-name="Agent de la SNCFT">
+            <event start="T7" end="T8">#</event>
+            <event start="T8" end="T9">وأرْبَعَة</event>
+            <event start="T9" end="T10">أيْهْ</event>
+            <event start="T10" end="T11">#</event>
+        </tier>
+        <tier id="TIE1" speaker="Client" type="t" category="Default" display-name="Client">
+            <event start="T2" end="T3">صْبَاحْ</event>
+            <event start="T3" end="T4">الخِيرْ</event>
+            <event start="T4" end="T5">&lt;تونس, مك&gt;</event>
+            <event start="T5" end="T6">مَاضِي</event>
+            <event start="T6" end="T7">سَاعَة</event>
+            <event start="T11" end="T12">وأرْبَعَة</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

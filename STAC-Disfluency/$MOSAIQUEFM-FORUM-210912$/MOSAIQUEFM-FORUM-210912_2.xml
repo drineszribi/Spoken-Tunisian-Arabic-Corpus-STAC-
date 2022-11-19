@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>MOSAIQUEFM-FORUM-210912_2</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Sp1">
+                <abbreviation>Sp1</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp2">
+                <abbreviation>Sp2</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp3">
+                <abbreviation>Sp3</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp4">
+                <abbreviation>Sp4</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp5">
+                <abbreviation>Sp5</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp6">
+                <abbreviation>Sp6</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp7">
+                <abbreviation>Sp7</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp8">
+                <abbreviation>Sp8</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp9">
+                <abbreviation>Sp9</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp10">
+                <abbreviation>Sp10</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Sp11">
+                <abbreviation>Sp11</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="2.39223112756986" />
+            <tli id="T3" time="4.7006369047619" />
+            <tli id="T4" time="9.72694075963718" />
+            <tli id="T5" time="11.3260637982072" />
+            <tli id="T6" time="11.9493108690134" />
+            <tli id="T7" time="13.444673185941" />
+            <tli id="T8" time="13.938822845805" />
+            <tli id="T9" time="18.4863965419501" />
+            <tli id="T10" time="22.4232076159742" />
+            <tli id="T11" time="22.857692086646" />
+            <tli id="T12" time="25.214106292517" />
+            <tli id="T13" time="28.6552174036281" />
+            <tli id="T14" time="31.8194804421769" />
+            <tli id="T15" time="33.3326550453515" />
+            <tli id="T16" time="34.7732965265215" />
+            <tli id="T17" time="35.5319476547123" />
+            <tli id="T18" time="36.2460849233444" />
+            <tli id="T19" time="39.4120881519274" />
+            <tli id="T20" time="40.1803320578084" />
+            <tli id="T21" time="40.4656255668934" />
+            <tli id="T22" time="41.5134713718821" />
+            <tli id="T23" time="44.405219185299" />
+            <tli id="T24" time="51.2491629818594" />
+            <tli id="T25" time="54.2567140022676" />
+            <tli id="T26" time="55.557076814059" />
+            <tli id="T27" time="57.3375959045271" />
+            <tli id="T28" time="57.9868116032835" />
+            <tli id="T29" time="61.697076814059" />
+            <tli id="T30" time="63.2114985827664" />
+            <tli id="T31" time="65.5258380014617" />
+            <tli id="T32" time="65.8421335034014" />
+            <tli id="T33" time="68.9072457147665" />
+            <tli id="T34" time="69.4945598072562" />
+            <tli id="T35" time="72.0437888321995" />
+            <tli id="T36" time="72.7939702380952" />
+            <tli id="T37" time="78.8192378220734" />
+            <tli id="T38" time="82.7236074263038" />
+            <tli id="T39" time="89.4503277973801" />
+            <tli id="T40" time="89.9325907063343" />
+            <tli id="T41" time="95.1236754535147" />
+            <tli id="T42" time="97.1234713718821" />
+            <tli id="T43" time="101.217457061425" />
+            <tli id="T44" time="102.238505385488" />
+            <tli id="T45" time="106.177464999924" />
+            <tli id="T46" time="107.113176587302" />
+            <tli id="T47" time="110.069072571156" />
+            <tli id="T48" time="112.080432823129" />
+            <tli id="T49" time="112.88610175737" />
+            <tli id="T50" time="115.561437382636" />
+            <tli id="T51" time="117.080408000448" />
+            <tli id="T52" time="117.729623699204" />
+            <tli id="T53" time="119.025194727891" />
+            <tli id="T54" time="121.886679676256" />
+            <tli id="T55" time="123.350591553288" />
+            <tli id="T56" time="124.503403344671" />
+            <tli id="T57" time="125.415988378685" />
+            <tli id="T58" time="126.315577606183" />
+            <tli id="T59" time="127.925632539099" />
+            <tli id="T60" time="130.099412414966" />
+            <tli id="T61" time="132.439240244119" />
+            <tli id="T62" time="133.685734385731" />
+            <tli id="T63" time="134.338173602369" />
+            <tli id="T64" time="136.866124433107" />
+            <tli id="T65" time="141.675505674347" />
+            <tli id="T66" time="145.221782065096" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Sp1" type="t" category="Default" display-name="Sp1">
+            <event start="T1" end="T2">آنا بيدي نخدم س- في [lan:FR, restaurant touristique] في [lan:FR, lac].</event>
+            <event start="T2" end="T3">والله نحب نعرف التوقيت الإداري يخصنا أحنا</event>
+            <event start="T3" end="T4"> وإلا زادة. بحكم أنو السبت نخدموا كامل اليوم مالساعة ثمنية لساعة خمسة خمسة ونص.</event>
+            <event start="T4" end="T5">وآنا نخدم في الإدارة معناتها.</event>
+        </tier>
+        <tier id="TIE1" speaker="Sp2" type="t" category="Default" display-name="Sp2">
+            <event start="T5" end="T6">musique</event>
+            <event start="T6" end="T7">بربَي آنا نخدم في ال- [lan:FR, privé].</event>
+            <event start="T7" end="T8">حبيت نسأل.</event>
+            <event start="T8" end="T9">آنا نخدم جمعة كاملة من الثمنية حتى آش الخمسة الخمسة ونصف وساعات حتى آش لستة.</event>
+            <event start="T9" end="T10">يالندرا عندي الحق في نهار سبت نرتاح فيه وإلا لا عالأقل جمعة بجمعة.</event>
+        </tier>
+        <tier id="TIE2" speaker="Sp3" type="t" category="Default" display-name="Sp3">
+            <event start="T10" end="T11">musique</event>
+            <event start="T11" end="T12"> التوقيت الاداري الجديد. اليوم جمعة مباركة </event>
+            <event start="T12" end="T13"> من ثمانية لماضي ساعة ومن الساعتين ونصف للخمسة.</event>
+            <event start="T13" end="T14"> نحب نذكر اللي صلاة الجمعة تبدا من نصف النهار ونصف.</event>
+            <event start="T14" end="T15"> إكبس يا حكومة زيد إكبس.</event>
+            <event start="T15" end="T16"> يا تمشي تصلي. يا تمشي تفطر.</event>
+        </tier>
+        <tier id="TIE3" speaker="Sp4" type="t" category="Default" display-name="Sp4">
+            <event start="T16" end="T17">musique</event>
+            <event start="T17" end="T18"> بالله عالسلامة.</event>
+            <event start="T18" end="T19"> حبيت نسأل [lan:FR, concernant] القانون الوظيفة العمومية هذاية الجديد.</event>
+            <event start="T19" end="T20">[lan:FR, est-ce-que] يشمل </event>
+            <event start="T20" end="T21">(تنفس)</event>
+            <event start="T21" end="T22">أهل التعليم وإلا لا.</event>
+            <event start="T22" end="T23">ياخي موظفين عموميين وإلا موش موظفين عموميين هذومة.</event>
+        </tier>
+        <tier id="TIE4" speaker="Sp5" type="t" category="Default" display-name="Sp5">
+            <event start="T23" end="T24">والله التوانسة لو كان تعطيهم تقَولوا لهم أقَعدوا في دياركم سبعة أيام ما تخدموش. إلا ما يطلعوا فيها سبة. ويطلعوا فيها نبة.</event>
+            <event start="T24" end="T25">ويقَولوا لك زيدنا. مستحيل التوانسة يرضيهم شيء.</event>
+            <event start="T25" end="T26"> أخدموا على رواحكم يا ناس.</event>
+            <event start="T26" end="T27">بلادكم في حاجة ليكم باش تخدموها.</event>
+        </tier>
+        <tier id="TIE5" speaker="Sp6" type="t" category="Default" display-name="Sp6">
+            <event start="T27" end="T28">musique</event>
+            <event start="T28" end="T29">شو الموظفين بالله شنية الفايدة من خمسة أيام في الجمعة. آشنية الفايدة.</event>
+            <event start="T29" end="T30"> لازمهم نهار السبت  مرتاحين.</event>
+            <event start="T30" end="T31">كبفاش يعمل. ما يخرجش. ما يرقَلش أوراقهم.</event>
+        </tier>
+        <tier id="TIE6" speaker="Sp7" type="t" category="Default" display-name="Sp7">
+            <event start="T31" end="T32">musique</event>
+            <event start="T32" end="T33">حكاية عملتوها راهي زايدة. خلي الناس تخدم حتى نهار الأحد.</event>
+        </tier>
+        <tier id="TIE7" speaker="Sp8" type="t" category="Default" display-name="Sp8">
+            <event start="T33" end="T34">musique</event>
+            <event start="T34" end="T35">آنا موظفة نحب نعطي راي في الوقت الجديد.</event>
+            <event start="T35" end="T36"> ما فهمتش آنا.</event>
+            <event start="T36" end="T37">[lan:FR, est-ce-que] كنخدموا من الثمانية ونصف حتى الخمسة ونصف أولادنا ننساوهم معناها نهار كامل.</event>
+            <event start="T37" end="T38"> ياخي ن- ن- معناها نهملوهم جمعة كاملة باش نتلهاو بيهم نهار السبت.</event>
+            <event start="T38" end="T39">على الأقل أعطيونا مثلا نخدموا من الثمانية ونصف حتى الماضي ثلاثة وإلا يا سيدي حتى من سبعة ونصف حتى الماضي ثلاثة.</event>
+        </tier>
+        <tier id="TIE8" speaker="Sp9" type="t" category="Default" display-name="Sp9">
+            <event start="T39" end="T40">musique</event>
+            <event start="T40" end="T41">الوقت ال- الجديد هذاية موش مساعدنا الكلنا كنساء حتى رجال موش مساعدهم بالكل.</event>
+            <event start="T41" end="T42">[lan:FR, de préférence] تبدلوه.</event>
+            <event start="T42" end="T43"> من الثمانية ونصف لساعتين ونصف وإلا من التسعة لماضي ثلاثة كيما صار في الثورة.</event>
+            <event start="T43" end="T44">خدمنا ولا باس.</event>
+            <event start="T44" end="T45">والخدامة فرحانين. والمواطنين فرحانين.</event>
+            <event start="T45" end="T46">[lan:FR, rondement] موجود.</event>
+            <event start="T46" end="T47"> والحكومة كبدلت الوقت شكون شاورت.</event>
+            <event start="T47" end="T48"> أحنا كمواطنين ما ما سمعناش.</event>
+            <event start="T48" end="T49"> وما في بالناش.</event>
+            <event start="T49" end="T50"> وما يجيش سبت وأحد نهارين راحة.</event>
+            <event start="T50" end="T51">يطيح الإقتصاد متاع البلاد.</event>
+        </tier>
+        <tier id="TIE9" speaker="Sp10" type="t" category="Default" display-name="Sp10">
+            <event start="T51" end="T52">musique</event>
+            <event start="T52" end="T53">بربي آنا موظفة.</event>
+            <event start="T53" end="T54"> بربي شنوَة ها الوقت اللي عملوه لنا الحكومة الجديدة.</event>
+            <event start="T54" end="T55"> توة هذا وقت بجاه ربي.</event>
+            <event start="T55" end="T56"> توة المرا وقتاش باش تروح.</event>
+            <event start="T56" end="T57"> وقتاش باش تطيب.</event>
+            <event start="T57" end="T58"> وقتاش باش تتلهى بصغ-.</event>
+            <event start="T58" end="T59"> يا خويا ما حاجتيش بنهار السبت.</event>
+            <event start="T59" end="T60"> يا خويا نحب كل يوم نروح نصف النهار.</event>
+            <event start="T60" end="T61"> يا خويا خدمونا لماضي ساعتين  لماضي ثلاثة.</event>
+            <event start="T61" end="T62">المهم العشية نبدا في داري.</event>
+        </tier>
+        <tier id="TIE10" speaker="Sp11" type="t" category="Default" display-name="Sp11">
+            <event start="T62" end="T63">musique</event>
+            <event start="T63" end="T64">والتوقيت هذاية هو باهي راهو لنهار السبت.</event>
+            <event start="T64" end="T65"> أما حاجة بركة [lan:FR, normalement] بين ل- الأول وماضي ساعتين عطاونا الوقت. ما عطوناش راحة ساعة ساعة.</event>
+            <event start="T65" end="T66">عطاونا أكثر شوية. باش يلقى الواحد الوقت يروح لصغارو. يشوفهم والكل.</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

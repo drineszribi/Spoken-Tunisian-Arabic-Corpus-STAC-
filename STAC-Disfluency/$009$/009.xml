@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>009</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="silences">
+                <abbreviation>silences</abbreviation>
+                <sex value="u" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="0.104505668934247" />
+            <tli id="T3" time="3.78450566893425" />
+            <tli id="T4" time="4.19250566893425" />
+            <tli id="T5" time="7.52850566893425" />
+            <tli id="T6" time="7.64050566893425" />
+            <tli id="T7" time="10.4245056689342" />
+            <tli id="T8" time="10.7685056689342" />
+            <tli id="T9" time="11.2005056689342" />
+            <tli id="T10" time="11.3205056689342" />
+            <tli id="T11" time="12.7205056689342" />
+            <tli id="T12" time="13.0405056689342" />
+            <tli id="T13" time="17.3365056689342" />
+            <tli id="T14" time="17.6485056689342" />
+            <tli id="T15" time="23.4325056689342" />
+            <tli id="T16" time="23.7205056689342" />
+            <tli id="T17" time="25.6885056689342" />
+            <tli id="T18" time="26.078218039666" />
+            <tli id="T19" time="31.5685056689342" />
+            <tli id="T20" time="31.9685056689342" />
+            <tli id="T21" time="39.0805056689343" />
+            <tli id="T22" time="39.4405056689343" />
+            <tli id="T23" time="42.1125056689342" />
+        </common-timeline>
+        <tier id="TIE0" speaker="silences" type="t" category="Default" display-name="silences">
+            <event start="T1" end="T2">musique</event>
+            <event start="T2" end="T3">مَرْحْبَا بِيكُمْ مِنْ جْدِيدْ  فِي هَذَا الَمَْوْعِدْ الَمُْبَاشِرْ مِنْ بَرْنَامَجْ الَمَْجَلَّة الصَّحِيَّة.</event>
+            <event start="T3" end="T4">(تنَفسْ)</event>
+            <event start="T4" end="T5">اِلْيُومْ مَوْضُوعْنَا الرَّئِيسِي فِي حَلْقِتْنَا مْتَاعْ الِيُومْ بَاشْ</event>
+            <event start="T5" end="T6">#</event>
+            <event start="T6" end="T7">يْكُونْ خَاصْ بِاِلْتِهَابْ السَحَايَا.</event>
+            <event start="T7" end="T8">(تنَفسْ)</event>
+            <event start="T8" end="T9">عِنْدَ</event>
+            <event start="T9" end="T10">#</event>
+            <event start="T10" end="T11">الأَطْفَالْ وخَاصَّةً عِنْد</event>
+            <event start="T11" end="T12">(تنَفسْ)</event>
+            <event start="T12" end="T13">الرُّضَّعْ. سَنَتَحَدَّثْ عَلَى آ÷ أَهَمّيَّة هَذَا الَمَْرْضْ. نَحْنُ نَتَحَدَّثْ كَذَلِكْ عَلَى</event>
+            <event start="T13" end="T14">(تنَفسْ)</event>
+            <event start="T14" end="T15">آ÷ آ÷ نِسْبِةْ إِنْتِشَارُو. أَيْضًا سَنَتَحَدَّثْ عَلَى أَهَمْ أَسْبَابُو. مَاهِي مُضَاعّْفَاتُو كَيْفِيَّة تَشْخِيصُو.</event>
+            <event start="T15" end="T16">(تنَفسْ)</event>
+            <event start="T16" end="T17">العِلَاجْ وَالُوِقَايَة</event>
+            <event start="T17" end="T18">(تنَفسْ)</event>
+            <event start="T18" end="T19">أَيْضًّا سَنَتَحَدَّثْ عَلَى بَعْضْ رُبَّمَا مُسْتَجَدَّاتْ فِيمَا يْخُصّْ الصِّحَّة. خِلَالْ هَذَا الأُسْبُوعْ</event>
+            <event start="T19" end="T20">(تنَفسْ)</event>
+            <event start="T20" end="T21">آ÷ نَبْدَا بْتَقْدِيمْ ضُيُوفِي اللِّي حَاضْرِينْ مْعَايَا. تَحْضِرْ مْعَانَا الأُسْتَاذَة والدُّكْتُورة آ÷ إم &lt;سِهَامْ آ÷ بَرْصَاوِي, شخ&gt;.  وَهْيَ رَئِيسِةْ قِسْمْ</event>
+            <event start="T21" end="T22">(تنَفسْ)</event>
+            <event start="T22" end="T23">أَمْرَاضْ الأَطْفَالْ بِمُسْتَشْفَى الأَطْفَالْ. مَرْحْبَا بِيكْ دُكْتُورَة.</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

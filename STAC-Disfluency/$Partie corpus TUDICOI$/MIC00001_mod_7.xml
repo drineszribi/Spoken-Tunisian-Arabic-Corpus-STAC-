@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>MIC00001_mod_7</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Clients">
+                <abbreviation>Clients</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="0.370052948291146" />
+            <tli id="T3" time="0.76607452453257" />
+            <tli id="T4" time="0.978020817842804" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Clients" type="t" category="Default" display-name="Clients">
+            <event start="T1" end="T2">*</event>
+            <event start="T2" end="T3">* مْتَاعْ</event>
+            <event start="T3" end="T4">التْرَانْ</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>005</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="spk1">
+                <abbreviation>spk1</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk2">
+                <abbreviation>spk2</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk3">
+                <abbreviation>spk3</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk4">
+                <abbreviation>spk4</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk5">
+                <abbreviation>spk5</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk6">
+                <abbreviation>spk6</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk7">
+                <abbreviation>spk7</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk8">
+                <abbreviation>spk8</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk9">
+                <abbreviation>spk9</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk10">
+                <abbreviation>spk10</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk11">
+                <abbreviation>spk11</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk12">
+                <abbreviation>spk12</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="spk13">
+                <abbreviation>spk13</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="1.41798185941043" />
+            <tli id="T3" time="4.15396825396825" />
+            <tli id="T4" time="7.13761904761905" />
+            <tli id="T5" time="10.6590249433107" />
+            <tli id="T6" time="12.1232981556043" />
+            <tli id="T7" time="15.054716553288" />
+            <tli id="T8" time="18.591" />
+            <tli id="T9" time="19.869" />
+            <tli id="T10" time="21.2191156462585" />
+            <tli id="T11" time="23.4573855589075" />
+            <tli id="T12" time="31.195" />
+            <tli id="T13" time="32.574" />
+            <tli id="T14" time="37.653" />
+            <tli id="T15" time="37.943" />
+            <tli id="T16" time="45.368" />
+            <tli id="T17" time="46.698" />
+            <tli id="T18" time="47.5830158730159" />
+            <tli id="T19" time="48.6870068027211" />
+            <tli id="T20" time="50.3526757369615" />
+            <tli id="T21" time="51.7941950113379" />
+            <tli id="T22" time="52.617641723356" />
+            <tli id="T23" time="58.719" />
+            <tli id="T24" time="58.991" />
+            <tli id="T25" time="60.5430385487528" />
+            <tli id="T26" time="62.6995464852608" />
+            <tli id="T27" time="66.1049407051777" />
+            <tli id="T28" time="70.899" />
+            <tli id="T29" time="72.734" />
+            <tli id="T30" time="74.7308901385801" />
+            <tli id="T31" time="76.8119954648526" />
+            <tli id="T32" time="79.067664399093" />
+            <tli id="T33" time="80.5375963718821" />
+            <tli id="T34" time="81.7683882909075" />
+            <tli id="T35" time="84.5187301587302" />
+            <tli id="T36" time="86.81" />
+            <tli id="T37" time="88.077" />
+            <tli id="T38" time="90.745" />
+            <tli id="T39" time="90.969" />
+            <tli id="T40" time="94.216" />
+            <tli id="T41" time="94.561" />
+            <tli id="T42" time="95.2336734693878" />
+            <tli id="T43" time="98.0298412698413" />
+            <tli id="T44" time="98.9909977324263" />
+            <tli id="T45" time="99.6074610157976" />
+            <tli id="T46" time="102.279501133787" />
+            <tli id="T47" time="104.373083900227" />
+            <tli id="T48" time="105.819274376417" />
+            <tli id="T49" time="108.349070294785" />
+            <tli id="T50" time="109.41248877831" />
+            <tli id="T51" time="110.604603174603" />
+            <tli id="T52" time="111.601496598639" />
+            <tli id="T53" time="113.867" />
+            <tli id="T54" time="115.134" />
+            <tli id="T55" time="116.207120181406" />
+            <tli id="T56" time="120.315986394558" />
+            <tli id="T57" time="122.850090702948" />
+            <tli id="T58" time="124.3311261544" />
+            <tli id="T59" time="125.785369315029" />
+            <tli id="T60" time="127.137755102041" />
+            <tli id="T61" time="128.285" />
+            <tli id="T62" time="129.57" />
+            <tli id="T63" time="130.559297052154" />
+            <tli id="T64" time="135.457755102041" />
+            <tli id="T65" time="138.986" />
+            <tli id="T66" time="139.273" />
+            <tli id="T67" time="140.916954528063" />
+            <tli id="T68" time="141.851825131324" />
+            <tli id="T69" time="143.826" />
+            <tli id="T70" time="145.623" />
+            <tli id="T71" time="155.438" />
+            <tli id="T72" time="156.711" />
+            <tli id="T73" time="160.906" />
+            <tli id="T74" time="161.182" />
+            <tli id="T75" time="162.359" />
+            <tli id="T76" time="162.556" />
+            <tli id="T77" time="163.166" />
+            <tli id="T78" time="163.483" />
+            <tli id="T79" time="164.841" />
+            <tli id="T80" time="165.194" />
+            <tli id="T81" time="168.212" />
+            <tli id="T82" time="169.476" />
+            <tli id="T83" time="173.842" />
+            <tli id="T84" time="174.177" />
+            <tli id="T85" time="174.837" />
+            <tli id="T86" time="175.256" />
+            <tli id="T87" time="177.542" />
+            <tli id="T88" time="178.001" />
+            <tli id="T89" time="186.497" />
+            <tli id="T90" time="187.858" />
+            <tli id="T91" time="196.281" />
+            <tli id="T92" time="197.604" />
+            <tli id="T93" time="204.136" />
+        </common-timeline>
+        <tier id="TIE0" speaker="spk1" type="t" category="Default" display-name="spk1">
+            <event start="T1" end="T2">ألُو عَالسْلَامَة [lan:FR, mosaique].</event>
+            <event start="T2" end="T3">آنَا مُسْتَمْعَة وَفِيَّة لِمُوزَايِيك.</event>
+            <event start="T3" end="T4">بِالله الْمَرَّة هَذِيَة نْحِبْ نْوَجِّهْ آ÷ كِلْمَة لفُورُومْ.</event>
+            <event start="T4" end="T5">بْرَبِّي اعْمْلُوا  لْنَا بَرْنَامِجْ عَلَى الصَّنْدُوقْ القَوْمِي لِلْضَّمَانْ الَاجْتِمَاعِي.</event>
+            <event start="T5" end="T6">كِيفَاشْ تْعَمْلِتْ قَوَانِينُو.</event>
+            <event start="T6" end="T7">آشْ بِيهَا اِلْمَنْظُومَة هَذِيكَة مْتَاعْ الِكْنَامْ  مَا نِجْحِتْشْ فِي الخَارِجْ.</event>
+            <event start="T7" end="T8">&lt;وتُونِسْ, مك&gt; لَهْنَا نِتْعَارْكُوا أَحْنَا وَيَّاهَا. يجِيبُوا مَسْؤُولِينْ بْرَبِّي يفَهْمُونَا.</event>
+            <event start="T8" end="T9">(موسِيقى) </event>
+        </tier>
+        <tier id="TIE1" speaker="spk2" type="t" category="Default" display-name="spk2">
+            <event start="T9" end="T10">بْرَبِّي يَا صَنْدُوقْ عْجَب.</event>
+            <event start="T10" end="T11">آنَا طْبِيبْ مِنْ مُسْتَشْفَى اِلْمَحَلِّي &lt;بِتَّضَامُنْ, مك&gt;.</event>
+            <event start="T11" end="T12">رَانَا قَاعْدِينْ نِخْدْمُوا فِي وُسْطْ الزِّبْلَة مْتَاعْ الْمُوَاطِنِينْ. اِلْكُلْهُمْ قُدَّامْ القِسْمْ الَاسْتَعْجَالِي وْدَايْرَة بِالْمُسْتَشْفَى. رَاهِي مُؤَسَّسَة صَحِّيَّة يْعَيَّشْكُمْ.</event>
+            <event start="T12" end="T13">(موسِيقى)</event>
+        </tier>
+        <tier id="TIE2" speaker="spk3" type="t" category="Default" display-name="spk3">
+            <event start="T13" end="T14">بْرَبِّي آنَا مُوَاطْنَة صْفَاقْسِيَّة. مِالِّلِي بَدْلُوا اِلْمُنَاوْلَة وَلَّاتْ كُلْ سِتَّة شْهُرْ</event>
+            <event start="T15" end="T16">بَاشْ يُخْلِصْ. كِيِتْرَسْمُوا يْوَلِّي سِتَّة شْهُرْ بَاشْ يْخَلِّصْ. سِتَّة شْهُرْ يَاخِي الَعْبَادْ مَا عَنْدْهَاشْ كْرَا. مَا عَنْدْهَاشْ مَاء. مَا عَنْدْهَاشْ ضَوْ.</event>
+            <event start="T16" end="T17">(موسِيقى)</event>
+        </tier>
+        <tier id="TIE3" speaker="spk4" type="t" category="Default" display-name="spk4">
+            <event start="T17" end="T18">عَالسْلَامَة [lan:FR, mosaique].</event>
+            <event start="T18" end="T19">بْرَبِّي آ÷ سَامْحُونِي.</event>
+            <event start="T19" end="T20">يَاخِي اللِّي يُنْقْدُوا آ÷ &lt;أَمِينْ, شخ&gt;</event>
+            <event start="T20" end="T21">تْعَدِّيْوْهُمْ مَا يسَالِشْ.</event>
+            <event start="T21" end="T22">وِاللِّي يِنْقْدُوا [وِصَالْ, شخ]</event>
+            <event start="T22" end="T23">مَا تْعَدِّيْوْهُمْش. أَحْنَا [وِصَالْ, شخ] قَاعْدِينْ نُنْقْدُوا فِيهَا. بَرْشَة حَاجَاتْ مَاهْيَاشْ عاَجْبِتْنَا. عَنْدْهَا مُيُولَاتْ خَاصَّة مْتَاعْهَا.</event>
+            <event start="T24" end="T25">.مَا تْحَاوِلْشْ تُفْرِضْهُمْ فِي بَرْنَامِجْ</event>
+            <event start="T25" end="T26">جِبْدِتْ عَلَى النِّقَابْ. قُلْنَا مُوشْ مُشْكِلْ.</event>
+            <event start="T26" end="T27">جِبْدِتْ البَارِحْ وَلَا أوْلِتْ البَارِحْ تَحْكِي عَلَى مَوْضُوعْ الحُرِّيَّاتْ اِلْفَرْدِيَّة.</event>
+            <event start="T27" end="T28"> مُيُولَاتِكْ خَلِّيهُمْ عَلَى شِيرَة. مَاهُو اِعْلَامْ مُحَايِدْ هُوَ وَلَا لَا. كُلْ حَدْ حُرْ كِيفَاشْ يِتْصَرِّفْ.</event>
+            <event start="T28" end="T29">(موسِيقى)</event>
+        </tier>
+        <tier id="TIE4" speaker="spk5" type="t" category="Default" display-name="spk5">
+            <event start="T29" end="T30">ألُو عَالسْلَامَة بْرَبِّي آنَا مُوَاطْنَة. </event>
+            <event start="T30" end="T31">رَانَا نْعَانِيُو. نِسْكْنُوا فِي الاَسْوَاقْ.</event>
+            <event start="T31" end="T32">مُوشْ مَعْقُولْ هَذَا. وَاحِدْ يْرَوِّحْ مِالخِدْمَة.</event>
+            <event start="T32" end="T33">الثْمَنْيَة وُنُصْفْ مْتَاعْ اللِّيلْ.</event>
+            <event start="T33" end="T34">وُمِدْ يِدِّكْ مَا تْرَاهَا.</event>
+            <event start="T34" end="T35">ظّْلَامْ فِيسَعْ. مَا قَالِشْ بِيهْ رَبِّي هَكَّايَه.</event>
+            <event start="T35" end="T36">وأَحْنَا صْغَارْ يْرَوْحُوا مِالْمَكْتِبْ وَاحِدْ وِالكُلْ.</event>
+            <event start="T36" end="T37">(موسِيقى)</event>
+        </tier>
+        <tier id="TIE5" speaker="spk6" type="t" category="Default" display-name="spk6">
+            <event start="T37" end="T38">نَحْنَا نْشُوفُوا مَعْنَاهَا الغْلَا اللِّي مَوْجُودْ فِي البْلَادْ تَوَّة. شِيْ غْرِيبْ.</event>
+            <event start="T39" end="T40">مَرَّة السِّلْقْ غَالِي. مَرَّة هِي الطّمَاطِمْ غَالْيَة. مَرَّة هَاوْ الْبْصَلْ غَالِي.</event>
+            <event start="T41" end="T42">و- و- و-</event>
+            <event start="T42" end="T43">سِوَاءْ مَعْنَاهَا فِي الخُضْرَة وَإلَا فِي الغَلَّة وَإلَا فِي اِلْمَوَادْ الغِذَائِيَّة عَامَّةً.</event>
+            <event start="T43" end="T44">هَذِيَة الْمُلَاحْظَة الاُولَى.</event>
+            <event start="T44" end="T45">الْمُلَاحْظَة الثَّانِيَة.</event>
+            <event start="T45" end="T46">نْحِبْ نْقُولْهَا فِي مَا يْخُصْ البَرْنَامِجْ مْتَاعْ جِيهَانْ عَالصّْبَاحْ.</event>
+            <event start="T46" end="T47">ثَمَّة هَاكَه الرُّكْنْ مْتَاعْ [lan:FR, bébé à bord].</event>
+            <event start="T47" end="T48">سْمَعْتْ عَلَى غَفْلَة [lan:FR, dernièrement].</event>
+            <event start="T48" end="T49">ثَمَّة هَاكِي الطّبِيبَة النَّفْسِيَّة اللِّي جَاتْ تَحْكِي عَلَى الصّْغِيرْ.</event>
+            <event start="T49" end="T50">مَا يِلْزْمِكْشْ تُضْرْبُو.</event>
+            <event start="T50" end="T51">حَاجَاتْ مَعْنَاهَا رَوْعَة.</event>
+            <event start="T51" end="T52">أَكْثِرْ مِنْ رَوْعَة.</event>
+            <event start="T52" end="T53">هَذِيَة ثَقَافَةَ كَامْلَة. الُوَاحِدْ يْعِيشْ وُيِتْعَلِّمْ.</event>
+            <event start="T53" end="T54">(موسِيقى)</event>
+        </tier>
+        <tier id="TIE6" speaker="spk7" type="t" category="Default" display-name="spk7">
+            <event start="T54" end="T55">بْرَبِّي نْحِبْ نِسْأِلْ سُؤَال</event>
+            <event start="T55" end="T56">اللِّي خْذَاوْ الشّْهَايِدْ وِتْخَرّجُوا وُيِخْدْمُوا وِالبَطَّالَة يَاخْذُوا فِي مِيتِينْ دِينَارْ.</event>
+            <event start="T56" end="T57">واللِّي جَاتْهُمْ ظُروُف بْرِبِّي. وِاللِّي مَا نِجْحُوشْ.</event>
+            <event start="T57" end="T58">وِاللِّي مَا مَا كَمْلُوشْ فِي اِلْفَاكْ.</event>
+            <event start="T58" end="T59"> مَا عَنْدْهُمْشْ الحَقّْ بَاشْ يْعِيشُوا.</event>
+            <event start="T59" end="T60">مَا عَنْدْهُمْشْ الحَقْ بَاشْ يِخْدْمُوا.</event>
+            <event start="T60" end="T61">بْصَرَاحَة شُوفُوا لْنَا حَلْ.</event>
+            <event start="T61" end="T62">(موسِيقى)</event>
+        </tier>
+        <tier id="TIE7" speaker="spk8" type="t" category="Default" display-name="spk8">
+            <event start="T62" end="T63">بِالله يَا [lan:FR, mosaique].</event>
+            <event start="T63" end="T64">تْلُومُوا عَالَعْبَادْ اللِّي  مَا يَا- قُلْتُوا عْلِيَهُمْ مُوشْ فَاهْمِينْ الحُرِيَّة وَلَّا مَا نَعْرَفشْ شْنِيَّة.</event>
+            <event start="T64" end="T65">كَانْ سِي &lt;هَيْثَمْ اِلْمَكِّي, شخ&gt; تَوَّة قَاعِدْ يْجْبِدْ فِي الاَشْخَاصْ. وُيِتْمَقْعِرْ عْلِيهَا.</event>
+            <event start="T66" end="T67">رَاهُو مُوشْ مَعْقُولْ. وَالله مُوشْ مَعْقُولْ.</event>
+            <event start="T67" end="T68">[lan:FR, logique] وُمُوشْ جُمْلَة.</event>
+            <event start="T68" end="T69">مُوشْ هَذِي رَاهِي الحُرّيّة يَا &lt;هَيْثَمْ, شخ&gt; يَا &lt;مَكِّي, شخ&gt;.</event>
+        </tier>
+        <tier id="TIE8" speaker="spk9" type="t" category="Default" display-name="spk9">
+            <event start="T69" end="T70">(موسِيقى)</event>
+            <event start="T70" end="T71">حُطُّوا لْنَا شْوَيَّة عَرْبِي شْوَيَّة تُونْسِي. يَا غَلْبَة .آنَا تُونْسِيَّة وُعِبْدُونَا بِالغْنَا ال- ال- اِلْفْرَنْسَاوِي كُلْ يُومْ نِسْمْعُوا كَانْ طِبْ÷ طِبْ÷ طِبْ÷ طِبْ÷.</event>
+        </tier>
+        <tier id="TIE9" speaker="spk10" type="t" category="Default" display-name="spk10">
+            <event start="T71" end="T72">(موسِيقى)</event>
+            <event start="T72" end="T73">نِدَاءْ لِسَيِّدْ وَزِيرْ التَّرْبِيَة. هَل يُعْقِل التَّلَامْذَة عَلَى اَبْوَابْ نِهَايَة السَّنَة</event>
+            <event start="T74" end="T75">آ÷ آ÷ الثَّلَاثِيَّة</event>
+            <event start="T76" end="T77">الاُولَى</event>
+            <event start="T78" end="T79">وُهُومَا بْلَاشِ اَسَاتْذَة</event>
+            <event start="T80" end="T81">وِالسَّنَة اِلْمُقْبْلَة مُقْدْمِينْ عَلَى اِجْتِيَاز اِمْتِحَانْ البَكَالُورْيَا.</event>
+        </tier>
+        <tier id="TIE10" speaker="spk11" type="t" category="Default" display-name="spk11">
+            <event start="T81" end="T82">(موسِيقى)</event>
+            <event start="T82" end="T83">ألُو يَا صَنْدوُقْ عْجَبْ. بْجَاهْ رَبِّي يَا [lan:FR, mosaique] اسْمْعُونِي حَتَّى مَرَّة.</event>
+            <event start="T84" end="T85">فِي حْيَاتِي</event>
+            <event start="T85" end="T86">(تنفس)</event>
+            <event start="T86" end="T87">نْحِبْ نْ- نِسْمَّعْ صُوتِي. رَانِي تْقْهَرْتْ.</event>
+            <event start="T88" end="T89">رَاهُو الاَكْشَاكْ عَلَى طْرِيقْ ال- آ÷ &lt;فُوشَانَة, مك&gt; عَلَى طْرِيقْ &lt;السِّيجُومِي, مك&gt;. الُوَاحِدْ بْجَنْبْ وَاحِدْ. وُزَايِدْ جَابْدِينْ الضَّوْ مِنْ اِلْفُوقْ. بْرَبِّي شُوفُوا لْنَا حَلْ. شُوفُوا لْنَا حَلْ.</event>
+        </tier>
+        <tier id="TIE11" speaker="spk12" type="t" category="Default" display-name="spk12">
+            <event start="T89" end="T90">(موسِيقى)</event>
+            <event start="T90" end="T91">بِالله يَا بَلَدِيَّة &lt;حَمَّامْ لَنْفْ, مك&gt;. شُوفُوا لْنَا حَلْ فِي &lt;حَيّْ مُحَمِّدْ عْلِيّ, مك&gt;. عَلى الاَقَلْ اِيجَاوْ نَظْفُوا لْنَا الْكَايَّاسْ. مُوشْ مِالتّْرَابْ لِطَّبْعَة لِلْغَبْرَة.</event>
+            <event start="T91" end="T92">(موسِيقى)</event>
+        </tier>
+        <tier id="TIE12" speaker="spk13" type="t" category="Default" display-name="spk13">
+            <event start="T92" end="T93">ألُو صْبَاحْ الخِيرْ آ÷ بْرَبِّي آنَا نْحِبّْ نْقُولْ لجِيهَانْ سْمَّعْنَا شْوَيَّة &lt;نَجَاة, شخ&gt; بْرَبِّي [lan:FR,  s'il vous plait] شْوَيَّة  &lt;نَجَاة الصَّغِيرَة, شخ&gt; [lan:FR,  merci].</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

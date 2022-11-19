@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>MIC00001_mod_26</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Agent de la SNCFT">
+                <abbreviation>Agent de la SNCFT</abbreviation>
+                <sex value="m" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Clients">
+                <abbreviation>Clients</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="0.55094846104771" />
+            <tli id="T3" time="0.907149807858218" />
+            <tli id="T4" time="1.87200000000007" />
+            <tli id="T5" time="2.096" />
+            <tli id="T6" time="2.45398713798875" />
+            <tli id="T7" time="2.88274801840873" />
+            <tli id="T8" time="3.14400000000001" />
+            <tli id="T9" time="3.83261827656997" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Agent de la SNCFT" type="t" category="Default" display-name="Agent de la SNCFT">
+            <event start="T1" end="T2">مَرْحبَا</event>
+            <event start="T2" end="T3">أيَّا تْفَضَّلْ</event>
+            <event start="T4" end="T5">#</event>
+            <event start="T5" end="T6">أه</event>
+            <event start="T6" end="T7">#</event>
+            <event start="T7" end="T8">زُوزْ</event>
+        </tier>
+        <tier id="TIE1" speaker="Clients" type="t" category="Default" display-name="Clients">
+            <event start="T3" end="T4">زُوزْ &lt;بِيرْ بُورَقْبَة, مك&gt;</event>
+            <event start="T4" end="T5">#</event>
+            <event start="T6" end="T7">#</event>
+            <event start="T8" end="T9">&lt;بِيرْ بُورِقُبَة, مك&gt;</event>
+        </tier>
+    </basic-body>
+</basic-transcription>

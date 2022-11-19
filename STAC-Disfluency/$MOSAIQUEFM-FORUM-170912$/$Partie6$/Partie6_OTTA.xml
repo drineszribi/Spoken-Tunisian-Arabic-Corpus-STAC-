@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name />
+            <transcription-name>Partie6_OTTA</transcription-name>
+            <referenced-file url="">
+            </referenced-file>
+            <ud-meta-information>
+                <ud-information attribute-name="source" />
+            </ud-meta-information>
+            <comment />
+            <transcription-convention />
+        </meta-information>
+        <speakertable>
+            <speaker id="Wissal">
+                <abbreviation>Wissal</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+            <speaker id="Inès">
+                <abbreviation>Inès</abbreviation>
+                <sex value="f" />
+                <languages-used />
+                <l1 />
+                <l2 />
+                <ud-speaker-information />
+                <comment />
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T1" time="0" />
+            <tli id="T2" time="0.987141723356004" />
+            <tli id="T3" time="1.73879705215419" />
+            <tli id="T4" time="3.84793537414965" />
+            <tli id="T5" time="4.92716439909297" />
+            <tli id="T6" time="5.51988548752834" />
+            <tli id="T7" time="6.49854761904761" />
+            <tli id="T8" time="7.18176757369614" />
+            <tli id="T9" time="8.63217573696145" />
+            <tli id="T10" time="12.8578446712018" />
+            <tli id="T11" time="18.5104297052154" />
+            <tli id="T12" time="24.7511099773243" />
+            <tli id="T13" time="26.4478446712018" />
+            <tli id="T14" time="26.7981621315193" />
+            <tli id="T15" time="32.970066893424" />
+            <tli id="T16" time="33.7978446712018" />
+            <tli id="T17" time="39.9997933603782" />
+            <tli id="T18" time="40.5739217687075" />
+            <tli id="T19" time="44.3452289553245" />
+            <tli id="T20" time="44.8694092970522" />
+            <tli id="T21" time="46.5957358276644" />
+            <tli id="T22" time="47.1719036281179" />
+            <tli id="T23" time="47.6692133329574" />
+            <tli id="T24" time="51.8093866213152" />
+            <tli id="T25" time="52.1036496598639" />
+            <tli id="T26" time="56.8596587301587" />
+            <tli id="T27" time="57.3245566893424" />
+            <tli id="T28" time="57.8252823129252" />
+            <tli id="T29" time="60.7930827664399" />
+            <tli id="T30" time="61.7795453514739" />
+            <tli id="T31" time="65.9451916099773" />
+            <tli id="T32" time="66.5252369614512" />
+            <tli id="T33" time="66.8926292517007" />
+            <tli id="T34" time="71.8299593924849" />
+            <tli id="T35" time="72.3421530612245" />
+            <tli id="T36" time="75.3883888888889" />
+            <tli id="T37" time="76.2719489795918" />
+            <tli id="T38" time="79.1722437641723" />
+            <tli id="T39" time="80.5270110284451" />
+            <tli id="T40" time="80.8905718197487" />
+            <tli id="T41" time="85.1234581756406" />
+            <tli id="T42" time="85.5908934787452" />
+            <tli id="T43" time="86.5111553287982" />
+            <tli id="T44" time="86.8455317460317" />
+            <tli id="T45" time="87.4275272108844" />
+            <tli id="T46" time="88.2913191736233" />
+            <tli id="T47" time="88.5120525112004" />
+            <tli id="T48" time="91.1528292552528" />
+            <tli id="T49" time="91.5683273024569" />
+            <tli id="T50" time="93.6588018524526" />
+            <tli id="T51" time="94.0742998996567" />
+            <tli id="T52" time="96.6423571428571" />
+            <tli id="T53" time="97.0142392290249" />
+            <tli id="T54" time="97.7168696145125" />
+            <tli id="T55" time="103.493286848073" />
+            <tli id="T56" time="104.10315132135" />
+            <tli id="T57" time="106.645304988662" />
+            <tli id="T58" time="106.933731767928" />
+            <tli id="T59" time="107.347368480726" />
+            <tli id="T60" time="110.515078231293" />
+            <tli id="T61" time="110.879001133787" />
+            <tli id="T62" time="114.037844671202" />
+            <tli id="T63" time="114.495563534347" />
+            <tli id="T64" time="114.885092953601" />
+            <tli id="T65" time="117.170951247166" />
+            <tli id="T66" time="117.574716706827" />
+            <tli id="T67" time="118.029167695957" />
+            <tli id="T68" time="120.79875170068" />
+            <tli id="T69" time="121.230089569161" />
+            <tli id="T70" time="121.663867833561" />
+            <tli id="T71" time="122.053397252815" />
+            <tli id="T72" time="126.427753968254" />
+            <tli id="T73" time="127.225962585034" />
+            <tli id="T74" time="127.639930839002" />
+            <tli id="T75" time="128.052150309324" />
+            <tli id="T76" time="130.730407029478" />
+            <tli id="T77" time="131.132425170068" />
+            <tli id="T78" time="132.261314058957" />
+            <tli id="T79" time="133.253944444444" />
+            <tli id="T80" time="133.68734257453" />
+            <tli id="T81" time="137.950847052496" />
+            <tli id="T82" time="138.327392157775" />
+            <tli id="T83" time="140.586662789447" />
+            <tli id="T84" time="140.859333382925" />
+            <tli id="T85" time="143.225486394558" />
+            <tli id="T86" time="143.572515873016" />
+            <tli id="T87" time="143.821382086168" />
+            <tli id="T88" time="146.05802000587" />
+            <tli id="T89" time="146.5644082509" />
+            <tli id="T90" time="151.327663265306" />
+            <tli id="T91" time="153.964851473923" />
+            <tli id="T92" time="154.849477324263" />
+            <tli id="T93" time="158.145531746032" />
+            <tli id="T94" time="159.160497732426" />
+            <tli id="T95" time="161.375824628553" />
+            <tli id="T96" time="161.804306989732" />
+            <tli id="T97" time="164.634575256328" />
+            <tli id="T98" time="164.976733560091" />
+            <tli id="T99" time="165.439602722786" />
+            <tli id="T100" time="166.497821995465" />
+            <tli id="T101" time="167.372674603175" />
+            <tli id="T102" time="167.634692743764" />
+            <tli id="T103" time="168.743785714286" />
+            <tli id="T104" time="173.038856578157" />
+            <tli id="T105" time="173.350480113561" />
+            <tli id="T106" time="173.843884044615" />
+            <tli id="T107" time="174.100015519609" />
+            <tli id="T108" time="174.385670427022" />
+            <tli id="T109" time="176.609542921318" />
+            <tli id="T110" time="177.025040968522" />
+            <tli id="T111" time="180.370883219955" />
+            <tli id="T112" time="181.330452380952" />
+            <tli id="T113" time="182.218479591837" />
+            <tli id="T114" time="182.581926303855" />
+            <tli id="T115" time="183.145191609977" />
+            <tli id="T116" time="188.642447200398" />
+            <tli id="T117" time="189.083913874034" />
+            <tli id="T118" time="189.658806391684" />
+            <tli id="T119" time="190.320089569161" />
+            <tli id="T120" time="191.099363945578" />
+            <tli id="T121" time="192.304023728792" />
+            <tli id="T122" time="194.123386358416" />
+            <tli id="T123" time="194.320724489796" />
+            <tli id="T124" time="197.942333333333" />
+        </common-timeline>
+        <tier id="TIE0" speaker="Wissal" type="t" category="v" display-name="Wissal">
+            <event start="T1" end="T2">[ايناس, شخ]</event>
+            <event start="T3" end="T4">[lan:FR, oui] مرحبا بيك [ايناس, شخ] انتي زادة ولية</event>
+            <event start="T6" end="T7">منين تكلم فينا [ايناس, شخ]</event>
+            <event start="T7" end="T8">#</event>
+            <event start="T9" end="T10">مرحبا بيك آ÷ آ÷ الرؤية في بعض المدارس والمعاهد في [تونس, مك]  </event>
+            <event start="T10" end="T11">غير واضحة وهذية مالنهار الاول معناتها من اليوم الاول من العودة المدرسية شنوة رايك </event>
+            <event start="T11" end="T12">كولية  وشنوة زادة ممكن الاشكلات اللي عرضوك اليوم في </event>
+            <event start="T12" end="T13">النهار الاولاني متاع [lan:FR, rentrée]</event>
+            <event start="T13" end="T14">#</event>
+            <event start="T19" end="T20">اهه</event>
+            <event start="T21" end="T22">اهه</event>
+            <event start="T24" end="T25">اهه</event>
+            <event start="T26" end="T27">واضح</event>
+            <event start="T32" end="T33">اهه</event>
+            <event start="T34" end="T35">واضح</event>
+            <event start="T36" end="T37">اهه</event>
+            <event start="T39" end="T40">اهه</event>
+            <event start="T41" end="T42">واضح</event>
+            <event start="T43" end="T44">اهه</event>
+            <event start="T52" end="T53">واضح</event>
+            <event start="T58" end="T59">اهه</event>
+            <event start="T60" end="T61">واضح</event>
+            <event start="T62" end="T63">واضح </event>
+            <event start="T65" end="T66">اهه</event>
+            <event start="T68" end="T69">واضح</event>
+            <event start="T70" end="T71">اهه</event>
+            <event start="T72" end="T73">واضح</event>
+            <event start="T73" end="T74">واضح</event>
+            <event start="T76" end="T77">اهه</event>
+            <event start="T79" end="T80">اهه</event>
+            <event start="T86" end="T87">اهه</event>
+            <event start="T92" end="T93">امم معناتها حتى معلم معلم مؤقت معناتها </event>
+            <event start="T93" end="T94">كان نجموا نقولوا</event>
+            <event start="T97" end="T98">اهه</event>
+            <event start="T101" end="T102">اهه</event>
+            <event start="T107" end="T108">اهه</event>
+            <event start="T113" end="T114">اهه</event>
+            <event start="T116" end="T117">اهه</event>
+            <event start="T117" end="T118">واضح</event>
+            <event start="T119" end="T120">واضح [ايناس, شخ[</event>
+            <event start="T122" end="T124">واضح الصورة آ÷ آ÷ واضح شكرا ليك [ايناس ,شخ]</event>
+        </tier>
+        <tier id="TIE1" speaker="Inès" type="t" category="v" display-name="Inès">
+            <event start="T2" end="T3">الو [lan:FR, oui]</event>
+            <event start="T4" end="T5">#</event>
+            <event start="T5" end="T6">اييه</event>
+            <event start="T8" end="T9">انا من حي [غزالة, مك]</event>
+            <event start="T14" end="T15">والله آنا كنت توة نسمع فيكم آنا كروحت من المكتب  نحساب احنا بركة لهنا اليوم رينا الشي هذايه</event>
+            <event start="T15" end="T16">#</event>
+            <event start="T16" end="T17">ياخي بالزهر نسمع في ال-  [lan:FR, sujet] [lan:FR, w suivant] اللي تكلموا الكل  احنا بيدنا اليوم مشينا</event>
+            <event start="T17" end="T18">#</event>
+            <event start="T18" end="T19">نلقاو [lan:FR, apparemment] المدير ت- آ÷ خذا [lan:FR, des decisions]</event>
+            <event start="T20" end="T21">[lan:FR, meme pas] شاور فيهم المعلمين</event>
+            <event start="T22" end="T23">#</event>
+            <event start="T23" end="T24">خذا * احنا مستانسين ماللي تحط ولدك سنة اولى</event>
+            <event start="T25" end="T26">القسم هذاكه الكل يتعدى [lan:FR, 2eme année 3eme année] فهمت يطلع  [lan:FR, el classe] كامل </event>
+            <event start="T27" end="T28">#</event>
+            <event start="T28" end="T29">معناها حتى آنا نخمم [lan:FR, psychologie] متاع الصغير</event>
+            <event start="T29" end="T30">#</event>
+            <event start="T30" end="T31">ماشي آنا ولدي الايامات الاخرة يقول لي وقتاش توفى السلاعة باش نمشي لصحابي</event>
+            <event start="T31" end="T32">#</event>
+            <event start="T33" end="T34">فهمت معناها  [lan:FR, déjà] ماشي باش يقابل هاك  [lan:FR, trentaine] اللي مستانس بيهم هو</event>
+            <event start="T35" end="T36">نلقاو احنا اللي هو شد الاقسام الكل</event>
+            <event start="T37" end="T38">آ÷ دخلهم معناها هاز زوز من هنا حاطهم غادي</event>
+            <event start="T38" end="T39">آ÷ معناها القسم</event>
+            <event start="T40" end="T41">[lan:FR, trente éleves] قسموا [lan:FR, par cinq par trois par quatre] ما نعرفش كيفاه</event>
+            <event start="T41" end="T42">على</event>
+            <event start="T42" end="T43">كل الاقسام</event>
+            <event start="T44" end="T45">#</event>
+            <event start="T45" end="T46">المعلمين</event>
+            <event start="T46" end="T47">#</event>
+            <event start="T47" end="T48">قال هو [lan:FR, apparemment] المعلمين طلبوا هذاكه</event>
+            <event start="T48" end="T49">#</event>
+            <event start="T49" end="T50">باهي هذي اشكالية ما هياش كبيرة اما</event>
+            <event start="T50" end="T51">#</event>
+            <event start="T51" end="T52">كبيرة بالنسبة لينا احنا الاولياء خاطر صغارنا تصدموا</event>
+            <event start="T53" end="T54">#</event>
+            <event start="T54" end="T55">جا هو كنا ك- [lan:FR, apparemment les classes]  معناها [lan:FR, troisième année] يبداو ثمة  [lan:FR, cinq six]</event>
+            <event start="T55" end="T56">#</event>
+            <event start="T56" end="T57">ثمة [lan:FR, trois] يدخلوا الصباح [lan:FR, w trois] يدخلوا العشية</event>
+            <event start="T59" end="T60">باش المعلمين بيدهم ياقى عندو وقت باش يقري هنا وهنا</event>
+            <event start="T61" end="T62">جا هو حط [lan:FR, les classes premiére année] كل يدخلوا مثلا الثمنية</event>
+            <event start="T63" end="T64">#</event>
+            <event start="T64" end="T65"> [lan:FR, les quatriéme année] الكل يدخلوا الماضي ساعة</event>
+            <event start="T66" end="T67">#</event>
+            <event start="T67" end="T68">احنا دخلنا اليوم نلقاو المعلمين خايضين</event>
+            <event start="T69" end="T70">في الساحة</event>
+            <event start="T71" end="T72">ال- [lan:FR, déjà] هوما يتعاركوا مع المدير خاطر ما خذاش رايهم</event>
+            <event start="T72" end="T73">في [lan:FR, décision]</event>
+            <event start="T74" end="T75">#</event>
+            <event start="T75" end="T76">احنا مديرنا كتاقف انتي ولية باش تحكي معاه</event>
+            <event start="T77" end="T78">ما يسمعكش ما يكلمكش</event>
+            <event start="T78" end="T79">#</event>
+            <event start="T79" end="T80">عندو</event>
+            <event start="T80" end="T81">[lan:FR, une façon de parler] ما ما ما تنجمش حتى باش تسألو ساعات على حاجة متاع ولدك</event>
+            <event start="T81" end="T82">#</event>
+            <event start="T82" end="T83">ما يكلمكش ما يحكيش معك اصلا</event>
+            <event start="T83" end="T84">#</event>
+            <event start="T84" end="T85">طلع كيف كيف حتى مع المعلمين كيف كيف</event>
+            <event start="T85" end="T86">#</event>
+            <event start="T86" end="T88">اليوم المعلمين تفاجئنا اللي حتى</event>
+            <event start="T88" end="T89">#</event>
+            <event start="T89" end="T90">[lan:FR, el fourniture] قال لهم ما نجمش نعطيكم انا [lan:FR, les couleurs] متاع [lan:FR, les protèges cahiers]  </event>
+            <event start="T90" end="T91">خاطر انا ما نضمنش باش نقعد نقريكم ولا</event>
+            <event start="T91" end="T92"> #</event>
+            <event start="T93" end="T94">معلم</event>
+            <event start="T94" end="T95"> صحيت مؤقت حتى في المعلمين</event>
+            <event start="T95" end="T96">#</event>
+            <event start="T96" end="T97">جا معلمين متاع نعرفوهم احنا سنة اولى</event>
+            <event start="T98" end="T99"> #</event>
+            <event start="T99" end="T100">جا عطى سنة رابعة</event>
+            <event start="T100" end="T101">#</event>
+            <event start="T102" end="T103"> #</event>
+            <event start="T103" end="T104">معناها [lan:FR, des collègues] معاه في المدرسة جاونا اليوم قالوا لنا ما تسكتوش على حق اولادهم</event>
+            <event start="T104" end="T105">#</event>
+            <event start="T105" end="T106">تكلموا</event>
+            <event start="T106" end="T107">#</event>
+            <event start="T108" end="T109">خاطر معلم هاو باش يخرج [lan:FR, retraite] السنة</event>
+            <event start="T109" end="T110">#</event>
+            <event start="T110" end="T111">مجاملة منو ولا م- م- اصحاب هو وياهولا ما نعرفش</event>
+            <event start="T111" end="T112">يكمل سنة رابعة</event>
+            <event start="T112" end="T113">#  </event>
+            <event start="T114" end="T115">#  </event>
+            <event start="T115" end="T116">معلمة  متاع سنة اولى حاططها قال لها عامن اول [lan:FR, provisoire] قري لي سنة اولى هي تقري ثالثة وخامسة  </event>
+            <event start="T118" end="T120">وعدها السنة باش تق-</event>
+            <event start="T120" end="T121">سنة ثالثة هزت روحها وروحت</event>
+            <event start="T121" end="T123">خلات التلامذة قالت لو ما نقريش سنة اولى</event>
+        </tier>
+    </basic-body>
+</basic-transcription>
